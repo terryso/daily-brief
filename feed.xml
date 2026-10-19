@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 上调 Grow 和 Advanced 套餐价格</title><link>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+这次是单纯涨价，不带任何新功能：老用户在 10 月 15 日之后的下一个账单日直接按新价扣费。月付转年付一年最多能省 1200 美元，[去 Settings → Plan 查一下账单日](https://commonthreadco.com/blogs/coachs-corner/shopify-plan-price-increase-october-2026-ecommerce)，赶在扣费前定。
+</description></item>
+<item><title>MiniMax 发布 M3.1 Flash，揭开 Space Bunny 面纱</title><link>https://daily.terryso.dev/2026-10-20-minimax-m31-flash.html</link><guid>https://daily.terryso.dev/2026-10-20-minimax-m31-flash.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+MiniMax 这次把 [M3.1 Flash](https://www.unite.ai/minimax-launches-m3-1-flash-revealing-space-bunny-stealth-model/) 的 agentic 任务成本砍掉了 70%。那只匿名霸榜十天的 Space Bunny，就是它的早期版本。
+</description></item>
 <item><title>DE-CIX 首个让 AI 智能体管网络</title><link>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</link><guid>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 DE-CIX 发布了[开源 MCP server](https://www.computerweekly.com/news/366652459/DE-CIX-claims-AI-agent-network-management-first)，让 AI 智能体能用自然语言管理网络连接。Beta 版现在就能下载，直接跑在工程师自己的机器上。
 </description></item>
@@ -201,17 +207,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 | 指标 | 数值 |
 |---|---|
 | 10 月加息赔率 | CPI 后一度超 50%，现回落到约 30% |
-</description></item>
-<item><title>Apple Intelligence 国行测试版 10 月内上线</title><link>https://daily.terryso.dev/2026-10-16-apple-intelligence-cn.html</link><guid>https://daily.terryso.dev/2026-10-16-apple-intelligence-cn.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-库克周四在上海接受《澎湃》专访时公布了测试版的内容：实时翻译、写作工具、图片清理齐备，唯独不含新 Siri（[Reuters](https://mix929.com/2026/10/15/tim-cook-says-apple-intelligence-approved-in-china-the-paper-reports/)）。模型由苹果与阿里专为中国市场合作训练，不再走苹果此前在国区依赖第三方模型的路数。
-</description></item>
-<item><title>18,029 份比特币期权今天到期，8 万美元是决定线</title><link>https://daily.terryso.dev/2026-10-16-btc-options-expiry.html</link><guid>https://daily.terryso.dev/2026-10-16-btc-options-expiry.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-[最大痛点在 83,000 美元](https://cryptocompass.com/articles/bitcoin-price-prediction-18-029-contracts-expire-friday-and-the-level-that-decides-is-80-000)，比周四下午的价格高出 2,229 美元，它标的是卖方最舒服的位置，而不是价格目标。下方才是重仓区：四个看跌档位合计占到期总量的近四成，一旦这条线失守，卖方被迫扩大对冲，跌幅会被放大。
-
-| 指标 | 数值 |
-|---|---|
-| 到期名义价值 | 约 14.5 亿美元 |
-| 看跌看涨比 | 1.37 |
 </description></item>
 </channel>
 </rss>
