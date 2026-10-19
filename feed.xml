@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>DE-CIX 首个让 AI 智能体管网络</title><link>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</link><guid>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
+DE-CIX 发布了[开源 MCP server](https://www.computerweekly.com/news/366652459/DE-CIX-claims-AI-agent-network-management-first)，让 AI 智能体能用自然语言管理网络连接。Beta 版现在就能下载，直接跑在工程师自己的机器上。
+</description></item>
 <item><title>Shopify 推出个人购物 AI 助手</title><link>https://daily.terryso.dev/2026-10-19-shopify-personal-shopper.html</link><guid>https://daily.terryso.dev/2026-10-19-shopify-personal-shopper.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 新上线的 [shop.md](https://smbtech.au/news/shopify-launches-personal-shopper-ai-agents/)能把你常用的 AI 助手变成跟单员，连上 Shop 账号后按历史订单和尺码偏好挑货。对话内直接走 Shop Pay 一键下单，每笔都由你亲手确认而卡号不经助手之手。
 </description></item>
@@ -210,13 +213,5 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 | 到期名义价值 | 约 14.5 亿美元 |
 | 看跌看涨比 | 1.37 |
 </description></item>
-<item><title>PPI 烫手，10 月加息赔率纹丝不动</title><link>https://daily.terryso.dev/2026-10-16-ppi-odds.html</link><guid>https://daily.terryso.dev/2026-10-16-ppi-odds.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-9 月 PPI 环比上涨 1.3%，是 2022 年 3 月以来最大的单月涨幅（[Barron&#x27;s](https://www.barrons.com/articles/ppi-inflation-report-september-producer-prices-6be6e2bb)）。但按 LSEG 数据，10 月加息赔率在连续两份烫手的通胀报告之后仍停在 29% 附近，和前一天几乎没有差别（[MarketWatch](https://www.marketwatch.com/livecoverage/ppi-report-today-september-inflation-fed-rates-live-updates/card/hot-ppi-still-not-turning-market-in-favor-of-an-october-rate-hike-oUXxMUhe0SI457hFlL3Y)）。
-
-| 指标 | 数值 |
-|---|---|
-| 9 月 PPI 同比 | 6.3%，四年多最大 |
-| 此前市场预期 | 环比 +0.5% |
-| 美联储议息会议 | 10 月 27</description></item>
 </channel>
 </rss>
