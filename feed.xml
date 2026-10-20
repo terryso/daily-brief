@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Blockchain.com 上线 7 币种期权，最长一周到期</title><link>https://daily.terryso.dev/2026-10-20-blockchain-com-crypto-options.html</link><guid>https://daily.terryso.dev/2026-10-20-blockchain-com-crypto-options.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](https://cryptobriefing.com/blockchain-com-launches-crypto-options-trading/)，首批覆盖 BTC、ETH、SOL、HYPE 等七个币种。权利金就是最大亏损，但合约必须持有到交割，中途不能提前平仓。
+</description></item>
 <item><title>Benson 重启，盯住优惠券机器人和 AI 代购</title><link>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 店主终于能看到一次会话里是真人、优惠券插件还是 AI 代理在反复试码，以及它们各自吃掉了多少佣金 [新版介绍](https://ecommercenews.uk/story/benson-relaunches-to-track-coupon-bots-ai-agents)。在 Shopify 上加一段脚本就能把这笔糊涂账摆到台面上。
 </description></item>
@@ -168,15 +171,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 |---|---|
 | 提示词上限 | 8000 tokens |
 | 旧片续写 | 最长 2 分钟 |
-</description></item>
-<item><title>10年期美债收益率跌至三周低点</title><link>https://daily.terryso.dev/2026-10-16-treasury-yields-3week-low.html</link><guid>https://daily.terryso.dev/2026-10-16-treasury-yields-3week-low.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-9 月美国零售销售环比增长 0.8%，远高于 0.3% 的市场预期。但债市对这份强数据几乎无视，[10 年期美债收益率周四反而跌到三周新低](https://www.financialexpress.com/market/global-markets/us-treasury-yields-crash-to-3-week-low-after-record-selloff-what-changed-in-bond-markets/4362682/)。
-
-| 指标 | 数值 |
-|---|---|
-| 10年期美债收益率 | 盘中低点 5.038% |
-| 初请失业金人数 | 19.9 万人 |
-| 8月零售销售 | 环比 1.3%（上修后） |
 </description></item>
 </channel>
 </rss>
