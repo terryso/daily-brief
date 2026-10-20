@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Linux 7.3 发布，Torvalds 的 Claude Code 补丁进入评审</title><link>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</link><guid>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+这组 Claude Code 写的页缓存补丁进了社区评审，评审先揪出了一处竞态条件。它在 64 线程合成测试里把小读吞吐从每秒 1330 万次推到 3.04 亿次，[Torvalds 自己提醒真实负载远没有这么夸张](https://www.kad8.com/software/linux-7.3-ships-as-torvalds-claude-code-patch-hits-review/)。
+</description></item>
 <item><title>Shopify 的 River 9 月卷入 12 万个 Slack 线程</title><link>https://daily.terryso.dev/2026-10-20-shopify-river-slack.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-river-slack.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 Tobi Lütke 在 10 月 19 日贴出半年曲线：Shopify 内部助手 River 经手的 Slack 线程从 3 月的 35,418 条，[涨到 9 月的 121,804 条](https://dealroom.co/news/163841-river-threads-jump-to-121-804-as-shopifys-ai-agent-floods-its-slack/)，接近翻了两番。与此同时，每八个被合并的 PR 里就有一个由 River 联合作者提交。
 </description></item>
@@ -195,14 +198,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 |---|---|
 | 24 小时涨幅 | +0.6% |
 | 以太坊 | $2,439（+0.8%） |
-</description></item>
-<item><title>天猫京东同日开发布会，抖音把双11券发到豆包和红果</title><link>https://daily.terryso.dev/2026-10-16-double11-platforms.html</link><guid>https://daily.terryso.dev/2026-10-16-double11-platforms.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-[天猫把今年的宝押在AI和旗舰店上](https://finance.sina.cn/2026-10-15/detail-iniviqxx7219127.d.html)，100万品牌参战创下纪录。京东10月12日已经抢跑，首日下单用户数同比双位数增长。
-
-| 指标 | 数值 |
-|---|---|
-| 天猫双11参与商品 | 7200万款（历史新高） |
-| 首次参加双11的新商家 | 6万个 |
 </description></item>
 </channel>
 </rss>
