@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 的 River 9 月卷入 12 万个 Slack 线程</title><link>https://daily.terryso.dev/2026-10-20-shopify-river-slack.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-river-slack.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+Tobi Lütke 在 10 月 19 日贴出半年曲线：Shopify 内部助手 River 经手的 Slack 线程从 3 月的 35,418 条，[涨到 9 月的 121,804 条](https://dealroom.co/news/163841-river-threads-jump-to-121-804-as-shopifys-ai-agent-floods-its-slack/)，接近翻了两番。与此同时，每八个被合并的 PR 里就有一个由 River 联合作者提交。
+</description></item>
+<item><title>ETF断流、DAT减仓，加密市场情绪熄火</title><link>https://daily.terryso.dev/2026-10-20-etf-outflow-crypto-sentiment.html</link><guid>https://daily.terryso.dev/2026-10-20-etf-outflow-crypto-sentiment.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+今天有[160亿美元的比特币和以太坊期权到期](https://bitrss.com/investor-sentiment-flatlines-amid-dry-etf-flows-and-dat-unwinds-us-crypto-news-143394)，波动可能要等交割后才落地。现货ETF的需求已经连续几周净流出，少了最稳的那路买盘。
+</description></item>
 <item><title>Shopify 上调 Grow 和 Advanced 套餐价格</title><link>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 这次是单纯涨价，不带任何新功能：老用户在 10 月 15 日之后的下一个账单日直接按新价扣费。月付转年付一年最多能省 1200 美元，[去 Settings → Plan 查一下账单日](https://commonthreadco.com/blogs/coachs-corner/shopify-plan-price-increase-october-2026-ecommerce)，赶在扣费前定。
 </description></item>
@@ -197,16 +203,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 |---|---|
 | 天猫双11参与商品 | 7200万款（历史新高） |
 | 首次参加双11的新商家 | 6万个 |
-</description></item>
-<item><title>美股集体收涨，费半指数连跌第七天</title><link>https://daily.terryso.dev/2026-10-16-us-stocks-sox.html</link><guid>https://daily.terryso.dev/2026-10-16-us-stocks-sox.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-隔夜美股三大指数集体收涨，道指领涨1.08%（[新浪财经](https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html)）。半导体是唯一的拖累，费城半导体指数连续第七天下跌。
-</description></item>
-<item><title>市场盯紧沃什今天中午讲话：10 月若不动，12 月或加 50 基点</title><link>https://daily.terryso.dev/2026-10-16-walsh-speech.html</link><guid>https://daily.terryso.dev/2026-10-16-walsh-speech.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-北京时间今天上午 11:30，美联储主席沃什将在曼谷 IMF 年会上与 Kristalina Georgieva 对话，这是[静默期开始前的最后一次公开讲话](https://en.infomaxai.com/news/articleView.html?idxno=143462)。[分析师警告](https://en.infomaxai.com/news/articleView.html?idxno=143462)，若 10 月按兵不动，12 月可能迎来一次性 50 个基点的加息。
-
-| 指标 | 数值 |
-|---|---|
-| 10 月加息赔率 | CPI 后一度超 50%，现回落到约 30% |
 </description></item>
 </channel>
 </rss>
