@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Claude Code、Codex CLI、OpenCode 四天内接连更新</title><link>https://daily.terryso.dev/2026-10-21-ai-coding-tools-agent-service.html</link><guid>https://daily.terryso.dev/2026-10-21-ai-coding-tools-agent-service.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+10 月 12 日到 16 日，四款主流 AI 编程工具接连发版，赌的是同一件事：agent 该从一次性命令变成常驻的后台服务。[OpenCode 2.0](https://shattered.io/claude-code-codex-cli-opencode-update-4-days-2026/) 走得最远，直接把自己重做成了带 API 和 SDK 的后台服务。
+</description></item>
 <item><title>Shopify 入选 Zacks 当日牛股</title><link>https://daily.terryso.dev/2026-10-21-shopify-zacks-bull-of-day.html</link><guid>https://daily.terryso.dev/2026-10-21-shopify-zacks-bull-of-day.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 这份[看多报告](https://www.zacks.com/commentary/3010847/bull-of-the-day-shopify-shop)的弹药来自营收端：Zacks 预计 Shopify 2026 年营收增长 31.5%。三季报还没发，分析师已经先把三季度的盈利预估调了上来。
 </description></item>
@@ -150,16 +153,6 @@ OpenAI 自己的披露里，它的[内部研究模型 GPT-5.6 Sol](https://coint
 </description></item>
 <item><title>Gemini 4 Argon 进入 Antigravity，先给 AI Pro 订阅者</title><link>https://daily.terryso.dev/2026-10-17-gemini-argon.html</link><guid>https://daily.terryso.dev/2026-10-17-gemini-argon.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
 Gemini 4 Argon 已经[进到 Antigravity](https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/)，先向 AI Pro 和 Ultra 订阅者开放。Google 内部拿它一次关掉了 97 个积压老 bug，只用了不到三小时。
-</description></item>
-<item><title>Reflection 开源 Beam 权重：501B MoE，Apache 2.0</title><link>https://daily.terryso.dev/2026-10-17-reflection-beam.html</link><guid>https://daily.terryso.dev/2026-10-17-reflection-beam.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai/reflection-releases-beams-open-weights-under-apache-2-0-license/)，自己下载就能部署。它是冲着 agent 干活训的模型，Reflection 连内部用的终端 agent 框架 Mirror CLI 都一并开源了。
-
-| 指标 | 数值 |
-|---|---|
-| 参数规模 | 501B MoE |
-| 每 token 激活 | 23B |
-| 上下文窗口 | 100 万 token |
-| 许可证 | Apache 2.0 |
 </description></item>
 </channel>
 </rss>
