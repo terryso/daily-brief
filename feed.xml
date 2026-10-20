@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>72 小时上线 meme AI 视频站：复用了什么、砍掉了什么</title><link>https://daily.terryso.dev/2026-10-20-meme-ai-video-site-72h.html</link><guid>https://daily.terryso.dev/2026-10-20-meme-ai-video-site-72h.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+作者[把上一个热点站的代码库整套搬了过来](https://dev.to/yina_lin_06fcf130821821ab/shipping-an-ai-video-site-for-a-meme-in-72-hours-what-i-reused-what-i-cut-1ce9)：额度账本、支付、慢渲染队列都没重写，新写的只有特效定义、服务端 prompt 和双语页面文案。砍掉的是免费档：没有免费额度，按视频收费，API 花费还设了日/月硬上限，流量来了只排队。
+</description></item>
+<item><title>Stripe：9月AI代理交易暴涨38倍</title><link>https://daily.terryso.dev/2026-10-20-stripe-agentic-ai-transactions.html</link><guid>https://daily.terryso.dev/2026-10-20-stripe-agentic-ai-transactions.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+经由 AI 代理完成的购买，平均一单在 100 美元上下。而冲得最快的类目正是零售，数据来自 [Stripe Link 的 9 月统计](https://www.wortins.com/story/stripe-reports-38x-surge-in-agentic-ai-transactions-in-septe-37491f80)。
+</description></item>
 <item><title>Linux 7.3 发布，Torvalds 的 Claude Code 补丁进入评审</title><link>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</link><guid>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 这组 Claude Code 写的页缓存补丁进了社区评审，评审先揪出了一处竞态条件。它在 64 线程合成测试里把小读吞吐从每秒 1330 万次推到 3.04 亿次，[Torvalds 自己提醒真实负载远没有这么夸张](https://www.kad8.com/software/linux-7.3-ships-as-torvalds-claude-code-patch-hits-review/)。
 </description></item>
@@ -183,21 +189,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 </description></item>
 <item><title>双11预售首日：李佳琦直播间多款产品上线即售罄</title><link>https://daily.terryso.dev/2026-10-16-lijiaqi.html</link><guid>https://daily.terryso.dev/2026-10-16-lijiaqi.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
 李佳琦直播间预售首日，付定金首小时SK-II、丝塔芙、珀莱雅等多个爆款销量快速突破10万件（[新浪财经](https://finance.sina.cn/2026-10-16/detail-inivkwtm7783669.d.html)）。当日600个商品链接中，美妆一个品类就占了72%。
-</description></item>
-<item><title>Meta 发布 816B 参数 Muse Spark Open，为 M5 Ultra Mac Studio 优化</title><link>https://daily.terryso.dev/2026-10-16-muse-spark-open.html</link><guid>https://daily.terryso.dev/2026-10-16-muse-spark-open.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-模型采用 [MoE 架构](https://techstartups.com/2026/10/15/meta-launches-muse-spark-open-an-816b-parameter-ai-model-optimized-for-apples-m5-ultra-macs/)，一次推理只激活 42B 参数。经 Apple MLX 优化，两台 M5 Ultra Mac Studio 就能在本地跑起它。
-
-| 指标 | 数值 |
-|---|---|
-| 上下文窗口 | 100 万 token |
-</description></item>
-<item><title>比特币回到 8.2 万美元，加息赔率降温</title><link>https://daily.terryso.dev/2026-10-16-btc-82k.html</link><guid>https://daily.terryso.dev/2026-10-16-btc-82k.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-超预期的 9 月 CPI 和 PPI 把比特币砸穿 8 万美元之后，它今早回到了[8.2 万美元区间](https://biz.chosun.com/en/en-finance/2026/10/16/RWTVO3IRQJCXNKJ6CGLNU6FJ7E/)。这波反弹听的是官员的嘴而不是数据，联储官员对加息表态转谨慎之后，CME FedWatch 上 10 月加息的概率只有约 27%。
-
-| 指标 | 数值 |
-|---|---|
-| 24 小时涨幅 | +0.6% |
-| 以太坊 | $2,439（+0.8%） |
 </description></item>
 </channel>
 </rss>
