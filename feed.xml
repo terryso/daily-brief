@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 $82,000，风险偏好转弱</title><link>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</link><guid>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+交割日当天比特币继续走低，[最新报 $81,400 附近](https://finnhub.io/?q=%22BTC%22)。上周现货 ETF 净流出 2.284 亿美元，道琼斯[援引分析师](https://www.morningstar.com/news/dow-jones/20261020805/bitcoin-below-82000-on-wavering-risk-appetite)称这轮反弹“大多是利率故事”。
+</description></item>
 <item><title>72 小时上线 meme AI 视频站：复用了什么、砍掉了什么</title><link>https://daily.terryso.dev/2026-10-20-meme-ai-video-site-72h.html</link><guid>https://daily.terryso.dev/2026-10-20-meme-ai-video-site-72h.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 作者[把上一个热点站的代码库整套搬了过来](https://dev.to/yina_lin_06fcf130821821ab/shipping-an-ai-video-site-for-a-meme-in-72-hours-what-i-reused-what-i-cut-1ce9)：额度账本、支付、慢渲染队列都没重写，新写的只有特效定义、服务端 prompt 和双语页面文案。砍掉的是免费档：没有免费额度，按视频收费，API 花费还设了日/月硬上限，流量来了只排队。
 </description></item>
@@ -186,9 +189,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 | 指标 | 数值 |
 |---|---|
 | 标普 500 期货 | +0.2% |
-</description></item>
-<item><title>双11预售首日：李佳琦直播间多款产品上线即售罄</title><link>https://daily.terryso.dev/2026-10-16-lijiaqi.html</link><guid>https://daily.terryso.dev/2026-10-16-lijiaqi.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-李佳琦直播间预售首日，付定金首小时SK-II、丝塔芙、珀莱雅等多个爆款销量快速突破10万件（[新浪财经](https://finance.sina.cn/2026-10-16/detail-inivkwtm7783669.d.html)）。当日600个商品链接中，美妆一个品类就占了72%。
 </description></item>
 </channel>
 </rss>
