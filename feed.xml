@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 入选 Zacks 当日牛股</title><link>https://daily.terryso.dev/2026-10-21-shopify-zacks-bull-of-day.html</link><guid>https://daily.terryso.dev/2026-10-21-shopify-zacks-bull-of-day.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+这份[看多报告](https://www.zacks.com/commentary/3010847/bull-of-the-day-shopify-shop)的弹药来自营收端：Zacks 预计 Shopify 2026 年营收增长 31.5%。三季报还没发，分析师已经先把三季度的盈利预估调了上来。
+</description></item>
+<item><title>OpenAI 酝酿 GPT-6.1 Terra：性能超 Sol，价格更低</title><link>https://daily.terryso.dev/2026-10-21-openai-gpt61-terra.html</link><guid>https://daily.terryso.dev/2026-10-21-openai-gpt61-terra.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+据[The Information 10 月 19 日的报道](https://www.androidheadlines.com/2026/10/openai-anthropic-google-new-ai-models.html)，OpenAI 正在准备 GPT-6.1 Terra，目标是性能超过 GPT-6.1 Sol 的同时把价格打下来。微软代码库里已经出现了它的评测配置，报道称发布可能就在几周内，这正是 OpenAI 拿来跟 Anthropic 拼价格的武器。
+</description></item>
 <item><title>Blockchain.com 上线 7 币种期权，最长一周到期</title><link>https://daily.terryso.dev/2026-10-20-blockchain-com-crypto-options.html</link><guid>https://daily.terryso.dev/2026-10-20-blockchain-com-crypto-options.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](https://cryptobriefing.com/blockchain-com-launches-crypto-options-trading/)，首批覆盖 BTC、ETH、SOL、HYPE 等七个币种。权利金就是最大亏损，但合约必须持有到交割，中途不能提前平仓。
 </description></item>
@@ -154,23 +160,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 | 每 token 激活 | 23B |
 | 上下文窗口 | 100 万 token |
 | 许可证 | Apache 2.0 |
-</description></item>
-<item><title>MSCI 通过新规，Strategy 或被全球指数剔除</title><link>https://daily.terryso.dev/2026-10-17-msci-strategy.html</link><guid>https://daily.terryso.dev/2026-10-17-msci-strategy.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-[MSCI 的新规](https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes)把&quot;非经营性公司&quot;挡在全球可投资市场指数门外，最终名单 11 月 11 日公布、11 月 30 日收盘后生效。摩根大通测算，单是 Strategy 被剔除，就会迫使指数基金卖出约 28 亿美元 MSTR，动的是&quot;囤币公司&quot;发股买币的买方。
-
-| 指标 | 数值 |
-|---|---|
-| 最终名单公布 | 11 月 11 日 |
-| 新规生效 | 11 月 30 日收盘后 |
-| MSTR 潜在被动卖出 | 约 28 亿美元 |
-</description></item>
-<item><title>Kling 4.0 全球发布，原生支持 30 秒视频生成</title><link>https://daily.terryso.dev/2026-10-16-kling-4.html</link><guid>https://daily.terryso.dev/2026-10-16-kling-4.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-今天发布的 [Kling 4.0](https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/kling-ai-launches-kling-40-globally-with-professional-grade-output-stable-motion-and-multimodal-control/2447373)，最实在的升级是 Omni Reference：单次可接入 15 路图像、视频与音频参考，外加 10 个关键帧，专为锁定多镜头间的角色一致性。单次生成同时拉到原生 30 秒。
-
-| 指标 | 数值 |
-|---|---|
-| 提示词上限 | 8000 tokens |
-| 旧片续写 | 最长 2 分钟 |
 </description></item>
 </channel>
 </rss>
