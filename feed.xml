@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Benson 重启，盯住优惠券机器人和 AI 代购</title><link>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+店主终于能看到一次会话里是真人、优惠券插件还是 AI 代理在反复试码，以及它们各自吃掉了多少佣金 [新版介绍](https://ecommercenews.uk/story/benson-relaunches-to-track-coupon-bots-ai-agents)。在 Shopify 上加一段脚本就能把这笔糊涂账摆到台面上。
+</description></item>
+<item><title>OpenAI 抢在 Anthropic IPO 前敲定 300 亿美元融资</title><link>https://daily.terryso.dev/2026-10-20-openai-30b-funding-anthropic-ipo.html</link><guid>https://daily.terryso.dev/2026-10-20-openai-30b-funding-anthropic-ipo.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
+[这轮目标估值超过 1.4 万亿美元](https://www.freepressjournal.in/amp/tech/openai-rushes-to-close-30-billion-funding-round-ahead-of-anthropics-ipo)。知情人士的说法是，OpenAI 想赶在 Anthropic 公开财务数据前先把价格定下来，免得被投资人拿来逐项对比。
+</description></item>
 <item><title>比特币跌破 $82,000，风险偏好转弱</title><link>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</link><guid>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 交割日当天比特币继续走低，[最新报 $81,400 附近](https://finnhub.io/?q=%22BTC%22)。上周现货 ETF 净流出 2.284 亿美元，道琼斯[援引分析师](https://www.morningstar.com/news/dow-jones/20261020805/bitcoin-below-82000-on-wavering-risk-appetite)称这轮反弹“大多是利率故事”。
 </description></item>
@@ -171,24 +177,6 @@ Reflection 昨天[把 Beam 的权重放上了 Hugging Face](https://www.unite.ai
 | 10年期美债收益率 | 盘中低点 5.038% |
 | 初请失业金人数 | 19.9 万人 |
 | 8月零售销售 | 环比 1.3%（上修后） |
-</description></item>
-<item><title>沪指涨0.24%，飞行汽车概念股掀涨停潮</title><link>https://daily.terryso.dev/2026-10-16-shanghai-rally-flying-car.html</link><guid>https://daily.terryso.dev/2026-10-16-shanghai-rally-flying-car.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-沪指涨 0.24%，飞行汽车概念股掀起涨停潮。[深成指、创业板指和科创综指今天都没能收红](https://news.sina.cn/2026-10-16/detail-inivmazr8363821.d.html)。盘面也是两半：军工、贵金属、白酒和房地产领涨，PCB、游戏、CRO和电池领跌。
-
-| 指标 | 数值 |
-|---|---|
-| 深成指 | 11802.46（−0.12%） |
-| 创业板指 | 2772.38（−0.39%） |
-| 科创综指 | 1584.04（−0.18%） |
-| 上涨个股 | 近3300只 |
-| 两市成交 | 1.56万亿 |
-</description></item>
-<item><title>沃什对 10 月加息只字不提，赔率跌破 15%</title><link>https://daily.terryso.dev/2026-10-16-warsh-aftermath.html</link><guid>https://daily.terryso.dev/2026-10-16-warsh-aftermath.html</guid><pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate><description>
-沃什在曼谷的 IMF 年会上[拒绝预判政策](https://www.businesstimes.com.sg/international/fed-chair-kevin-warsh-boosts-market-expectations-rate-hold-october)：不说 10 月加息，只重申美联储会兑现价格稳定。市场把他的沉默读成了鸽派，10 月加息赔率从约 27% 跌到了 15% 以下。
-
-| 指标 | 数值 |
-|---|---|
-| 标普 500 期货 | +0.2% |
 </description></item>
 </channel>
 </rss>
