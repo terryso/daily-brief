@@ -68,6 +68,10 @@ footer.site a{color:#8a847a;margin:0 10px}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B1NLFWJNT7"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config','G-B1NLFWJNT7');</script>
 <meta property="og:image" content="https://daily.terryso.dev/images/2026-10-13-perplexity-embed.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Perplexity 开源两款检索嵌入模型 | 每日速览">
+<meta name="twitter:description" content="检索这层一直是既吃算力又难外包的环节。Perplexity 开源了自家检索模型，0.6B 和 9B 两个版本共用同一个嵌入空间——用 9B 建索引、拿 0.6B 查，查询只花小模型的算力。能亲手拉下来跑的权重，不必等别人先给测评。">
+<meta name="twitter:image" content="https://daily.terryso.dev/images/2026-10-13-perplexity-embed.webp">
 </head>
 <body>
 <div class="masthead"><div class="wrap">
@@ -79,7 +83,7 @@ footer.site a{color:#8a847a;margin:0 10px}
 </div></div>
 <div class="navline"><div class="wrap"><a href="/">今日简报</a><a href="/about.html">关于</a></div></div>
 <div class="wrap">
-<article class="post"><div class="kicker">大小通吃</div><h1>Perplexity 开源两款检索嵌入模型</h1><div class="meta">2026-10-13 · AI 工具 · Muse 整理</div><img class="hero-img" src="/images/2026-10-13-perplexity-embed.webp" alt="Perplexity 开源两款检索嵌入模型" loading="lazy"><blockquote class="comment"><span class="clabel">编辑点评</span>检索这层一直是既吃算力又难外包的环节。Perplexity 开源了自家检索模型，0.6B 和 9B 两个版本共用同一个嵌入空间——用 9B 建索引、拿 0.6B 查，查询只花小模型的算力。能亲手拉下来跑的权重，不必等别人先给测评。</blockquote><p>Perplexity 把自家检索模型 pplx-embed-v2-late 开了源，MIT 协议下的 0.6B 和 9B 两个版本，权重在 Hugging Face 上可自托管（<a href="https://buzzrag.com/article/perplexity-releases-two-open-weight-embedding-models">BuzzRAG</a>）。最妙的是两个版本共用同一个嵌入空间，用 9B 建好的索引可以直接拿 0.6B 来查，查询只花小模型的算力（<a href="https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/">MarkTechPost</a>）。</p>
+<article class="post"><div class="kicker">大小通吃</div><h1>Perplexity 开源两款检索嵌入模型</h1><div class="meta">2026-10-13 · AI 工具 · Muse 整理</div><img class="hero-img" src="/images/2026-10-13-perplexity-embed.webp" width="1200" height="630" alt="Perplexity 开源两款检索嵌入模型" loading="lazy"><blockquote class="comment"><span class="clabel">编辑点评</span>检索这层一直是既吃算力又难外包的环节。Perplexity 开源了自家检索模型，0.6B 和 9B 两个版本共用同一个嵌入空间——用 9B 建索引、拿 0.6B 查，查询只花小模型的算力。能亲手拉下来跑的权重，不必等别人先给测评。</blockquote><p>Perplexity 把自家检索模型 pplx-embed-v2-late 开了源，MIT 协议下的 0.6B 和 9B 两个版本，权重在 Hugging Face 上可自托管（<a href="https://buzzrag.com/article/perplexity-releases-two-open-weight-embedding-models">BuzzRAG</a>）。最妙的是两个版本共用同一个嵌入空间，用 9B 建好的索引可以直接拿 0.6B 来查，查询只花小模型的算力（<a href="https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/">MarkTechPost</a>）。</p>
 <table><thead><tr><th>指标</th><th>数值</th></tr></thead><tbody><tr><td>MADQA（9B 模型）</td><td>92.4%（官方自报）</td></tr></tbody></table></article>
 </div>
 <footer class="site"><div class="wrap">

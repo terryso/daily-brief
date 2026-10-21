@@ -68,6 +68,10 @@ footer.site a{color:#8a847a;margin:0 10px}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B1NLFWJNT7"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config','G-B1NLFWJNT7');</script>
 <meta property="og:image" content="https://daily.terryso.dev/images/2026-10-14-codex-daemon.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Codex CLI 0.157 起默认常驻后台，关闭终端也不退出 | 每日速览">
+<meta name="twitter:description" content="一份要求 OpenAI 把 Codex CLI 后台守护进程改成默认关闭的 GitHub issue，在 10 月 12 日冲上 Hacker News 首页，拿下 484 分。开关是现成的：`codex features disable ">
+<meta name="twitter:image" content="https://daily.terryso.dev/images/2026-10-14-codex-daemon.jpg">
 </head>
 <body>
 <div class="masthead"><div class="wrap">
@@ -79,7 +83,7 @@ footer.site a{color:#8a847a;margin:0 10px}
 </div></div>
 <div class="navline"><div class="wrap"><a href="/">今日简报</a><a href="/about.html">关于</a></div></div>
 <div class="wrap">
-<article class="post"><div class="kicker">幽灵进程</div><h1>Codex CLI 0.157 起默认常驻后台，关闭终端也不退出</h1><div class="meta">2026-10-14 · AI 工具 · Muse 整理</div><img class="hero-img" src="/images/2026-10-14-codex-daemon.jpg" alt="Codex CLI 0.157 起默认常驻后台，关闭终端也不退出" loading="lazy"><blockquote class="comment"><span class="clabel">编辑点评</span>一份要求 OpenAI 把 Codex CLI 后台守护进程改成默认关闭的 GitHub issue，在 10 月 12 日冲上 Hacker News 首页，拿下 484 分。开关是现成的：`codex features disable daemon_auto_start` 写进配置，新会话就不再悄悄拉起它。</blockquote><p>一份要求 OpenAI 把 Codex CLI 后台守护进程改成默认关闭的 GitHub issue，在 10 月 12 日冲上 Hacker News 首页，拿下 484 分（<a href="https://byteiota.com/codex-cli-background-daemon-what-openai-quietly-shipped/">byteiota</a>）。开关是现成的：`codex features disable daemon_auto_start` 写进配置，新会话就不再悄悄拉起它（<a href="http://dev.to/neeraj_sharma_757fbb49aa7/your-ai-coding-cli-may-still-be-running-after-you-close-it-i-reproduced-the-codex-daemon-and-wrote-40kb">dev.to 的实测记录</a>）。</p>
+<article class="post"><div class="kicker">幽灵进程</div><h1>Codex CLI 0.157 起默认常驻后台，关闭终端也不退出</h1><div class="meta">2026-10-14 · AI 工具 · Muse 整理</div><img class="hero-img" src="/images/2026-10-14-codex-daemon.jpg" width="1376" height="768" alt="Codex CLI 0.157 起默认常驻后台，关闭终端也不退出" loading="lazy"><blockquote class="comment"><span class="clabel">编辑点评</span>一份要求 OpenAI 把 Codex CLI 后台守护进程改成默认关闭的 GitHub issue，在 10 月 12 日冲上 Hacker News 首页，拿下 484 分。开关是现成的：`codex features disable daemon_auto_start` 写进配置，新会话就不再悄悄拉起它。</blockquote><p>一份要求 OpenAI 把 Codex CLI 后台守护进程改成默认关闭的 GitHub issue，在 10 月 12 日冲上 Hacker News 首页，拿下 484 分（<a href="https://byteiota.com/codex-cli-background-daemon-what-openai-quietly-shipped/">byteiota</a>）。开关是现成的：`codex features disable daemon_auto_start` 写进配置，新会话就不再悄悄拉起它（<a href="http://dev.to/neeraj_sharma_757fbb49aa7/your-ai-coding-cli-may-still-be-running-after-you-close-it-i-reproduced-the-codex-daemon-and-wrote-40kb">dev.to 的实测记录</a>）。</p>
 <table><thead><tr><th>指标</th><th>数值</th></tr></thead><tbody><tr><td>守护进程自备副本</td><td>约 374MB</td></tr></tbody></table></article>
 </div>
 <footer class="site"><div class="wrap">
