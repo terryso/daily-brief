@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Google AI Overviews 月触达超 25 亿人</title><link>https://daily.terryso.dev/2026-10-21-google-ai-overviews-2-5-billion.html</link><guid>https://daily.terryso.dev/2026-10-21-google-ai-overviews-2-5-billion.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+DataReportal 今天发布[《Digital 2027》报告](https://anythingengineoptimization.com/item/2026-10-21-google-ai-overviews-now-reach-2-5-billion-people-a-month/)（Meltwater 与 We Are Social 出品），推算依据是 Similarweb 的发现：超四成 Google 搜索已展示 AI Overviews。同一份报告的另一面：成年人研究品牌时，选择搜索引擎而非独立 AI 平台的可能性高出 74%。
+</description></item>
+<item><title>美国下令联邦机构移除 DeepSeek，禁新购</title><link>https://daily.terryso.dev/2026-10-21-deepseek-federal-ban.html</link><guid>https://daily.terryso.dev/2026-10-21-deepseek-federal-ban.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+这次要清的不只是 DeepSeek 自家的应用，用它搭出来的第三方产品和服务也在清除之列。[这纸命令](https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html) 7 月 24 日签发、10 月 20 日才见报，顺手封掉了面向 DeepSeek 及其关联方的所有新增 IT 采购。
+</description></item>
 <item><title>Cloudflare 今日紧急更新 WAF，新增拦截异常执行的规则</title><link>https://daily.terryso.dev/2026-10-21-cloudflare-waf-emergency.html</link><guid>https://daily.terryso.dev/2026-10-21-cloudflare-waf-emergency.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/)，新增四条&quot;异常执行&quot;检测规则，两条拦截、两条只记录。免费版规则集也同步上线了同系列的拦截规则。
 </description></item>
@@ -147,12 +153,6 @@ Claude Code 的首字延迟降下来了：本地 p90 从 4.07 秒降到 1.33 秒
 </description></item>
 <item><title>中期选举预测市场交易额突破7.5亿美元</title><link>https://daily.terryso.dev/2026-10-17-midterm-prediction-markets.html</link><guid>https://daily.terryso.dev/2026-10-17-midterm-prediction-markets.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
 [反腐败数据联盟的统计](https://rg.org/news/gambling-industry/midterm-prediction-market-trading-tops-750m-watchdog-sees-1-6b)显示，中期选举预测市场交易额已突破 7.5 亿美元：21811 个国会竞选市场产生了 2.21 亿美元投注，是 2024 年全周期 9240 万美元的两倍多。按 2024 年的节奏推算，本轮周期的总交易额会冲到 14 至 16 亿美元。
-</description></item>
-<item><title>Shopify 把 10 亿商品目录开放给 AI 购物助手</title><link>https://daily.terryso.dev/2026-10-17-shopify-ai-catalog.html</link><guid>https://daily.terryso.dev/2026-10-17-shopify-ai-catalog.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-Shopify 把 10 亿多条商品目录向独立 AI 购物助手开放，10 月 13 日宣布的口子不用再逐家谈集成（[8digits 的梳理](https://8digits.net/news/shopify-ai-agents-product-catalog-shop-pay/)）。以后很多单在进店前就定好了，标题、属性、运费写得马虎的商品，机器直接略过。
-</description></item>
-<item><title>Meta 更新商业条款：可爬取商户网站内容训练 AI</title><link>https://daily.terryso.dev/2026-10-17-meta-scrape-terms.html</link><guid>https://daily.terryso.dev/2026-10-17-meta-scrape-terms.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-10 月 30 日生效的[新版 Meta 商业条款](https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658)授权 Meta 用爬虫、机器人和创建测试账号，抓取商家网站的内容拿去训练它的 AI。覆盖的是投广告、管主页、用产品目录的商业账号，拒绝的唯一办法是停用它的商业工具。
 </description></item>
 </channel>
 </rss>
