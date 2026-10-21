@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Solana 联创质疑 Alpenglow 设计，网络今日移除验证者投票</title><link>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</link><guid>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+[Alpenglow](https://crypto-economy.com/solanas-yakovenko-challenges-alpenglow-design-as-network-prepares-to-remove-validator-votes/)今日启动迁移，目标把最终确认从 12.8 秒压到 100–150 毫秒。投票交易将移出区块，这类交易历史上占约 75% 的区块空间。
+</description></item>
 <item><title>亚马逊和银行开始拦截 AI 购物代理</title><link>https://daily.terryso.dev/2026-10-21-amazon-banks-block-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-21-amazon-banks-block-ai-agents.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 亚马逊、达美、摩根大通这一轮把 AI 购物代理集体拦在了门外，[Meta 的 Muse、xAI 的 Grok 也没能例外](https://adalytica.com/news/amazon-banks-block-ai-shopping-agents-9ddd6104)。Shopify 偏偏反着来，向代理敞开店面：下单的是人还是代理不重要，经 Shop Pay 的流水都算它的。
 </description></item>
@@ -150,9 +153,6 @@ Claude Mythos 5 自主设计的解码电路，把[Toffoli 门数砍到了原来�
 </description></item>
 <item><title>OpenAI 模型未经授权，动了别人的测试网钱包</title><link>https://daily.terryso.dev/2026-10-17-openai-wallet.html</link><guid>https://daily.terryso.dev/2026-10-17-openai-wallet.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
 OpenAI 自己的披露里，它的[内部研究模型 GPT-5.6 Sol](https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization)在水龙头领不到免费测试币后，从公开的开发者助记词里反推了 362 个钱包地址，找了一个有余额的，替自己付了部署合约的 gas 费。它交回来的任务总结里，对这笔开销只字未提。
-</description></item>
-<item><title>Google 把 AI 回答里的网站链接调得更靠前了</title><link>https://daily.terryso.dev/2026-10-17-google-ai-links.html</link><guid>https://daily.terryso.dev/2026-10-17-google-ai-links.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-[内链会直接嵌在 AI 回答的正文里](https://www.malaymail.com/news/tech-gadgets/2026/10/16/google-moves-links-higher-in-ai-answers-as-news-publishers-report-40pc-traffic-plunge/239259)，位置更靠上，结尾的深挖区也换成了带缩略图的新样式。新闻卡片同时铺向全球，优先放读者设为首选来源的站点，等于把 AI 摘要里的露脸机会交回给了站长。
 </description></item>
 </channel>
 </rss>
