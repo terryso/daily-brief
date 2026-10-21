@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>亚马逊和银行开始拦截 AI 购物代理</title><link>https://daily.terryso.dev/2026-10-21-amazon-banks-block-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-21-amazon-banks-block-ai-agents.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+亚马逊、达美、摩根大通这一轮把 AI 购物代理集体拦在了门外，[Meta 的 Muse、xAI 的 Grok 也没能例外](https://adalytica.com/news/amazon-banks-block-ai-shopping-agents-9ddd6104)。Shopify 偏偏反着来，向代理敞开店面：下单的是人还是代理不重要，经 Shop Pay 的流水都算它的。
+</description></item>
+<item><title>加密 ETF 上周净流出 5.49 亿美元</title><link>https://daily.terryso.dev/2026-10-21-crypto-etf-outflow-549m.html</link><guid>https://daily.terryso.dev/2026-10-21-crypto-etf-outflow-549m.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+周三单日 2.6146 亿美元的赎回，把周二的净流入一次性清掉了。以太坊那侧五个交易日里只有 10 月 13 日进过钱，[连弱三周](https://themarketperiodical.com/2026/10/20/crypto-etfs-see-549m/)。
+</description></item>
 <item><title>Claude Code、Codex CLI、OpenCode 四天内接连更新</title><link>https://daily.terryso.dev/2026-10-21-ai-coding-tools-agent-service.html</link><guid>https://daily.terryso.dev/2026-10-21-ai-coding-tools-agent-service.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 10 月 12 日到 16 日，四款主流 AI 编程工具接连发版，赌的是同一件事：agent 该从一次性命令变成常驻的后台服务。[OpenCode 2.0](https://shattered.io/claude-code-codex-cli-opencode-update-4-days-2026/) 走得最远，直接把自己重做成了带 API 和 SDK 的后台服务。
 </description></item>
@@ -147,12 +153,6 @@ OpenAI 自己的披露里，它的[内部研究模型 GPT-5.6 Sol](https://coint
 </description></item>
 <item><title>Google 把 AI 回答里的网站链接调得更靠前了</title><link>https://daily.terryso.dev/2026-10-17-google-ai-links.html</link><guid>https://daily.terryso.dev/2026-10-17-google-ai-links.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
 [内链会直接嵌在 AI 回答的正文里](https://www.malaymail.com/news/tech-gadgets/2026/10/16/google-moves-links-higher-in-ai-answers-as-news-publishers-report-40pc-traffic-plunge/239259)，位置更靠上，结尾的深挖区也换成了带缩略图的新样式。新闻卡片同时铺向全球，优先放读者设为首选来源的站点，等于把 AI 摘要里的露脸机会交回给了站长。
-</description></item>
-<item><title>Shopify 2026-10 API 改了配送、库存和订单逻辑</title><link>https://daily.terryso.dev/2026-10-17-shopify-api.html</link><guid>https://daily.terryso.dev/2026-10-17-shopify-api.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-[Shopify 2026-10](https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/shopify-marketing-agency-advisory-october-api-update-changes-how-shipping-inventory-and-order-apps-work/2446622) 已于 10 月 1 日转正为稳定版。此后新注册的承运服务需在配送档案里配好运费才能在结账时显示。
-</description></item>
-<item><title>Gemini 4 Argon 进入 Antigravity，先给 AI Pro 订阅者</title><link>https://daily.terryso.dev/2026-10-17-gemini-argon.html</link><guid>https://daily.terryso.dev/2026-10-17-gemini-argon.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-Gemini 4 Argon 已经[进到 Antigravity](https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/)，先向 AI Pro 和 Ultra 订阅者开放。Google 内部拿它一次关掉了 97 个积压老 bug，只用了不到三小时。
 </description></item>
 </channel>
 </rss>
