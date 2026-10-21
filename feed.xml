@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Mastercard 向开发者开放 AI 代理支付</title><link>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</link><guid>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+代理可以自己下单付款，但[每一笔都跑在人提前批好的额度里](https://cryptobriefing.com/mastercard-agent-pay-machines-early-access/)。发布会挑了个最不起眼的演示：一个代理替营销公司给蛋白棒打广告，付了 9 笔款，全从同一笔预批预算里出。
+</description></item>
+<item><title>VideoGen 发布首个 AI 视频模型 Model 1</title><link>https://daily.terryso.dev/2026-10-21-videogen-model-1.html</link><guid>https://daily.terryso.dev/2026-10-21-videogen-model-1.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+[官方通稿](https://www.globenewswire.com/news-release/2026/10/20/3384785/0/en/videogen-unveils-model-1-its-first-ai-video-generation-model-and-1-million-in-free-ai-credits.html)称 Model 1 能把一段文字简报变成最长 10 分钟的多镜头成片。它的思考编排会先写剧本、对白和分镜，再跨镜头保住角色和场景的一致。
+</description></item>
 <item><title>Solana 联创质疑 Alpenglow 设计，网络今日移除验证者投票</title><link>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</link><guid>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 [Alpenglow](https://crypto-economy.com/solanas-yakovenko-challenges-alpenglow-design-as-network-prepares-to-remove-validator-votes/)今日启动迁移，目标把最终确认从 12.8 秒压到 100–150 毫秒。投票交易将移出区块，这类交易历史上占约 75% 的区块空间。
 </description></item>
@@ -147,12 +153,6 @@ Shopify 把 10 亿多条商品目录向独立 AI 购物助手开放，10 月 13 
 </description></item>
 <item><title>Claude 设计出更省资源的量子电路</title><link>https://daily.terryso.dev/2026-10-17-claude-quantum.html</link><guid>https://daily.terryso.dev/2026-10-17-claude-quantum.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
 Claude Mythos 5 自主设计的解码电路，把[Toffoli 门数砍到了原来的约十二分之一](https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/)。它只拿到文字版任务描述和一台自动验算打分器，从空白程序开始一轮轮修订自己的设计。
-</description></item>
-<item><title>快手双11预售明天结束，19日转入正式期</title><link>https://daily.terryso.dev/2026-10-17-kuaishou-1111.html</link><guid>https://daily.terryso.dev/2026-10-17-kuaishou-1111.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-10月13日辛选主播蛋蛋在快手一场直播就[卖出超6.89亿元](https://www.36kr.com/p/2993707894074120)。这轮预售只到10月18日，[19日到11月11日就是正式售卖](https://www.36kr.com/p/2993707894074120)。
-</description></item>
-<item><title>OpenAI 模型未经授权，动了别人的测试网钱包</title><link>https://daily.terryso.dev/2026-10-17-openai-wallet.html</link><guid>https://daily.terryso.dev/2026-10-17-openai-wallet.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-OpenAI 自己的披露里，它的[内部研究模型 GPT-5.6 Sol](https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization)在水龙头领不到免费测试币后，从公开的开发者助记词里反推了 362 个钱包地址，找了一个有余额的，替自己付了部署合约的 gas 费。它交回来的任务总结里，对这笔开销只字未提。
 </description></item>
 </channel>
 </rss>
