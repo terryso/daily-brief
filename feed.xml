@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Cloudflare 今日紧急更新 WAF，新增拦截异常执行的规则</title><link>https://daily.terryso.dev/2026-10-21-cloudflare-waf-emergency.html</link><guid>https://daily.terryso.dev/2026-10-21-cloudflare-waf-emergency.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
+Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/)，新增四条&quot;异常执行&quot;检测规则，两条拦截、两条只记录。免费版规则集也同步上线了同系列的拦截规则。
+</description></item>
 <item><title>Mastercard 向开发者开放 AI 代理支付</title><link>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</link><guid>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 代理可以自己下单付款，但[每一笔都跑在人提前批好的额度里](https://cryptobriefing.com/mastercard-agent-pay-machines-early-access/)。发布会挑了个最不起眼的演示：一个代理替营销公司给蛋白棒打广告，付了 9 笔款，全从同一笔预批预算里出。
 </description></item>
@@ -150,9 +153,6 @@ Shopify 把 10 亿多条商品目录向独立 AI 购物助手开放，10 月 13 
 </description></item>
 <item><title>Meta 更新商业条款：可爬取商户网站内容训练 AI</title><link>https://daily.terryso.dev/2026-10-17-meta-scrape-terms.html</link><guid>https://daily.terryso.dev/2026-10-17-meta-scrape-terms.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
 10 月 30 日生效的[新版 Meta 商业条款](https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658)授权 Meta 用爬虫、机器人和创建测试账号，抓取商家网站的内容拿去训练它的 AI。覆盖的是投广告、管主页、用产品目录的商业账号，拒绝的唯一办法是停用它的商业工具。
-</description></item>
-<item><title>Claude 设计出更省资源的量子电路</title><link>https://daily.terryso.dev/2026-10-17-claude-quantum.html</link><guid>https://daily.terryso.dev/2026-10-17-claude-quantum.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-Claude Mythos 5 自主设计的解码电路，把[Toffoli 门数砍到了原来的约十二分之一](https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/)。它只拿到文字版任务描述和一台自动验算打分器，从空白程序开始一轮轮修订自己的设计。
 </description></item>
 </channel>
 </rss>
