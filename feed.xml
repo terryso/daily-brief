@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 推出主动型 AI 助手 Claude Duet</title><link>https://daily.terryso.dev/2026-10-22-claude-duet.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-duet.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+Duet 不再等你开口，它每天早上把接进来的应用扫一遍，只把要你过目的事拎出来发简报，[CNA 称](https://www.channelnewsasia.com/business/anthropic-unveils-claude-duet-ai-agent-app-6480311)剩下的活自己在云端电脑里干完。它接了 6000 多个连接器，买单能走 Shopify 的 Shop Pay，敏感操作会先停下来问你。
+</description></item>
 <item><title>Claude 帮 OpenSSH 砍掉两成预登录可达代码</title><link>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 Anthropic 的 Frontier Red Team 让 Claude 扫了 25 个开源项目，找出 493 个本不该被外部触达的攻击面。[OpenSSH 10.6 的补丁删掉了约 4500 行实验性 ML-DSA-44 签名代码：登录前，陌生客户端就能一路触达到它们。](https://www.anthropic.com/research/attack-surface-reduction)
 </description></item>
@@ -148,9 +151,6 @@ Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板
 </description></item>
 <item><title>Complete AI Agents 上线 9866 个业务 Agent 模板</title><link>https://daily.terryso.dev/2026-10-18-ai-agent-templates.html</link><guid>https://daily.terryso.dev/2026-10-18-ai-agent-templates.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
 每份模板都是完整的 agent 规格：分步指令、流程图、读写系统的权限说明，以及对外发送前的人工确认。它直接装进已在用的助手，[走 MCP 在 Claude、Codex、Cursor 里即贴即用](https://seafood.einnews.com/pr_news/949215352/complete-ai-agents-publishes-9-866-ai-agent-templates-for-everyday-business-tasks)。
-</description></item>
-<item><title>Shopify 称 AI 带来的访问转化率高 80%</title><link>https://daily.terryso.dev/2026-10-18-shopify-ai-conversion.html</link><guid>https://daily.terryso.dev/2026-10-18-shopify-ai-conversion.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-今年二季度，AI 渠道带来的新客订单量接近其他渠道的两倍，[ecommercenews 援引了 Shopify 新上线的数据中心](https://ecommercenews.com.au/story/shopify-says-ai-referred-sessions-convert-80-better)。75% 的 AI 推荐销售额来自最常见的 100 个品类之外，窄品类反而更容易被 AI 捞起来。
 </description></item>
 </channel>
 </rss>
