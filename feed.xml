@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 用 NVIDIA 方案把 AI 成本砍掉九成</title><link>https://daily.terryso.dev/2026-10-22-shopify-nvidia-ai-cost.html</link><guid>https://daily.terryso.dev/2026-10-22-shopify-nvidia-ai-cost.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+后训练过的 [Nemotron 3.5 Lightning](https://aidailypost.com/news/shopify-gains-45x-speed-boost-nvidia)已经跑进商家助手 Sidekick，专职处理 GraphQL 查询这类脏活累活。同一套开源模型后训练加 vLLM 推理优化的打法，在目录丰富、商品分类等五个业务负载上全铺开了。
+</description></item>
+<item><title>LiteLLM 1.107.0 被植入后门：安装即偷走密钥</title><link>https://daily.terryso.dev/2026-10-22-litellm-backdoor.html</link><guid>https://daily.terryso.dev/2026-10-22-litellm-backdoor.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+攻击者拿着偷来的三名 LiteLLM 工程师 GitHub 凭证，劫持官方发布流程把[带后门的 1.107.0 推上 PyPI 和 Docker Hub](https://punkreport.sh/news/litellm-supply-chain-backdoor/)。这版包不用 import，Python 解释器一启动就偷走云凭证、SSH 密钥、浏览器密码和代理库里的上游 API Key。
+</description></item>
 <item><title>比特币跌破 83000 美元</title><link>https://daily.terryso.dev/2026-10-22-bitcoin-below-83000.html</link><guid>https://daily.terryso.dev/2026-10-22-bitcoin-below-83000.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 [美国现货比特币 ETF 本周净流入 11 亿美元](https://www.moneyweb.co.za/news-fast-news/bitcoin-falls-below-83-000/)。周四亚洲早盘比特币却跌至约 82700 美元，把前一交易日的反弹全吐了回去。
 </description></item>
@@ -145,12 +151,6 @@ Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板
 </description></item>
 <item><title>辛巴解封回归快手，足金项链1元开卖</title><link>https://daily.terryso.dev/2026-10-18-xinba-kuaishou-comeback.html</link><guid>https://daily.terryso.dev/2026-10-18-xinba-kuaishou-comeback.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
 辛巴的快手账号解封了，他备下[100万条足金项链](https://www.36kr.com/p/2993707894074120)，10月19日开播时以1元福利价开卖。快手这轮预售今天结束，明天转入持续到11月11日的正式期。
-</description></item>
-<item><title>给 Claude 一个目标，它能跑起 1000 个 Agent</title><link>https://daily.terryso.dev/2026-10-18-claude-1000-agents.html</link><guid>https://daily.terryso.dev/2026-10-18-claude-1000-agents.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-10 月 9 日进公测的[动态工作流](http://dev.to/max_quimby/claude-flows-hand-it-a-goal-it-runs-1000-agents-44k2)把编排交给了模型自己，主 Agent 为每个任务现写一段即用即弃的 JS。评论区最扎眼的代价是 62 个 Opus 子 Agent 齐跑，18 分钟就用完了 5 小时的额度。
-</description></item>
-<item><title>微软把 Claude 接进 Copilot Cowork，不再只靠 OpenAI</title><link>https://daily.terryso.dev/2026-10-18-copilot-cowork-claude.html</link><guid>https://daily.terryso.dev/2026-10-18-copilot-cowork-claude.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-微软让 [Copilot Cowork 直接选用 Claude Sonnet](https://bitrss.com/microsoft-msft-stock-integrates-anthropic-s-claude-into-new-copilot-cowork-feature-191235)，和 OpenAI 的模型在同一界面并排跑。部分功能含在每用户每月 30 美元的 M365 Copilot 订阅里，超量按 Copilot Credits 另计。
 </description></item>
 </channel>
 </rss>
