@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>CoinDCX 否认再被盗，链上侦探不买账</title><link>https://daily.terryso.dev/2026-10-23-coindcx-hack.html</link><guid>https://daily.terryso.dev/2026-10-23-coindcx-hack.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+10月21日深夜，约1599万枚 USDT 和5783枚 TRX 从被标记为 CoinDCX 关联的钱包转出，[最大单笔达1581.9万枚](https://crypto.news/coindcx-denies-second-hack-claims-as-zachxbt-questions-wallet-activity/)。CoinDCX 称这批是去年7月失窃的老地址，但 ZachXBT 指出其中一个充值地址今年4至5月仍在向其现热钱包归集资金。
+</description></item>
+<item><title>Agentic AI 基金会宣布新增四个项目</title><link>https://daily.terryso.dev/2026-10-23-agentic-ai-foundation.html</link><guid>https://daily.terryso.dev/2026-10-23-agentic-ai-foundation.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+Anthropic、OpenAI、Hugging Face 和阿里巴巴把手里的智能体关键项目捐给了中立托管的 [Agentic AI 基金会](https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects)。四件套凑齐了从能力扩展到安全运行的整条链，标准件这下有了统一说了算的地方。
+</description></item>
 <item><title>PHP 修复两个 9.2 分高危漏洞，官方催立即升级</title><link>https://daily.terryso.dev/2026-10-22-php-patch-cve.html</link><guid>https://daily.terryso.dev/2026-10-22-php-patch-cve.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 PHP 在 10 月 21 日发布紧急更新，[四个受支持分支分别升到 8.5.12、8.4.27、8.3.36 和 8.2.35](https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/)，修复 CVE-2026-109618 和 CVE-2026-109619。两个漏洞 CVSS 9.2，未登录即可远程执行代码，所有对外处理 Web 请求的 PHP 安装都在影响范围内。
 </description></item>
@@ -145,12 +151,6 @@ Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板
 </description></item>
 <item><title>DeepSeek V4.1-Flash-1017 发布：MIT 开源、更便宜的任务和搜索 API</title><link>https://daily.terryso.dev/2026-10-18-deepseek-v41-flash.html</link><guid>https://daily.terryso.dev/2026-10-18-deepseek-v41-flash.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
 权重按 MIT 协议上了 Hugging Face，[API 侧的 deepseek-flash](https://teckhustlers.com/deepseek-v4-1-flash-1017-open-weights-search-api/) 直接切到新版，单价没变、输出更短更快。最顺手的是自家搜索引擎也一起开放了：Search 和 Fetch 两个 API 按次计费，Agent 联网少了一道手续。
-</description></item>
-<item><title>黑五前40天，VIP早鸟名单窗口开了</title><link>https://daily.terryso.dev/2026-10-18-black-friday-vip-list.html</link><guid>https://daily.terryso.dev/2026-10-18-black-friday-vip-list.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-10月下旬是黑五VIP名单的成形窗口，[Qikify 的时间线把9–10月划为预售名单期](https://qikify.com/blogs/all-articles/black-friday-marketing-guideline)。[页脚订阅打上“BFCM VIP”标签直接进 Shopify Email](https://point-b.co/blogs/news/6-ways-to-get-your-shopify-store-ready-for-bfcm)，大促当天才能指着名单发早鸟。
-</description></item>
-<item><title>比特币守住8.12万美元，10月ETF流出超10亿美元</title><link>https://daily.terryso.dev/2026-10-18-bitcoin-etf-outflows.html</link><guid>https://daily.terryso.dev/2026-10-18-bitcoin-etf-outflows.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-10月12日至16日，美国加密基金净赎回6.107亿美元。[放大的成交量](https://www.interactivecrypto.com/bitcoin-holds-81-200-support-amid-1-billion-etf-outflows)比30天均值高出34%，但全是派发而不是新的积累。其中比特币 ETF 流出 2.284 亿美元，以太坊 ETF 流出 3.201 亿美元。
 </description></item>
 </channel>
 </rss>
