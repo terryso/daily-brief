@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 83000 美元</title><link>https://daily.terryso.dev/2026-10-22-bitcoin-below-83000.html</link><guid>https://daily.terryso.dev/2026-10-22-bitcoin-below-83000.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+[美国现货比特币 ETF 本周净流入 11 亿美元](https://www.moneyweb.co.za/news-fast-news/bitcoin-falls-below-83-000/)。周四亚洲早盘比特币却跌至约 82700 美元，把前一交易日的反弹全吐了回去。
+</description></item>
 <item><title>Anthropic 推出主动型 AI 助手 Claude Duet</title><link>https://daily.terryso.dev/2026-10-22-claude-duet.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-duet.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 Duet 不再等你开口，它每天早上把接进来的应用扫一遍，只把要你过目的事拎出来发简报，[CNA 称](https://www.channelnewsasia.com/business/anthropic-unveils-claude-duet-ai-agent-app-6480311)剩下的活自己在云端电脑里干完。它接了 6000 多个连接器，买单能走 Shopify 的 Shop Pay，敏感操作会先停下来问你。
 </description></item>
@@ -148,9 +151,6 @@ Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板
 </description></item>
 <item><title>微软把 Claude 接进 Copilot Cowork，不再只靠 OpenAI</title><link>https://daily.terryso.dev/2026-10-18-copilot-cowork-claude.html</link><guid>https://daily.terryso.dev/2026-10-18-copilot-cowork-claude.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
 微软让 [Copilot Cowork 直接选用 Claude Sonnet](https://bitrss.com/microsoft-msft-stock-integrates-anthropic-s-claude-into-new-copilot-cowork-feature-191235)，和 OpenAI 的模型在同一界面并排跑。部分功能含在每用户每月 30 美元的 M365 Copilot 订阅里，超量按 Copilot Credits 另计。
-</description></item>
-<item><title>Complete AI Agents 上线 9866 个业务 Agent 模板</title><link>https://daily.terryso.dev/2026-10-18-ai-agent-templates.html</link><guid>https://daily.terryso.dev/2026-10-18-ai-agent-templates.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-每份模板都是完整的 agent 规格：分步指令、流程图、读写系统的权限说明，以及对外发送前的人工确认。它直接装进已在用的助手，[走 MCP 在 Claude、Codex、Cursor 里即贴即用](https://seafood.einnews.com/pr_news/949215352/complete-ai-agents-publishes-9-866-ai-agent-templates-for-everyday-business-tasks)。
 </description></item>
 </channel>
 </rss>
