@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Xojo 发布 Agentic Mode，把 AI 编程智能体请进编译器</title><link>https://daily.terryso.dev/2026-10-23-xojo-agentic-mode.html</link><guid>https://daily.terryso.dev/2026-10-23-xojo-agentic-mode.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+通过 [Agentic Mode](https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/)，外部编程智能体现在可以直接编辑 Xojo 工程，并对着真实编译器反复迭代直到构建成功。10 月 20 日的这次更新让 Xojo 成为一周内第五个围绕自主编程智能体重塑自己的主流开发工具。
+</description></item>
 <item><title>CoinDCX 否认再被盗，链上侦探不买账</title><link>https://daily.terryso.dev/2026-10-23-coindcx-hack.html</link><guid>https://daily.terryso.dev/2026-10-23-coindcx-hack.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 10月21日深夜，约1599万枚 USDT 和5783枚 TRX 从被标记为 CoinDCX 关联的钱包转出，[最大单笔达1581.9万枚](https://crypto.news/coindcx-denies-second-hack-claims-as-zachxbt-questions-wallet-activity/)。CoinDCX 称这批是去年7月失窃的老地址，但 ZachXBT 指出其中一个充值地址今年4至5月仍在向其现热钱包归集资金。
 </description></item>
@@ -148,9 +151,6 @@ Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板
 </description></item>
 <item><title>大网站开始封堵 AI 智能体，银行下手最狠</title><link>https://daily.terryso.dev/2026-10-18-ai-agents-blocked.html</link><guid>https://daily.terryso.dev/2026-10-18-ai-agents-blocked.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
 一批大网站开始把 AI 智能体挡在门外，银行下手最狠，直接封掉账户访问（[The Verge 17 日的梳理](https://mylistingo.com/ai-agents-blocked-by-websites-2026/)）。更普遍的是误伤：反机器人系统默认把自动化浏览器当攻击，智能体常常连登录和验证码这一关都过不去。
-</description></item>
-<item><title>DeepSeek V4.1-Flash-1017 发布：MIT 开源、更便宜的任务和搜索 API</title><link>https://daily.terryso.dev/2026-10-18-deepseek-v41-flash.html</link><guid>https://daily.terryso.dev/2026-10-18-deepseek-v41-flash.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-权重按 MIT 协议上了 Hugging Face，[API 侧的 deepseek-flash](https://teckhustlers.com/deepseek-v4-1-flash-1017-open-weights-search-api/) 直接切到新版，单价没变、输出更短更快。最顺手的是自家搜索引擎也一起开放了：Search 和 Fetch 两个 API 按次计费，Agent 联网少了一道手续。
 </description></item>
 </channel>
 </rss>
