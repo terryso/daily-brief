@@ -2,6 +2,21 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Claude 帮 OpenSSH 砍掉两成预登录可达代码</title><link>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+Anthropic 的 Frontier Red Team 让 Claude 扫了 25 个开源项目，找出 493 个本不该被外部触达的攻击面。[OpenSSH 10.6 的补丁删掉了约 4500 行实验性 ML-DSA-44 签名代码：登录前，陌生客户端就能一路触达到它们。](https://www.anthropic.com/research/attack-surface-reduction)
+</description></item>
+<item><title>以太坊 ETF 十月流出近 11 亿美元</title><link>https://daily.terryso.dev/2026-10-22-eth-etf-october-outflows.html</link><guid>https://daily.terryso.dev/2026-10-22-eth-etf-october-outflows.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+这是 2026 年单月流出之最，9 月的净流入被一次性抹掉。[Cointelegraph 的报道](https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october)称，比特币 ETF 反着走，两天合计近 5.5 亿美元，把上周的赎回潮扭了回来。
+</description></item>
+<item><title>fal 发布 FLUX 3 Max 视频模型</title><link>https://daily.terryso.dev/2026-10-22-flux-3-max-video-model.html</link><guid>https://daily.terryso.dev/2026-10-22-flux-3-max-video-model.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+[FLUX 3 Max](https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/)以同等质量下 22 倍于 Seedance 2.5 的速度，拿下图生视频盲测并列第一。首发价每秒 0.0425 美元，这个价格只到 11 月 7 日。
+</description></item>
+<item><title>Haiku 5.5 和 GPT-6 Luna 打到同一地板价</title><link>https://daily.terryso.dev/2026-10-22-haiku-55-gpt6-luna-price-floor.html</link><guid>https://daily.terryso.dev/2026-10-22-haiku-55-gpt6-luna-price-floor.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+Claude Haiku 5.5 相对 4.5 降了约九成，[Shattered 的对照](https://shattered.io/what-changed-in-october-2026-two-new-model-families-one-week-apart/)把两家十月调价后的三档价格一次列清。GPT-6 Luna 直接贴到每百万输入 $0.10、输出 $0.50 的同一地板，选型剩下看任务不看品牌。
+</description></item>
+<item><title>Google 搜索份额跌到 2014 年以来最低</title><link>https://daily.terryso.dev/2026-10-22-google-search-share-lowest-2014.html</link><guid>https://daily.terryso.dev/2026-10-22-google-search-share-lowest-2014.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
+[StatCounter 的统计](https://www.einpresswire.com/article/951076638/google-s-search-market-share-hits-lowest-level-since-2014-as-ai-reshapes-online-discovery)显示，每年约 1250 亿次搜索已离开传统搜索，流向 ChatGPT 和 Gemini 这类 AI 平台。Pew 的对照更扎眼，有 AI 摘要时用户点开传统链接的只剩 8%，没有摘要时是 15%。
+</description></item>
 <item><title>Google 在美国上线跨商家通用购物车</title><link>https://daily.terryso.dev/2026-10-21-google-universal-cart.html</link><guid>https://daily.terryso.dev/2026-10-21-google-universal-cart.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 [Universal Cart](https://techlayers.in/google-universal-cart-ai-shopping/) 把在 Search 和 Gemini 里看中的商品收进同一个地方，降价或补货时会直接提醒回来买。下单可以直接走 Google Pay，也可以把东西转回商家自己的购物车结算。
 </description></item>
@@ -136,23 +151,6 @@ Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板
 </description></item>
 <item><title>Shopify 称 AI 带来的访问转化率高 80%</title><link>https://daily.terryso.dev/2026-10-18-shopify-ai-conversion.html</link><guid>https://daily.terryso.dev/2026-10-18-shopify-ai-conversion.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
 今年二季度，AI 渠道带来的新客订单量接近其他渠道的两倍，[ecommercenews 援引了 Shopify 新上线的数据中心](https://ecommercenews.com.au/story/shopify-says-ai-referred-sessions-convert-80-better)。75% 的 AI 推荐销售额来自最常见的 100 个品类之外，窄品类反而更容易被 AI 捞起来。
-</description></item>
-<item><title>Anthropic 初级技术招聘降到 9%，Agent 工时达人工 6 倍</title><link>https://daily.terryso.dev/2026-10-18-anthropic-agent-workforce.html</link><guid>https://daily.terryso.dev/2026-10-18-anthropic-agent-workforce.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-Anthropic 研究院的[新报告](https://fourweekmba.com/ai-anthropics-junior-tech-hires-fell-to-9-as-agents-hit-6x/)把自家当成了 AI 改造组织的样本：初级技术招聘占比降到 9%，agent 工时达到人工的 6 倍。交互式 agent 会话约 80% 的时间卡在等人工输入——人反而成了瓶颈。
-</description></item>
-<item><title>美国海关把邮政小包裹报关新规推迟到明年1月</title><link>https://daily.terryso.dev/2026-10-18-cbp-de-minimis-delay.html</link><guid>https://daily.terryso.dev/2026-10-18-cbp-de-minimis-delay.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-美国海关与边境保护局（CBP）在 10 月 14 日宣布，把国际邮政渠道小额免税新申报流程的合规截止日从 10 月 22 日推迟到 2027 年 1 月 20 日，等于多给了 90 天（[Thompson Hine](https://www.thompsonhine.com/insights/cbp-delays-implementation-date-of-de-minimis-exemption-for-mail-shipments/)）。CBP 的说法是让进口商、报关行和物流商有更多时间更新流程，避免寄往美国的国际邮政包裹断流。
-</description></item>
-<item><title>GitHub Copilot 11月16日下线三款模型</title><link>https://daily.terryso.dev/2026-10-18-copilot-models-retired.html</link><guid>https://daily.terryso.dev/2026-10-18-copilot-models-retired.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-被砍的是 Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra，团队和企业席位一个不留，只有个人年付能保住 Opus 4.8（[TrendinTech](https://trendintech.com/github-copilot-drops-3-ai-models-november-2026/)）。凡是写死这三个模型 ID 的流水线和插件配置，到 11 月 16 日都会失败或被静默切到默认模型。
-</description></item>
-<item><title>德意志银行自营加密托管进入数周倒计时</title><link>https://daily.terryso.dev/2026-10-18-deutsche-bank-custody.html</link><guid>https://daily.terryso.dev/2026-10-18-deutsche-bank-custody.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-德意志银行公司银行业务联席主管 Gerald Podobnik 10月16日接受路透采访时说，该行自营数字资产托管上线只剩几周时间（[CryptoCompass](https://cryptocompass.com/articles/bitcoin-price-at-81-437-as-deutsche-bank-nears-its-custody-launch-what-investors-need-to-know)）。首批只面向机构和企业客户，首站放在法兰克福，覆盖比特币、以太坊以及 USDC、EURC 和 EURAU。
-</description></item>
-<item><title>Claude Code 首字延迟降到 1.33 秒</title><link>https://daily.terryso.dev/2026-10-17-claude-code-latency.html</link><guid>https://daily.terryso.dev/2026-10-17-claude-code-latency.html</guid><pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate><description>
-Claude Code 的首字延迟降下来了：本地 p90 从 4.07 秒降到 1.33 秒，云端会话 p90 从 16.99 秒降到 6 秒。
-
-提速靠两招：每轮对话的 payload 先做 [gzip 压缩](https://cryptobriefing.com/anthropic-claude-code-latency-cut/)再传，长上下文最受益；云端则在用户打字时就已经开始预热，把启动的开销藏进了输入时间。
 </description></item>
 </channel>
 </rss>
