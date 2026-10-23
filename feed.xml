@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>OpenAI Decisions API 正式全量开放</title><link>https://daily.terryso.dev/2026-10-24-decisions-api.html</link><guid>https://daily.terryso.dev/2026-10-24-decisions-api.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com/t/decisions-api-is-now-generally-available-with-new-updates/1408934)，专为近实时分类、路由和打分设计，不必生成完整的模型回复。定价只收输入，每百万 tokens 收 $0.10，输出不收费。
+</description></item>
+<item><title>1071 家 Shopify 店实测：AI 购物就绪，差在 SKU 和商品信息</title><link>https://daily.terryso.dev/2026-10-24-shopify-ai-readiness.html</link><guid>https://daily.terryso.dev/2026-10-24-shopify-ai-readiness.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+有人把 1071 家 Shopify 店的公开商品目录扫了一遍，[85.8% 的店基础分过了 80](https://dev.to/projectdev/i-checked-1071-shopify-stores-for-chatgpt-shopping-readiness-here-is-what-is-missing-before-black-108i)。掉分都掉在同一类地方：半数商品有变体缺 SKU，黑五前把这批补齐最划算。
+</description></item>
 <item><title>黑客在 Initia 链上无限增发，套现约 260 万美元</title><link>https://daily.terryso.dev/2026-10-24-initia-infinimint.html</link><guid>https://daily.terryso.dev/2026-10-24-initia-infinimint.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 安全研究员 Spreek 今天把 Initia 上的这次攻击定性为 [infinimint](https://cryptobriefing.com/hacker-mints-tokens-initia-chain-exploit/)。截至首次报道，攻击者已经把新铸的代币换成了约 260 万美元的真实价值资产。
 </description></item>
@@ -145,12 +151,6 @@ DE-CIX 发布了[开源 MCP server](https://www.computerweekly.com/news/36665245
 </description></item>
 <item><title>Shopify 推出个人购物 AI 助手</title><link>https://daily.terryso.dev/2026-10-19-shopify-personal-shopper.html</link><guid>https://daily.terryso.dev/2026-10-19-shopify-personal-shopper.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 新上线的 [shop.md](https://smbtech.au/news/shopify-launches-personal-shopper-ai-agents/)能把你常用的 AI 助手变成跟单员，连上 Shop 账号后按历史订单和尺码偏好挑货。对话内直接走 Shop Pay 一键下单，每笔都由你亲手确认而卡号不经助手之手。
-</description></item>
-<item><title>亚马逊推新工具挑战英伟达软件优势</title><link>https://daily.terryso.dev/2026-10-19-amazon-torchneuron-nvidia.html</link><guid>https://daily.terryso.dev/2026-10-19-amazon-torchneuron-nvidia.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-[亚马逊把 TorchNeuron 推向公测](https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/)，PyTorch 代码只改一处配置就能跑在 Trainium 上。Deepgram 已经把它跑进生产环境，实测每美元能多处理约 60% 的音频。
-</description></item>
-<item><title>Claude Code 用 34 年前的 gzip 提速 3 倍</title><link>https://daily.terryso.dev/2026-10-19-claude-code-gzip.html</link><guid>https://daily.terryso.dev/2026-10-19-claude-code-gzip.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-Anthropic 给 Claude Code 每次对话请求的载荷加了 gzip 压缩，本地会话等到首 token 的 p90 时间直接降到原来的 1/3（[AI Daily Post 今日报道](https://aidailypost.com/news/claude-code-now-uses-34-year)）。卡脖子的从来不是推理，而是每轮传输的载荷大小，所以 1992 年的格式修好了 2026 年的工具。
 </description></item>
 </channel>
 </rss>
