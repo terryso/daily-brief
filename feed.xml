@@ -2,6 +2,15 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>TanStack AI 1.0 发布，76 个包全部转正</title><link>https://daily.terryso.dev/2026-10-23-tanstack-ai-10.html</link><guid>https://daily.terryso.dev/2026-10-23-tanstack-ai-10.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+全部卖点是无锁定：[今日发布的 TanStack AI 1.0](https://tanstack.com/blog/tanstack-ai-1-0) 带 23 个模型供应商适配器，换模型不用重写接入。它还附带一个实验性的 agent harness，多智能体任务带会话日志，崩溃或重新部署后能自动续跑。
+</description></item>
+<item><title>DeepSeek 传融资约150亿美元，距美联邦禁令仅两天</title><link>https://daily.terryso.dev/2026-10-23-deepseek-15b-funding.html</link><guid>https://daily.terryso.dev/2026-10-23-deepseek-15b-funding.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+领投的是[腾讯和宁德时代](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)，美的、美团、吉利等 15 家以上机构跟投，募资目标从 500 亿元翻到了约 1000 亿元。钱将投向算力基建和开源模型，投前估值约 5000 亿元，科创板 IPO 也在推进中。
+</description></item>
+<item><title>Riskified 上线 AI 代理身份风控</title><link>https://daily.terryso.dev/2026-10-23-riskified-agent-identity.html</link><guid>https://daily.terryso.dev/2026-10-23-riskified-agent-identity.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+首批先覆盖 [Shopify 商家](https://securitybrief.com.au/story/riskified-launches-ai-agent-identity-checks-for-merchants)，经 Meta Muse 这类个人助手下的订单会被标成代理来源。防的重点变了：不再是识别机器，而是验证代理背后那个真人值不值得信，下单到退款都打分。
+</description></item>
 <item><title>Shopify 商店 2026 黑五的 13 个营销思路</title><link>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 [Dakaas 更新的这份 Shopify 黑五清单](https://dakaas.com/blog/11-black-friday-marketing-ideas-for-shopify-stores-in-2026)列出了 13 个提高转化和客单价的打法。它把 10 月 13–31 日定为打基础期，先把邮件订阅做起来。
 </description></item>
@@ -142,15 +151,6 @@ Backpack 这周抛出了&quot;[IPOs Onchain](https://bitrss.com/crypto-platform-
 </description></item>
 <item><title>腾讯开源 Hy Memory 2.0，给 AI 智能体做共享记忆</title><link>https://daily.terryso.dev/2026-10-19-tencent-hy-memory-2.html</link><guid>https://daily.terryso.dev/2026-10-19-tencent-hy-memory-2.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 腾讯把 Hy Memory 2.0 [开源了](https://lapaasvoice.com/tencent-open-sources-hy-memory-2-0-to-give-ai-agents-shared-memory/)，MemHub 能把授权过的记忆带到 10 款 AI 工具里，不用反复交代。记什么、怎么记单独交给 Hy-Memory-30B-A3B 处理，30B 总量每次只激活约 3B。
-</description></item>
-<item><title>比特币守在 $81,000 上方</title><link>https://daily.terryso.dev/2026-10-19-bitcoin-above-81000.html</link><guid>https://daily.terryso.dev/2026-10-19-bitcoin-above-81000.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-[比特币今早 8 点报 $81,664](https://www.ajupress.com/view/20261019084070547)，有惊无险。开盘前 [CoinDesk 已经剧透了结局](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)：1990 年以来周五 VIX 暴涨的 32 个案例里，周一下跌是压倒性常态。
-</description></item>
-<item><title>Gmail 向付费用户推送 AI Inbox 和 Gmail Live</title><link>https://daily.terryso.dev/2026-10-19-gmail-ai-inbox.html</link><guid>https://daily.terryso.dev/2026-10-19-gmail-ai-inbox.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-AI Inbox 把 Gmail 里冗长的邮件往来直接抽成待办清单和话题摘要，入口就放在左侧导航栏。[分批推送](https://gadgetbond.com/google-gmail-ai-inbox-live-paid-workspace-users/)已经开始：Rapid Release 域 10 月 12 日起，Scheduled Release 域 10 月 26 日起，首批只面向美国区英语用户。
-</description></item>
-<item><title>传 Anthropic 下周发 Claude Fable 5.5</title><link>https://daily.terryso.dev/2026-10-19-claude-fable-55.html</link><guid>https://daily.terryso.dev/2026-10-19-claude-fable-55.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-[合作方被曝已拿到 Claude Fable 5.5](https://www.testingcatalog.com/anthropic-several-models-coming-fable-5-5-reaches-partners/)，爆料人 Lyra 预计发布就在下周。但露出的代号和 Azure 条目都在几个小时内被撤下，Anthropic 至今一句没确认。
 </description></item>
 </channel>
 </rss>
