@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>DWF Labs：比特币 ETF 资金流跟随价格，不预测走势</title><link>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</link><guid>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+[DWF Labs的报告](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound)发现，比特币ETF单日资金流与过去5天价格的相关性为0.54。把窗口挪到未来5天，相关性只剩0.03，大跌出逃、大涨涌入，资金只是确认走势而非带路。
+</description></item>
+<item><title>讯飞发布星火 X2.6：纯国产算力训练的大模型</title><link>https://daily.terryso.dev/2026-10-23-xunfei-spark-x26.html</link><guid>https://daily.terryso.dev/2026-10-23-xunfei-spark-x26.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+刘庆峰在 1024 开发者节上宣称，星火 X2.6 是业内唯一全程用国产算力训练的大模型。和以往的口号式发布不同，这次有现货可验：端侧 X2.6-4B 直接开源，[云端版也在官网开放试用](https://hitechexpert.top/iflytek-unveils-spark-x2-6-a-chinese-leap-in-large-language-models-built-on-domestic-power/)。
+</description></item>
 <item><title>Xojo 发布 Agentic Mode，把 AI 编程智能体请进编译器</title><link>https://daily.terryso.dev/2026-10-23-xojo-agentic-mode.html</link><guid>https://daily.terryso.dev/2026-10-23-xojo-agentic-mode.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 通过 [Agentic Mode](https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/)，外部编程智能体现在可以直接编辑 Xojo 工程，并对着真实编译器反复迭代直到构建成功。10 月 20 日的这次更新让 Xojo 成为一周内第五个围绕自主编程智能体重塑自己的主流开发工具。
 </description></item>
@@ -145,12 +151,6 @@ AI Inbox 把 Gmail 里冗长的邮件往来直接抽成待办清单和话题摘�
 </description></item>
 <item><title>黑色星期一39周年，比特币撑得住吗</title><link>https://daily.terryso.dev/2026-10-19-black-monday-btc.html</link><guid>https://daily.terryso.dev/2026-10-19-black-monday-btc.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 比特币过去一周在7.97万到8.44万美元之间来回，周日早上守在[8.16万美元附近](https://www.weex.com/news/detail/bitcoin-should-we-fear-a-black-monday-for-cryptocurrencies-aufhsv8jvc3vpxgyfdcrq5il)。第一道考验在北京时间今天早上6点到来，美股期货和CME比特币期货率先开盘，为1987年股灾39周年的这个周一提前定调。
-</description></item>
-<item><title>Vercel Shop 转正：Shopify 店面模板的 AI 买家视图</title><link>https://daily.terryso.dev/2026-10-19-vercel-shop.html</link><guid>https://daily.terryso.dev/2026-10-19-vercel-shop.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-Vercel Shop 在 10 月 16 日转成正式版：一个开源 Next.js 店面模板，一套代码同时招待访客、搜索引擎和 AI 买家，不再给机器单独起前端（[转成正式版的细节](https://techtoheart.com/vercel-shop-pushes-shopify-into-the-ai-shopper-era/)）。Shopify 自己报的数是 AI 渠道带来的订单量涨了近 13 倍。
-</description></item>
-<item><title>大网站开始封堵 AI 智能体，银行下手最狠</title><link>https://daily.terryso.dev/2026-10-18-ai-agents-blocked.html</link><guid>https://daily.terryso.dev/2026-10-18-ai-agents-blocked.html</guid><pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate><description>
-一批大网站开始把 AI 智能体挡在门外，银行下手最狠，直接封掉账户访问（[The Verge 17 日的梳理](https://mylistingo.com/ai-agents-blocked-by-websites-2026/)）。更普遍的是误伤：反机器人系统默认把自动化浏览器当攻击，智能体常常连登录和验证码这一关都过不去。
 </description></item>
 </channel>
 </rss>
