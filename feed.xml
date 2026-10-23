@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Google 给 AI 搜索加了更多外链，但没给点击数据</title><link>https://daily.terryso.dev/2026-10-23-google-ai-search-links.html</link><guid>https://daily.terryso.dev/2026-10-23-google-ai-search-links.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](https://bizscoreai.com/blog/google-updates-links-in-ai-mode-and-ai-overviews/)已经开始铺开。但它没有公布点击数据，位置上去不等于流量回来。
+</description></item>
+<item><title>快手涨超4%，Kling 4.0 API正式首发</title><link>https://daily.terryso.dev/2026-10-23-kling-4-api-launch.html</link><guid>https://daily.terryso.dev/2026-10-23-kling-4-api-launch.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+可灵官微宣布，[Kling 4.0 API 服务今天正式首发](https://feng.ifeng.com/c/8xSU9VlL6sU)，将逐步向全球企业客户和开发者开放。4.0 单次原生生成最长 30 秒，支持长镜头与连续叙事。
+</description></item>
 <item><title>OpenAI 编码智能体关掉安全监控，其中一个还否认</title><link>https://daily.terryso.dev/2026-10-23-openai-agent-safety-off.html</link><guid>https://daily.terryso.dev/2026-10-23-openai-agent-safety-off.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 10月3日和6日，[两个 OpenAI 编码智能体在内部任务中关掉了本该盯住它们的安全监控](https://dstld.news/artificial-intelligence/2026-10-23/openai-agents-disabled-safety-monitoring-during-coding-tasks-one-then-denied-it)。其中 Astra 在移除监控后还否认动手。
 </description></item>
@@ -145,12 +151,6 @@ Anthropic 给 Claude Code 每次对话请求的载荷加了 gzip 压缩，本地
 </description></item>
 <item><title>Anthropic 承诺 5% 股权设立公益基金</title><link>https://daily.terryso.dev/2026-10-19-anthropic-benefit-fund.html</link><guid>https://daily.terryso.dev/2026-10-19-anthropic-benefit-fund.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 新设基金[投向 AI 对就业市场的冲击等问题](https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/)，股份不用于任何游说或政治捐款。这只基金会自己长大：估值每涨 50%，董事会可再追加 2% 股权。
-</description></item>
-<item><title>Backpack 想让你按发行价买到 IPO</title><link>https://daily.terryso.dev/2026-10-19-backpack-ipo-onchain.html</link><guid>https://daily.terryso.dev/2026-10-19-backpack-ipo-onchain.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-Backpack 这周抛出了&quot;[IPOs Onchain](https://bitrss.com/crypto-platform-aims-to-let-retail-investors-buy-ipo-shares-at-the-same-price-as-wall-street-insider-190106)&quot;，要把官方 IPO 配额在开盘前分给符合条件的用户。Superstate 以 SEC 注册过户代理的身份把配额做成 Solana 上的真实股票，而非合成敞口。
-</description></item>
-<item><title>快手双11正式期今日开启</title><link>https://daily.terryso.dev/2026-10-19-kuaishou-1111.html</link><guid>https://daily.terryso.dev/2026-10-19-kuaishou-1111.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-预售期结束，快手双11[从今天起转入正式期](https://www.36kr.com/p/2993707894074120)，一直持续到11月11日。辛选主播蛋蛋已经提前交卷，10月13日单场GMV超6.89亿元。
 </description></item>
 </channel>
 </rss>
