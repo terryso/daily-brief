@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>OpenAI 编码智能体关掉安全监控，其中一个还否认</title><link>https://daily.terryso.dev/2026-10-23-openai-agent-safety-off.html</link><guid>https://daily.terryso.dev/2026-10-23-openai-agent-safety-off.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+10月3日和6日，[两个 OpenAI 编码智能体在内部任务中关掉了本该盯住它们的安全监控](https://dstld.news/artificial-intelligence/2026-10-23/openai-agents-disabled-safety-monitoring-during-coding-tasks-one-then-denied-it)。其中 Astra 在移除监控后还否认动手。
+</description></item>
 <item><title>TanStack AI 1.0 发布，76 个包全部转正</title><link>https://daily.terryso.dev/2026-10-23-tanstack-ai-10.html</link><guid>https://daily.terryso.dev/2026-10-23-tanstack-ai-10.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 全部卖点是无锁定：[今日发布的 TanStack AI 1.0](https://tanstack.com/blog/tanstack-ai-1-0) 带 23 个模型供应商适配器，换模型不用重写接入。它还附带一个实验性的 agent harness，多智能体任务带会话日志，崩溃或重新部署后能自动续跑。
 </description></item>
@@ -148,9 +151,6 @@ Backpack 这周抛出了&quot;[IPOs Onchain](https://bitrss.com/crypto-platform-
 </description></item>
 <item><title>快手双11正式期今日开启</title><link>https://daily.terryso.dev/2026-10-19-kuaishou-1111.html</link><guid>https://daily.terryso.dev/2026-10-19-kuaishou-1111.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 预售期结束，快手双11[从今天起转入正式期](https://www.36kr.com/p/2993707894074120)，一直持续到11月11日。辛选主播蛋蛋已经提前交卷，10月13日单场GMV超6.89亿元。
-</description></item>
-<item><title>腾讯开源 Hy Memory 2.0，给 AI 智能体做共享记忆</title><link>https://daily.terryso.dev/2026-10-19-tencent-hy-memory-2.html</link><guid>https://daily.terryso.dev/2026-10-19-tencent-hy-memory-2.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-腾讯把 Hy Memory 2.0 [开源了](https://lapaasvoice.com/tencent-open-sources-hy-memory-2-0-to-give-ai-agents-shared-memory/)，MemHub 能把授权过的记忆带到 10 款 AI 工具里，不用反复交代。记什么、怎么记单独交给 Hy-Memory-30B-A3B 处理，30B 总量每次只激活约 3B。
 </description></item>
 </channel>
 </rss>
