@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 商店 2026 黑五的 13 个营销思路</title><link>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
+[Dakaas 更新的这份 Shopify 黑五清单](https://dakaas.com/blog/11-black-friday-marketing-ideas-for-shopify-stores-in-2026)列出了 13 个提高转化和客单价的打法。它把 10 月 13–31 日定为打基础期，先把邮件订阅做起来。
+</description></item>
 <item><title>DWF Labs：比特币 ETF 资金流跟随价格，不预测走势</title><link>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</link><guid>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 [DWF Labs的报告](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound)发现，比特币ETF单日资金流与过去5天价格的相关性为0.54。把窗口挪到未来5天，相关性只剩0.03，大跌出逃、大涨涌入，资金只是确认走势而非带路。
 </description></item>
@@ -148,9 +151,6 @@ AI Inbox 把 Gmail 里冗长的邮件往来直接抽成待办清单和话题摘�
 </description></item>
 <item><title>传 Anthropic 下周发 Claude Fable 5.5</title><link>https://daily.terryso.dev/2026-10-19-claude-fable-55.html</link><guid>https://daily.terryso.dev/2026-10-19-claude-fable-55.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 [合作方被曝已拿到 Claude Fable 5.5](https://www.testingcatalog.com/anthropic-several-models-coming-fable-5-5-reaches-partners/)，爆料人 Lyra 预计发布就在下周。但露出的代号和 Azure 条目都在几个小时内被撤下，Anthropic 至今一句没确认。
-</description></item>
-<item><title>黑色星期一39周年，比特币撑得住吗</title><link>https://daily.terryso.dev/2026-10-19-black-monday-btc.html</link><guid>https://daily.terryso.dev/2026-10-19-black-monday-btc.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-比特币过去一周在7.97万到8.44万美元之间来回，周日早上守在[8.16万美元附近](https://www.weex.com/news/detail/bitcoin-should-we-fear-a-black-monday-for-cryptocurrencies-aufhsv8jvc3vpxgyfdcrq5il)。第一道考验在北京时间今天早上6点到来，美股期货和CME比特币期货率先开盘，为1987年股灾39周年的这个周一提前定调。
 </description></item>
 </channel>
 </rss>
