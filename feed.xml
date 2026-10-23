@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Backpack 把 Meta 股票搬上 Solana，$META 24/7 可交易、1:1 可赎回</title><link>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+你做 BP 的那家 Backpack 旗下证券业务发行了这只[$META](https://www.cryptoninjas.net/news/meta-shares-go-onchain-meta-launches-on-solana-with-24-7-trading-and-11-redemption/)，Sunrise 负责把它上链并做市。每枚代币由托管账户里 1 股真实 Meta 股票背书，合格用户可以 1:1 赎回成传统股票。
+</description></item>
 <item><title>OpenAI Decisions API 正式全量开放</title><link>https://daily.terryso.dev/2026-10-24-decisions-api.html</link><guid>https://daily.terryso.dev/2026-10-24-decisions-api.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com/t/decisions-api-is-now-generally-available-with-new-updates/1408934)，专为近实时分类、路由和打分设计，不必生成完整的模型回复。定价只收输入，每百万 tokens 收 $0.10，输出不收费。
 </description></item>
@@ -148,9 +151,6 @@ MiniMax 这次把 [M3.1 Flash](https://www.unite.ai/minimax-launches-m3-1-flash-
 </description></item>
 <item><title>DE-CIX 首个让 AI 智能体管网络</title><link>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</link><guid>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
 DE-CIX 发布了[开源 MCP server](https://www.computerweekly.com/news/366652459/DE-CIX-claims-AI-agent-network-management-first)，让 AI 智能体能用自然语言管理网络连接。Beta 版现在就能下载，直接跑在工程师自己的机器上。
-</description></item>
-<item><title>Shopify 推出个人购物 AI 助手</title><link>https://daily.terryso.dev/2026-10-19-shopify-personal-shopper.html</link><guid>https://daily.terryso.dev/2026-10-19-shopify-personal-shopper.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-新上线的 [shop.md](https://smbtech.au/news/shopify-launches-personal-shopper-ai-agents/)能把你常用的 AI 助手变成跟单员，连上 Shop 账号后按历史订单和尺码偏好挑货。对话内直接走 Shop Pay 一键下单，每笔都由你亲手确认而卡号不经助手之手。
 </description></item>
 </channel>
 </rss>
