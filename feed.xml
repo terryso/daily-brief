@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币直面 7.8 万美元威胁</title><link>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</link><guid>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+周六早晨，[比特币](https://news.bitcoin.com/market-updates/bitcoin-price-faces-78k-threat-as-sellers-hammer-key-support/)在 8.05 万美元附近交易。要扭转偏空结构，多头需重新站上 8.2 万美元。
+</description></item>
+<item><title>月之暗面给 Kimi K3.1 Pro 砍掉网络攻击能力</title><link>https://daily.terryso.dev/2026-10-24-kimi-k31-cyber-curb.html</link><guid>https://daily.terryso.dev/2026-10-24-kimi-k31-cyber-curb.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+月之暗面从 [Kimi K3.1 Pro](https://www.telegraphindia.com/world/china-moonshot-ai-curbs-cyberattack-capabilities-in-new-kimi-model/cid/2186011) 的训练语料和强化学习环境中移除了网络相关数据。模型权重计划在 11 月 4 日前公开。
+</description></item>
 <item><title>Shopify 结账自动改成平铺式支付布局</title><link>https://daily.terryso.dev/2026-10-24-shopify-checkout-layout.html</link><guid>https://daily.terryso.dev/2026-10-24-shopify-checkout-layout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 Shopify 从 10 月 22 日起，把支付方式在 4 个及以下的商店结账[自动改成平铺式布局](https://malakye.com/news/brand/common-thread-collective/shopifys-new-checkout-payment-layout-is-live-what-every-ecommerce-brand-needs/14917)，取代了原来的列表式。支付方式在 5 个及以上的商店仍保留列表式。
 </description></item>
@@ -146,12 +152,6 @@ Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](htt
 </description></item>
 <item><title>比特币跌破 $82,000，风险偏好转弱</title><link>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</link><guid>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 交割日当天比特币继续走低，[最新报 $81,400 附近](https://finnhub.io/?q=%22BTC%22)。上周现货 ETF 净流出 2.284 亿美元，道琼斯[援引分析师](https://www.morningstar.com/news/dow-jones/20261020805/bitcoin-below-82000-on-wavering-risk-appetite)称这轮反弹“大多是利率故事”。
-</description></item>
-<item><title>72 小时上线 meme AI 视频站：复用了什么、砍掉了什么</title><link>https://daily.terryso.dev/2026-10-20-meme-ai-video-site-72h.html</link><guid>https://daily.terryso.dev/2026-10-20-meme-ai-video-site-72h.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-作者[把上一个热点站的代码库整套搬了过来](https://dev.to/yina_lin_06fcf130821821ab/shipping-an-ai-video-site-for-a-meme-in-72-hours-what-i-reused-what-i-cut-1ce9)：额度账本、支付、慢渲染队列都没重写，新写的只有特效定义、服务端 prompt 和双语页面文案。砍掉的是免费档：没有免费额度，按视频收费，API 花费还设了日/月硬上限，流量来了只排队。
-</description></item>
-<item><title>Stripe：9月AI代理交易暴涨38倍</title><link>https://daily.terryso.dev/2026-10-20-stripe-agentic-ai-transactions.html</link><guid>https://daily.terryso.dev/2026-10-20-stripe-agentic-ai-transactions.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-经由 AI 代理完成的购买，平均一单在 100 美元上下。而冲得最快的类目正是零售，数据来自 [Stripe Link 的 9 月统计](https://www.wortins.com/story/stripe-reports-38x-surge-in-agentic-ai-transactions-in-septe-37491f80)。
 </description></item>
 </channel>
 </rss>
