@@ -2,6 +2,13 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Daytona 估值 10 亿美元，给 AI 智能体造了一朵专属云</title><link>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</link><guid>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+Daytona Platforms [宣布](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)完成 6000 万美元 B 轮融资，由 FirstMark Growth 领投，Stripe、Shopify、Perplexity 等公司创始人跟投。它的产品是给长时间运行的智能体专用的云：每个智能体分到一台独立的沙盒电脑，Linux、Windows、macOS 和 GPU 在同一平台上按需起。
+</description></item>
+<item><title>Backpack 把苹果和英伟达股票搬上 Solana，24/7 可交易</title><link>https://daily.terryso.dev/2026-10-24-backpack-aapl-nvda.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-aapl-nvda.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+继 $META 之后，Backpack Securities 今天又发布了[$AAPL 和 $NVDA 的代币公告](https://bitnxt.io/crypto-news/tokenized-apple-and-nvidia-stocks-solana-backpack)，每枚都可 1:1 赎回成对应的真实股票，全天可交易。
+这两枚并非苹果或英伟达官方发行，而是 Backpack 自家产品，由 Sunrise 上链并做市。
+</description></item>
 <item><title>Walmart 让 AI 购物代理直接下单</title><link>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 Walmart 给每个 AI 代理开了[独立档案](https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers?utm_source=l.metamuse.ai)，你可以要求每笔审批，或设 50、100、200 美元的额度。配套的 Agent Gateway 用 MCP 直连下单，代理接触不到你的卡号。
 </description></item>
@@ -145,12 +152,6 @@ Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](htt
 </description></item>
 <item><title>Linux 7.3 发布，Torvalds 的 Claude Code 补丁进入评审</title><link>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</link><guid>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 这组 Claude Code 写的页缓存补丁进了社区评审，评审先揪出了一处竞态条件。它在 64 线程合成测试里把小读吞吐从每秒 1330 万次推到 3.04 亿次，[Torvalds 自己提醒真实负载远没有这么夸张](https://www.kad8.com/software/linux-7.3-ships-as-torvalds-claude-code-patch-hits-review/)。
-</description></item>
-<item><title>Shopify 的 River 9 月卷入 12 万个 Slack 线程</title><link>https://daily.terryso.dev/2026-10-20-shopify-river-slack.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-river-slack.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-Tobi Lütke 在 10 月 19 日贴出半年曲线：Shopify 内部助手 River 经手的 Slack 线程从 3 月的 35,418 条，[涨到 9 月的 121,804 条](https://dealroom.co/news/163841-river-threads-jump-to-121-804-as-shopifys-ai-agent-floods-its-slack/)，接近翻了两番。与此同时，每八个被合并的 PR 里就有一个由 River 联合作者提交。
-</description></item>
-<item><title>ETF断流、DAT减仓，加密市场情绪熄火</title><link>https://daily.terryso.dev/2026-10-20-etf-outflow-crypto-sentiment.html</link><guid>https://daily.terryso.dev/2026-10-20-etf-outflow-crypto-sentiment.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-今天有[160亿美元的比特币和以太坊期权到期](https://bitrss.com/investor-sentiment-flatlines-amid-dry-etf-flows-and-dat-unwinds-us-crypto-news-143394)，波动可能要等交割后才落地。现货ETF的需求已经连续几周净流出，少了最稳的那路买盘。
 </description></item>
 </channel>
 </rss>
