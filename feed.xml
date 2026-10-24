@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>月之暗面发布 Kimi K3.1 Pro，K3.1 系列首款模型上线</title><link>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</link><guid>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+[Kimi K3.1 Pro](https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/) 已在 Kimi 全系入口全量上线。官方 Terminal-Bench 4.0 给到 65.7%，已经逼近闭源旗舰的水平。
+</description></item>
+<item><title>TikTok 全链路发力：AI 工具加创作者带货</title><link>https://daily.terryso.dev/2026-10-24-tiktok-world.html</link><guid>https://daily.terryso.dev/2026-10-24-tiktok-world.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+TikTok 在第五届 [TikTok World](https://www.marketing-interactive.com/tiktok-sharpens-full-funnel-play-with-ai-creative-tools-and-community-led-commerce-push) 上发布了趋势追踪器 Insight Spotlight。它用的是平台第一方受众数据，直接回答什么内容正在火、背后为什么火。
+</description></item>
 <item><title>Backpack 把 Meta 股票搬上 Solana，$META 24/7 可交易、1:1 可赎回</title><link>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 你做 BP 的那家 Backpack 旗下证券业务发行了这只[$META](https://www.cryptoninjas.net/news/meta-shares-go-onchain-meta-launches-on-solana-with-24-7-trading-and-11-redemption/)，Sunrise 负责把它上链并做市。每枚代币由托管账户里 1 股真实 Meta 股票背书，合格用户可以 1:1 赎回成传统股票。
 </description></item>
@@ -145,12 +151,6 @@ Tobi Lütke 在 10 月 19 日贴出半年曲线：Shopify 内部助手 River 经
 </description></item>
 <item><title>Shopify 上调 Grow 和 Advanced 套餐价格</title><link>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 这次是单纯涨价，不带任何新功能：老用户在 10 月 15 日之后的下一个账单日直接按新价扣费。月付转年付一年最多能省 1200 美元，[去 Settings → Plan 查一下账单日](https://commonthreadco.com/blogs/coachs-corner/shopify-plan-price-increase-october-2026-ecommerce)，赶在扣费前定。
-</description></item>
-<item><title>MiniMax 发布 M3.1 Flash，揭开 Space Bunny 面纱</title><link>https://daily.terryso.dev/2026-10-20-minimax-m31-flash.html</link><guid>https://daily.terryso.dev/2026-10-20-minimax-m31-flash.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-MiniMax 这次把 [M3.1 Flash](https://www.unite.ai/minimax-launches-m3-1-flash-revealing-space-bunny-stealth-model/) 的 agentic 任务成本砍掉了 70%。那只匿名霸榜十天的 Space Bunny，就是它的早期版本。
-</description></item>
-<item><title>DE-CIX 首个让 AI 智能体管网络</title><link>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</link><guid>https://daily.terryso.dev/2026-10-19-decix-ai-agent-network.html</guid><pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate><description>
-DE-CIX 发布了[开源 MCP server](https://www.computerweekly.com/news/366652459/DE-CIX-claims-AI-agent-network-management-first)，让 AI 智能体能用自然语言管理网络连接。Beta 版现在就能下载，直接跑在工程师自己的机器上。
 </description></item>
 </channel>
 </rss>
