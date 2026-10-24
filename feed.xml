@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 结账自动改成平铺式支付布局</title><link>https://daily.terryso.dev/2026-10-24-shopify-checkout-layout.html</link><guid>https://daily.terryso.dev/2026-10-24-shopify-checkout-layout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+Shopify 从 10 月 22 日起，把支付方式在 4 个及以下的商店结账[自动改成平铺式布局](https://malakye.com/news/brand/common-thread-collective/shopifys-new-checkout-payment-layout-is-live-what-every-ecommerce-brand-needs/14917)，取代了原来的列表式。支付方式在 5 个及以上的商店仍保留列表式。
+</description></item>
 <item><title>Daytona 估值 10 亿美元，给 AI 智能体造了一朵专属云</title><link>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</link><guid>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 Daytona Platforms [宣布](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)完成 6000 万美元 B 轮融资，由 FirstMark Growth 领投，Stripe、Shopify、Perplexity 等公司创始人跟投。它的产品是给长时间运行的智能体专用的云：每个智能体分到一台独立的沙盒电脑，Linux、Windows、macOS 和 GPU 在同一平台上按需起。
 </description></item>
@@ -149,9 +152,6 @@ Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](htt
 </description></item>
 <item><title>Stripe：9月AI代理交易暴涨38倍</title><link>https://daily.terryso.dev/2026-10-20-stripe-agentic-ai-transactions.html</link><guid>https://daily.terryso.dev/2026-10-20-stripe-agentic-ai-transactions.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 经由 AI 代理完成的购买，平均一单在 100 美元上下。而冲得最快的类目正是零售，数据来自 [Stripe Link 的 9 月统计](https://www.wortins.com/story/stripe-reports-38x-surge-in-agentic-ai-transactions-in-septe-37491f80)。
-</description></item>
-<item><title>Linux 7.3 发布，Torvalds 的 Claude Code 补丁进入评审</title><link>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</link><guid>https://daily.terryso.dev/2026-10-20-linux-73-claude-code-patch.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-这组 Claude Code 写的页缓存补丁进了社区评审，评审先揪出了一处竞态条件。它在 64 线程合成测试里把小读吞吐从每秒 1330 万次推到 3.04 亿次，[Torvalds 自己提醒真实负载远没有这么夸张](https://www.kad8.com/software/linux-7.3-ships-as-torvalds-claude-code-patch-hits-review/)。
 </description></item>
 </channel>
 </rss>
