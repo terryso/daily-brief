@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Walmart 让 AI 购物代理直接下单</title><link>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
+Walmart 给每个 AI 代理开了[独立档案](https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers?utm_source=l.metamuse.ai)，你可以要求每笔审批，或设 50、100、200 美元的额度。配套的 Agent Gateway 用 MCP 直连下单，代理接触不到你的卡号。
+</description></item>
 <item><title>月之暗面发布 Kimi K3.1 Pro，K3.1 系列首款模型上线</title><link>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</link><guid>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 [Kimi K3.1 Pro](https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/) 已在 Kimi 全系入口全量上线。官方 Terminal-Bench 4.0 给到 65.7%，已经逼近闭源旗舰的水平。
 </description></item>
@@ -148,9 +151,6 @@ Tobi Lütke 在 10 月 19 日贴出半年曲线：Shopify 内部助手 River 经
 </description></item>
 <item><title>ETF断流、DAT减仓，加密市场情绪熄火</title><link>https://daily.terryso.dev/2026-10-20-etf-outflow-crypto-sentiment.html</link><guid>https://daily.terryso.dev/2026-10-20-etf-outflow-crypto-sentiment.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 今天有[160亿美元的比特币和以太坊期权到期](https://bitrss.com/investor-sentiment-flatlines-amid-dry-etf-flows-and-dat-unwinds-us-crypto-news-143394)，波动可能要等交割后才落地。现货ETF的需求已经连续几周净流出，少了最稳的那路买盘。
-</description></item>
-<item><title>Shopify 上调 Grow 和 Advanced 套餐价格</title><link>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</link><guid>https://daily.terryso.dev/2026-10-20-shopify-plan-price-hike.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-这次是单纯涨价，不带任何新功能：老用户在 10 月 15 日之后的下一个账单日直接按新价扣费。月付转年付一年最多能省 1200 美元，[去 Settings → Plan 查一下账单日](https://commonthreadco.com/blogs/coachs-corner/shopify-plan-price-increase-october-2026-ecommerce)，赶在扣费前定。
 </description></item>
 </channel>
 </rss>
