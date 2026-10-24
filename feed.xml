@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币迎来决定性周末</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
+分析师 Benjamin Cowen 警告，比特币[周线收于 83,000 美元下方](https://www.tradingview.com/news/beincrypto:b24260ebe094b:0-bitcoin-faces-make-or-break-weekend-as-market-crash-fears-grow/)，将强化他对 2026 年剩余时间的看空判断。Glassnode 估算，企业金库平均以约 80,000 美元持有比特币，跌破这一水平将使平均仓位陷入亏损。
+</description></item>
 <item><title>比特币直面 7.8 万美元威胁</title><link>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</link><guid>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 周六早晨，[比特币](https://news.bitcoin.com/market-updates/bitcoin-price-faces-78k-threat-as-sellers-hammer-key-support/)在 8.05 万美元附近交易。要扭转偏空结构，多头需重新站上 8.2 万美元。
 </description></item>
@@ -149,9 +152,6 @@ Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](htt
 </description></item>
 <item><title>OpenAI 抢在 Anthropic IPO 前敲定 300 亿美元融资</title><link>https://daily.terryso.dev/2026-10-20-openai-30b-funding-anthropic-ipo.html</link><guid>https://daily.terryso.dev/2026-10-20-openai-30b-funding-anthropic-ipo.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 [这轮目标估值超过 1.4 万亿美元](https://www.freepressjournal.in/amp/tech/openai-rushes-to-close-30-billion-funding-round-ahead-of-anthropics-ipo)。知情人士的说法是，OpenAI 想赶在 Anthropic 公开财务数据前先把价格定下来，免得被投资人拿来逐项对比。
-</description></item>
-<item><title>比特币跌破 $82,000，风险偏好转弱</title><link>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</link><guid>https://daily.terryso.dev/2026-10-20-bitcoin-below-82000.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-交割日当天比特币继续走低，[最新报 $81,400 附近](https://finnhub.io/?q=%22BTC%22)。上周现货 ETF 净流出 2.284 亿美元，道琼斯[援引分析师](https://www.morningstar.com/news/dow-jones/20261020805/bitcoin-below-82000-on-wavering-risk-appetite)称这轮反弹“大多是利率故事”。
 </description></item>
 </channel>
 </rss>
