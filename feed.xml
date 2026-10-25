@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>消费者更愿让 AI 购物代理去大平台下单，而非品牌官网</title><link>https://daily.terryso.dev/2026-10-25-ai-agent-marketplace-trust.html</link><guid>https://daily.terryso.dev/2026-10-25-ai-agent-marketplace-trust.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
+[PYMNTS Intelligence 的调查](https://www.pymnts.com/commerce/ecommerce/2026/shoppers-would-send-ai-agents-to-marketplaces-over-brand-sites/)显示，即使价格、运费和退货条件完全相同，40.2% 的美国消费者仍会让 AI 购物代理去大型平台购买。在常去平台购物的受访者中，53.9% 表示更低的价格或独家折扣能让他们转去品牌直购。
+</description></item>
 <item><title>比特币迎来决定性周末</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 分析师 Benjamin Cowen 警告，比特币[周线收于 83,000 美元下方](https://www.tradingview.com/news/beincrypto:b24260ebe094b:0-bitcoin-faces-make-or-break-weekend-as-market-crash-fears-grow/)，将强化他对 2026 年剩余时间的看空判断。Glassnode 估算，企业金库平均以约 80,000 美元持有比特币，跌破这一水平将使平均仓位陷入亏损。
 </description></item>
@@ -149,9 +152,6 @@ Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](htt
 </description></item>
 <item><title>Benson 重启，盯住优惠券机器人和 AI 代购</title><link>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 店主终于能看到一次会话里是真人、优惠券插件还是 AI 代理在反复试码，以及它们各自吃掉了多少佣金 [新版介绍](https://ecommercenews.uk/story/benson-relaunches-to-track-coupon-bots-ai-agents)。在 Shopify 上加一段脚本就能把这笔糊涂账摆到台面上。
-</description></item>
-<item><title>OpenAI 抢在 Anthropic IPO 前敲定 300 亿美元融资</title><link>https://daily.terryso.dev/2026-10-20-openai-30b-funding-anthropic-ipo.html</link><guid>https://daily.terryso.dev/2026-10-20-openai-30b-funding-anthropic-ipo.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-[这轮目标估值超过 1.4 万亿美元](https://www.freepressjournal.in/amp/tech/openai-rushes-to-close-30-billion-funding-round-ahead-of-anthropics-ipo)。知情人士的说法是，OpenAI 想赶在 Anthropic 公开财务数据前先把价格定下来，免得被投资人拿来逐项对比。
 </description></item>
 </channel>
 </rss>
