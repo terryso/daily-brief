@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破8万美元，8.1亿美元仓位在美联储议息前被清算</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-below-80k-liquidation.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-below-80k-liquidation.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://coincentral.com/bitcoin-btc-price-drops-below-80k-as-810-million-gets-wiped-out-before-the-fed-meeting/)周六跌至79,146美元，创一个多月以来新低。24小时内，超过8.1亿美元仓位被清算。
+</description></item>
 <item><title>Claude 报告 Sonnet 5.5 等模型报错率升高</title><link>https://daily.terryso.dev/2026-10-25-claude-sonnet-error-rate.html</link><guid>https://daily.terryso.dev/2026-10-25-claude-sonnet-error-rate.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 Anthropic 已为出问题的 Claude 服务[部署修复](https://www.technobezz.com/news/claude-service-incident-7c25a3d9)，正在监控恢复情况。受影响的包括 claude.ai、Claude API、Claude Code 和 Claude Cowork。
 </description></item>
@@ -149,9 +152,6 @@ Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://de
 </description></item>
 <item><title>Claude Code、Codex CLI、OpenCode 四天内接连更新</title><link>https://daily.terryso.dev/2026-10-21-ai-coding-tools-agent-service.html</link><guid>https://daily.terryso.dev/2026-10-21-ai-coding-tools-agent-service.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 10 月 12 日到 16 日，四款主流 AI 编程工具接连发版，赌的是同一件事：agent 该从一次性命令变成常驻的后台服务。[OpenCode 2.0](https://shattered.io/claude-code-codex-cli-opencode-update-4-days-2026/) 走得最远，直接把自己重做成了带 API 和 SDK 的后台服务。
-</description></item>
-<item><title>Shopify 入选 Zacks 当日牛股</title><link>https://daily.terryso.dev/2026-10-21-shopify-zacks-bull-of-day.html</link><guid>https://daily.terryso.dev/2026-10-21-shopify-zacks-bull-of-day.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-这份[看多报告](https://www.zacks.com/commentary/3010847/bull-of-the-day-shopify-shop)的弹药来自营收端：Zacks 预计 Shopify 2026 年营收增长 31.5%。三季报还没发，分析师已经先把三季度的盈利预估调了上来。
 </description></item>
 </channel>
 </rss>
