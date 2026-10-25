@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币 ETF 终结两周连失，尽管周末前连遭流出</title><link>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</link><guid>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
+[美国现货比特币 ETF](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)周五净流出 1.379 亿美元。即便如此，全周仍净流入约 3.01 亿美元。
+</description></item>
+<item><title>9月零售量下滑，商家备战冷清黑五</title><link>https://daily.terryso.dev/2026-10-26-sept-retail-muted-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-26-sept-retail-muted-black-friday.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
+[最新数据](https://internetretailing.net/online-retail-sales-volumes-decline-in-september-as-retailers-brace-for-a-muted-black-friday/)显示，9 月零售量环比下降 0.4%。Shopify 的 Holiday Retail 2026 报告预计，英国消费者黑五周末计划支出将从去年的 £181 降至 £165。
+</description></item>
 <item><title>ARC Prize 否认 Astra 的 99.9% 通用智能成绩</title><link>https://daily.terryso.dev/2026-10-25-arc-prize-astra-agi.html</link><guid>https://daily.terryso.dev/2026-10-25-arc-prize-astra-agi.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 [ARC Prize](https://startupfortune.com/arc-prize-rejects-openais-claim-that-astra-scored-999-percent-on-agi-test/) 用与其他模型相同的标准测试重新跑了 Astra。宣传里的高分来自 OpenAI 自家定制的工具测试套件。
 </description></item>
@@ -146,12 +152,6 @@ Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://de
 </description></item>
 <item><title>Mastercard 向开发者开放 AI 代理支付</title><link>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</link><guid>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 代理可以自己下单付款，但[每一笔都跑在人提前批好的额度里](https://cryptobriefing.com/mastercard-agent-pay-machines-early-access/)。发布会挑了个最不起眼的演示：一个代理替营销公司给蛋白棒打广告，付了 9 笔款，全从同一笔预批预算里出。
-</description></item>
-<item><title>VideoGen 发布首个 AI 视频模型 Model 1</title><link>https://daily.terryso.dev/2026-10-21-videogen-model-1.html</link><guid>https://daily.terryso.dev/2026-10-21-videogen-model-1.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-[官方通稿](https://www.globenewswire.com/news-release/2026/10/20/3384785/0/en/videogen-unveils-model-1-its-first-ai-video-generation-model-and-1-million-in-free-ai-credits.html)称 Model 1 能把一段文字简报变成最长 10 分钟的多镜头成片。它的思考编排会先写剧本、对白和分镜，再跨镜头保住角色和场景的一致。
-</description></item>
-<item><title>Solana 联创质疑 Alpenglow 设计，网络今日移除验证者投票</title><link>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</link><guid>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-[Alpenglow](https://crypto-economy.com/solanas-yakovenko-challenges-alpenglow-design-as-network-prepares-to-remove-validator-votes/)今日启动迁移，目标把最终确认从 12.8 秒压到 100–150 毫秒。投票交易将移出区块，这类交易历史上占约 75% 的区块空间。
 </description></item>
 </channel>
 </rss>
