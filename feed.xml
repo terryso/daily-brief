@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>NVIDIA OpenShell：给 AI 智能体一个安全的沙箱运行时</title><link>https://daily.terryso.dev/2026-10-25-nvidia-openshell-agent-sandbox.html</link><guid>https://daily.terryso.dev/2026-10-25-nvidia-openshell-agent-sandbox.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
+OpenShell 只把真实凭证加到获批端点，智能体本身看不到它。10 月 24 日，[OpenShell](https://digisoulhub.com/blog/nvidia-openshell-agent-sandbox/) 在 GitHub 上已有 18,717 星标。
+</description></item>
 <item><title>消费者更愿让 AI 购物代理去大平台下单，而非品牌官网</title><link>https://daily.terryso.dev/2026-10-25-ai-agent-marketplace-trust.html</link><guid>https://daily.terryso.dev/2026-10-25-ai-agent-marketplace-trust.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 [PYMNTS Intelligence 的调查](https://www.pymnts.com/commerce/ecommerce/2026/shoppers-would-send-ai-agents-to-marketplaces-over-brand-sites/)显示，即使价格、运费和退货条件完全相同，40.2% 的美国消费者仍会让 AI 购物代理去大型平台购买。在常去平台购物的受访者中，53.9% 表示更低的价格或独家折扣能让他们转去品牌直购。
 </description></item>
@@ -149,9 +152,6 @@ Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://de
 </description></item>
 <item><title>Blockchain.com 上线 7 币种期权，最长一周到期</title><link>https://daily.terryso.dev/2026-10-20-blockchain-com-crypto-options.html</link><guid>https://daily.terryso.dev/2026-10-20-blockchain-com-crypto-options.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
 Blockchain.com 今天在 Trading Account 里[上线了只能买入的期权](https://cryptobriefing.com/blockchain-com-launches-crypto-options-trading/)，首批覆盖 BTC、ETH、SOL、HYPE 等七个币种。权利金就是最大亏损，但合约必须持有到交割，中途不能提前平仓。
-</description></item>
-<item><title>Benson 重启，盯住优惠券机器人和 AI 代购</title><link>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-20-benson-coupon-bots-ai-agents.html</guid><pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate><description>
-店主终于能看到一次会话里是真人、优惠券插件还是 AI 代理在反复试码，以及它们各自吃掉了多少佣金 [新版介绍](https://ecommercenews.uk/story/benson-relaunches-to-track-coupon-bots-ai-agents)。在 Shopify 上加一段脚本就能把这笔糊涂账摆到台面上。
 </description></item>
 </channel>
 </rss>
