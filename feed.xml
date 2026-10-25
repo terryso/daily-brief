@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>ARC Prize 否认 Astra 的 99.9% 通用智能成绩</title><link>https://daily.terryso.dev/2026-10-25-arc-prize-astra-agi.html</link><guid>https://daily.terryso.dev/2026-10-25-arc-prize-astra-agi.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
+[ARC Prize](https://startupfortune.com/arc-prize-rejects-openais-claim-that-astra-scored-999-percent-on-agi-test/) 用与其他模型相同的标准测试重新跑了 Astra。宣传里的高分来自 OpenAI 自家定制的工具测试套件。
+</description></item>
 <item><title>比特币回升至约8.08万美元，美联储议息会议前夕</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-rebound-80800.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-rebound-80800.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://biztoc.com/x/0bf8d463a3770836)周日回升至约80,800美元。美联储10月27日至28日的会议是近期关键变量，交易员在观望是维持利率还是进一步收紧。
 </description></item>
@@ -149,9 +152,6 @@ Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://de
 </description></item>
 <item><title>Solana 联创质疑 Alpenglow 设计，网络今日移除验证者投票</title><link>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</link><guid>https://daily.terryso.dev/2026-10-21-solana-alpenglow-vote.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 [Alpenglow](https://crypto-economy.com/solanas-yakovenko-challenges-alpenglow-design-as-network-prepares-to-remove-validator-votes/)今日启动迁移，目标把最终确认从 12.8 秒压到 100–150 毫秒。投票交易将移出区块，这类交易历史上占约 75% 的区块空间。
-</description></item>
-<item><title>亚马逊和银行开始拦截 AI 购物代理</title><link>https://daily.terryso.dev/2026-10-21-amazon-banks-block-ai-agents.html</link><guid>https://daily.terryso.dev/2026-10-21-amazon-banks-block-ai-agents.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-亚马逊、达美、摩根大通这一轮把 AI 购物代理集体拦在了门外，[Meta 的 Muse、xAI 的 Grok 也没能例外](https://adalytica.com/news/amazon-banks-block-ai-shopping-agents-9ddd6104)。Shopify 偏偏反着来，向代理敞开店面：下单的是人还是代理不重要，经 Shop Pay 的流水都算它的。
 </description></item>
 </channel>
 </rss>
