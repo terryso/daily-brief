@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Hyperliquid 周一开 11 个代币化美股与 ETF 市场</title><link>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</link><guid>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
+[Hyperliquid 的 11 个代币化市场](https://www.tokenpost.com/news/business/40564)将于北京时间今晚 21:30 开盘。按 EQX Labs 的说法，这些代币由股票 1:1 支持，属于有限追索债务工具。
+</description></item>
+<item><title>OpenAI 最高降价九成，挖 Anthropic 大客户</title><link>https://daily.terryso.dev/2026-10-26-openai-discount-anthropic.html</link><guid>https://daily.terryso.dev/2026-10-26-openai-discount-anthropic.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
+Rippling 的编程工作量中，[OpenAI 的占比已升至 52%](https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/)。DataCamp 则说，转投让它的成本下降了 80% 至 90%。
+</description></item>
 <item><title>Anthropic 招股书或于周一公开</title><link>https://daily.terryso.dev/2026-10-26-anthropic-s1-filing.html</link><guid>https://daily.terryso.dev/2026-10-26-anthropic-s1-filing.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 截至周日晚间，SEC 的 EDGAR 系统里仍查不到 Anthropic 的公开注册文件。按 IFR 的时间表，[路演定在 11 月 9 日](https://www.webpronews.com/anthropic-s1-public-filing-google-amazon-earnings-week/)。
 </description></item>
@@ -146,12 +152,6 @@ Claude Haiku 5.5 相对 4.5 降了约九成，[Shattered 的对照](https://shat
 </description></item>
 <item><title>Google 搜索份额跌到 2014 年以来最低</title><link>https://daily.terryso.dev/2026-10-22-google-search-share-lowest-2014.html</link><guid>https://daily.terryso.dev/2026-10-22-google-search-share-lowest-2014.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 [StatCounter 的统计](https://www.einpresswire.com/article/951076638/google-s-search-market-share-hits-lowest-level-since-2014-as-ai-reshapes-online-discovery)显示，每年约 1250 亿次搜索已离开传统搜索，流向 ChatGPT 和 Gemini 这类 AI 平台。Pew 的对照更扎眼，有 AI 摘要时用户点开传统链接的只剩 8%，没有摘要时是 15%。
-</description></item>
-<item><title>Google 在美国上线跨商家通用购物车</title><link>https://daily.terryso.dev/2026-10-21-google-universal-cart.html</link><guid>https://daily.terryso.dev/2026-10-21-google-universal-cart.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-[Universal Cart](https://techlayers.in/google-universal-cart-ai-shopping/) 把在 Search 和 Gemini 里看中的商品收进同一个地方，降价或补货时会直接提醒回来买。下单可以直接走 Google Pay，也可以把东西转回商家自己的购物车结算。
-</description></item>
-<item><title>Google AI Overviews 月触达超 25 亿人</title><link>https://daily.terryso.dev/2026-10-21-google-ai-overviews-2-5-billion.html</link><guid>https://daily.terryso.dev/2026-10-21-google-ai-overviews-2-5-billion.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-DataReportal 今天发布[《Digital 2027》报告](https://anythingengineoptimization.com/item/2026-10-21-google-ai-overviews-now-reach-2-5-billion-people-a-month/)（Meltwater 与 We Are Social 出品），推算依据是 Similarweb 的发现：超四成 Google 搜索已展示 AI Overviews。同一份报告的另一面：成年人研究品牌时，选择搜索引擎而非独立 AI 平台的可能性高出 74%。
 </description></item>
 </channel>
 </rss>
