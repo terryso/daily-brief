@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>多家大银行限制第三方 AI 智能体访问账户</title><link>https://daily.terryso.dev/2026-10-26-banks-limit-ai-agent-access.html</link><guid>https://daily.terryso.dev/2026-10-26-banks-limit-ai-agent-access.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
+[花旗表示](https://www.usatoday.com/story/money/2026/10/23/banks-move-to-limit-ai-agent-access/92385119007/)，第三方 AI 智能体不得登录客户账户，也不得在其数字银行平台内直接交易。富国银行、美国银行和摩根大通也已采取了限制措施。
+</description></item>
 <item><title>比特币 ETF 终结两周连失，尽管周末前连遭流出</title><link>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</link><guid>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 [美国现货比特币 ETF](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)周五净流出 1.379 亿美元。即便如此，全周仍净流入约 3.01 亿美元。
 </description></item>
@@ -149,9 +152,6 @@ DataReportal 今天发布[《Digital 2027》报告](https://anythingengineoptimi
 </description></item>
 <item><title>Cloudflare 今日紧急更新 WAF，新增拦截异常执行的规则</title><link>https://daily.terryso.dev/2026-10-21-cloudflare-waf-emergency.html</link><guid>https://daily.terryso.dev/2026-10-21-cloudflare-waf-emergency.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
 Cloudflare 今天给托管版 WAF 规则集做了一次[紧急更新](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/)，新增四条&quot;异常执行&quot;检测规则，两条拦截、两条只记录。免费版规则集也同步上线了同系列的拦截规则。
-</description></item>
-<item><title>Mastercard 向开发者开放 AI 代理支付</title><link>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</link><guid>https://daily.terryso.dev/2026-10-21-mastercard-ai-agent-pay.html</guid><pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate><description>
-代理可以自己下单付款，但[每一笔都跑在人提前批好的额度里](https://cryptobriefing.com/mastercard-agent-pay-machines-early-access/)。发布会挑了个最不起眼的演示：一个代理替营销公司给蛋白棒打广告，付了 9 笔款，全从同一笔预批预算里出。
 </description></item>
 </channel>
 </rss>
