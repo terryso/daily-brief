@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>美联储本周料暂停加息，但暂停未必持久</title><link>https://daily.terryso.dev/2026-10-26-fed-pause-rate-hikes.html</link><guid>https://daily.terryso.dev/2026-10-26-fed-pause-rate-hikes.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
+上周五的[利率期货](https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-long-2026-10-26/)给10月27日至28日的会议维持利率不变定出90%的概率。决定公布次日的数据预计显示，上月通胀已超出燃油价格，更广泛地回升。
+</description></item>
 <item><title>Hyperliquid 周一开 11 个代币化美股与 ETF 市场</title><link>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</link><guid>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 [Hyperliquid 的 11 个代币化市场](https://www.tokenpost.com/news/business/40564)将于北京时间今晚 21:30 开盘。按 EQX Labs 的说法，这些代币由股票 1:1 支持，属于有限追索债务工具。
 </description></item>
@@ -149,9 +152,6 @@ Anthropic 的 Frontier Red Team 让 Claude 扫了 25 个开源项目，找出 49
 </description></item>
 <item><title>Haiku 5.5 和 GPT-6 Luna 打到同一地板价</title><link>https://daily.terryso.dev/2026-10-22-haiku-55-gpt6-luna-price-floor.html</link><guid>https://daily.terryso.dev/2026-10-22-haiku-55-gpt6-luna-price-floor.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 Claude Haiku 5.5 相对 4.5 降了约九成，[Shattered 的对照](https://shattered.io/what-changed-in-october-2026-two-new-model-families-one-week-apart/)把两家十月调价后的三档价格一次列清。GPT-6 Luna 直接贴到每百万输入 $0.10、输出 $0.50 的同一地板，选型剩下看任务不看品牌。
-</description></item>
-<item><title>Google 搜索份额跌到 2014 年以来最低</title><link>https://daily.terryso.dev/2026-10-22-google-search-share-lowest-2014.html</link><guid>https://daily.terryso.dev/2026-10-22-google-search-share-lowest-2014.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-[StatCounter 的统计](https://www.einpresswire.com/article/951076638/google-s-search-market-share-hits-lowest-level-since-2014-as-ai-reshapes-online-discovery)显示，每年约 1250 亿次搜索已离开传统搜索，流向 ChatGPT 和 Gemini 这类 AI 平台。Pew 的对照更扎眼，有 AI 摘要时用户点开传统链接的只剩 8%，没有摘要时是 15%。
 </description></item>
 </channel>
 </rss>
