@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>苹果发布 M6 版 MacBook Pro 和 iMac，主打更快本地 AI</title><link>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</link><guid>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
+[M6 版 MacBook Pro](https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/) 的 AI 性能比 M5 最高快 25%。两款机型从周三起接受预订，11 月 6 日正式发售。
+</description></item>
 <item><title>49家小型Shopify店接受AI购物就绪检查</title><link>https://daily.terryso.dev/2026-10-27-shopify-ai-readiness-check.html</link><guid>https://daily.terryso.dev/2026-10-27-shopify-ai-readiness-check.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
 [10月26日的检查](https://passtheagent.com/research/shopify-ai-readiness-2026)里，仅6家小店拿到了满分。最常见的缺口，是AI购物者最先要读的产品信息本身不完整。
 </description></item>
@@ -149,9 +152,6 @@ PHP 在 10 月 21 日发布紧急更新，[四个受支持分支分别升到 8.5
 </description></item>
 <item><title>Anthropic 推出主动型 AI 助手 Claude Duet</title><link>https://daily.terryso.dev/2026-10-22-claude-duet.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-duet.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 Duet 不再等你开口，它每天早上把接进来的应用扫一遍，只把要你过目的事拎出来发简报，[CNA 称](https://www.channelnewsasia.com/business/anthropic-unveils-claude-duet-ai-agent-app-6480311)剩下的活自己在云端电脑里干完。它接了 6000 多个连接器，买单能走 Shopify 的 Shop Pay，敏感操作会先停下来问你。
-</description></item>
-<item><title>Claude 帮 OpenSSH 砍掉两成预登录可达代码</title><link>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-Anthropic 的 Frontier Red Team 让 Claude 扫了 25 个开源项目，找出 493 个本不该被外部触达的攻击面。[OpenSSH 10.6 的补丁删掉了约 4500 行实验性 ML-DSA-44 签名代码：登录前，陌生客户端就能一路触达到它们。](https://www.anthropic.com/research/attack-surface-reduction)
 </description></item>
 </channel>
 </rss>
