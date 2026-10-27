@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>49家小型Shopify店接受AI购物就绪检查</title><link>https://daily.terryso.dev/2026-10-27-shopify-ai-readiness-check.html</link><guid>https://daily.terryso.dev/2026-10-27-shopify-ai-readiness-check.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
+[10月26日的检查](https://passtheagent.com/research/shopify-ai-readiness-2026)里，仅6家小店拿到了满分。最常见的缺口，是AI购物者最先要读的产品信息本身不完整。
+</description></item>
 <item><title>比特币跌破 8 万美元，ETF 流出与宏观风险施压</title><link>https://daily.terryso.dev/2026-10-27-bitcoin-below-80k-etf-outflow.html</link><guid>https://daily.terryso.dev/2026-10-27-bitcoin-below-80k-etf-outflow.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
 截至 27 日早间，[比特币报 79,760 美元](https://biz.chosun.com/en/en-finance/2026/10/27/NSFJMVCWTRHGTEH4ENF5W4T6EA/)。美国现货比特币 ETF 在 22 日净流出 6.356 亿美元，23 日继续流出。
 </description></item>
@@ -149,9 +152,6 @@ Duet 不再等你开口，它每天早上把接进来的应用扫一遍，只把
 </description></item>
 <item><title>Claude 帮 OpenSSH 砍掉两成预登录可达代码</title><link>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-openssh-attack-surface.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 Anthropic 的 Frontier Red Team 让 Claude 扫了 25 个开源项目，找出 493 个本不该被外部触达的攻击面。[OpenSSH 10.6 的补丁删掉了约 4500 行实验性 ML-DSA-44 签名代码：登录前，陌生客户端就能一路触达到它们。](https://www.anthropic.com/research/attack-surface-reduction)
-</description></item>
-<item><title>以太坊 ETF 十月流出近 11 亿美元</title><link>https://daily.terryso.dev/2026-10-22-eth-etf-october-outflows.html</link><guid>https://daily.terryso.dev/2026-10-22-eth-etf-october-outflows.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-这是 2026 年单月流出之最，9 月的净流入被一次性抹掉。[Cointelegraph 的报道](https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october)称，比特币 ETF 反着走，两天合计近 5.5 亿美元，把上周的赎回潮扭了回来。
 </description></item>
 </channel>
 </rss>
