@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 公开招股书，拟以 ANT 在纳斯达克上市</title><link>https://daily.terryso.dev/2026-10-27-anthropic-ipo-filing-ant.html</link><guid>https://daily.terryso.dev/2026-10-27-anthropic-ipo-filing-ant.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
+2026 年上半年，Anthropic [营收为 163 亿美元](https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant)。同期净亏损达 807 亿美元。
+</description></item>
 <item><title>美联储本周料暂停加息，但暂停未必持久</title><link>https://daily.terryso.dev/2026-10-26-fed-pause-rate-hikes.html</link><guid>https://daily.terryso.dev/2026-10-26-fed-pause-rate-hikes.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 上周五的[利率期货](https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-long-2026-10-26/)给10月27日至28日的会议维持利率不变定出90%的概率。决定公布次日的数据预计显示，上月通胀已超出燃油价格，更广泛地回升。
 </description></item>
@@ -149,9 +152,6 @@ Anthropic 的 Frontier Red Team 让 Claude 扫了 25 个开源项目，找出 49
 </description></item>
 <item><title>fal 发布 FLUX 3 Max 视频模型</title><link>https://daily.terryso.dev/2026-10-22-flux-3-max-video-model.html</link><guid>https://daily.terryso.dev/2026-10-22-flux-3-max-video-model.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 [FLUX 3 Max](https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/)以同等质量下 22 倍于 Seedance 2.5 的速度，拿下图生视频盲测并列第一。首发价每秒 0.0425 美元，这个价格只到 11 月 7 日。
-</description></item>
-<item><title>Haiku 5.5 和 GPT-6 Luna 打到同一地板价</title><link>https://daily.terryso.dev/2026-10-22-haiku-55-gpt6-luna-price-floor.html</link><guid>https://daily.terryso.dev/2026-10-22-haiku-55-gpt6-luna-price-floor.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-Claude Haiku 5.5 相对 4.5 降了约九成，[Shattered 的对照](https://shattered.io/what-changed-in-october-2026-two-new-model-families-one-week-apart/)把两家十月调价后的三档价格一次列清。GPT-6 Luna 直接贴到每百万输入 $0.10、输出 $0.50 的同一地板，选型剩下看任务不看品牌。
 </description></item>
 </channel>
 </rss>
