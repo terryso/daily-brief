@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>电商平台开始抵御第三方 AI 购物智能体</title><link>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</link><guid>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
+[The RealReal](https://gizmodo.com/online-shopping-platforms-turn-against-third-party-ai-agents-2000831298) 正在加固反机器人防线，让 AI 购物智能体更难登录、加购和结账。导火索是《The Verge》的一次测试，智能体利用 20 分钟购物车保留规则把商品一连锁住数小时。
+</description></item>
 <item><title>Apple Creator Studio 新增 AI 助手、MotionVFX 工具和 Generate Fill</title><link>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</link><guid>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
 11 月更新里的[新 AI 助手](https://www.gadgets360.com/apps/news/apple-creator-studio-update-new-features-ai-assistant-final-cut-pro-logic-apps-12246309)由 Apple 自研模型和 OpenAI 模型驱动，能理解当前文档的上下文。MCP 支持则让外部 AI 智能体直接在这些应用里完成自动化操作。
 </description></item>
@@ -149,9 +152,6 @@ Anthropic、OpenAI、Hugging Face 和阿里巴巴把手里的智能体关键项�
 </description></item>
 <item><title>PHP 修复两个 9.2 分高危漏洞，官方催立即升级</title><link>https://daily.terryso.dev/2026-10-22-php-patch-cve.html</link><guid>https://daily.terryso.dev/2026-10-22-php-patch-cve.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 PHP 在 10 月 21 日发布紧急更新，[四个受支持分支分别升到 8.5.12、8.4.27、8.3.36 和 8.2.35](https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/)，修复 CVE-2026-109618 和 CVE-2026-109619。两个漏洞 CVSS 9.2，未登录即可远程执行代码，所有对外处理 Web 请求的 PHP 安装都在影响范围内。
-</description></item>
-<item><title>Shopify 用 NVIDIA 方案把 AI 成本砍掉九成</title><link>https://daily.terryso.dev/2026-10-22-shopify-nvidia-ai-cost.html</link><guid>https://daily.terryso.dev/2026-10-22-shopify-nvidia-ai-cost.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-后训练过的 [Nemotron 3.5 Lightning](https://aidailypost.com/news/shopify-gains-45x-speed-boost-nvidia)已经跑进商家助手 Sidekick，专职处理 GraphQL 查询这类脏活累活。同一套开源模型后训练加 vLLM 推理优化的打法，在目录丰富、商品分类等五个业务负载上全铺开了。
 </description></item>
 </channel>
 </rss>
