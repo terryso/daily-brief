@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>贝莱德 IBIT 独撑美国比特币 ETF 1.103 亿美元净流入</title><link>https://daily.terryso.dev/2026-10-28-blackrock-ibit-etf-inflow.html</link><guid>https://daily.terryso.dev/2026-10-28-blackrock-ibit-etf-inflow.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
+除 IBIT 外，[其他比特币基金](https://crypto-economy.com/blackrock-ibit-drives-110m-bitcoin-etf-inflow/)当日没有值得一提的动向。以太坊 ETF 同日净流出 8858 万美元。
+</description></item>
 <item><title>苹果发布 M6 版 MacBook Pro 和 iMac，主打更快本地 AI</title><link>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</link><guid>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
 [M6 版 MacBook Pro](https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/) 的 AI 性能比 M5 最高快 25%。两款机型从周三起接受预订，11 月 6 日正式发售。
 </description></item>
@@ -149,9 +152,6 @@ PHP 在 10 月 21 日发布紧急更新，[四个受支持分支分别升到 8.5
 </description></item>
 <item><title>比特币跌破 83000 美元</title><link>https://daily.terryso.dev/2026-10-22-bitcoin-below-83000.html</link><guid>https://daily.terryso.dev/2026-10-22-bitcoin-below-83000.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 [美国现货比特币 ETF 本周净流入 11 亿美元](https://www.moneyweb.co.za/news-fast-news/bitcoin-falls-below-83-000/)。周四亚洲早盘比特币却跌至约 82700 美元，把前一交易日的反弹全吐了回去。
-</description></item>
-<item><title>Anthropic 推出主动型 AI 助手 Claude Duet</title><link>https://daily.terryso.dev/2026-10-22-claude-duet.html</link><guid>https://daily.terryso.dev/2026-10-22-claude-duet.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-Duet 不再等你开口，它每天早上把接进来的应用扫一遍，只把要你过目的事拎出来发简报，[CNA 称](https://www.channelnewsasia.com/business/anthropic-unveils-claude-duet-ai-agent-app-6480311)剩下的活自己在云端电脑里干完。它接了 6000 多个连接器，买单能走 Shopify 的 Shop Pay，敏感操作会先停下来问你。
 </description></item>
 </channel>
 </rss>
