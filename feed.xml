@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Apple Creator Studio 新增 AI 助手、MotionVFX 工具和 Generate Fill</title><link>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</link><guid>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
+11 月更新里的[新 AI 助手](https://www.gadgets360.com/apps/news/apple-creator-studio-update-new-features-ai-assistant-final-cut-pro-logic-apps-12246309)由 Apple 自研模型和 OpenAI 模型驱动，能理解当前文档的上下文。MCP 支持则让外部 AI 智能体直接在这些应用里完成自动化操作。
+</description></item>
 <item><title>Shopify 给结账智能体写了文档</title><link>https://daily.terryso.dev/2026-10-28-shopify-checkout-agents-docs.html</link><guid>https://daily.terryso.dev/2026-10-28-shopify-checkout-agents-docs.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
 Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-news/shopify-documents-checkout-agents-as-shopify-stock-costs-eur-150-02/70419936)让 AI 智能体走完结账流程，但提交前须由买家确认订单和总额。支付验证这类关口还是买家自己过，智能体随后才尝试下单。
 </description></item>
@@ -149,9 +152,6 @@ PHP 在 10 月 21 日发布紧急更新，[四个受支持分支分别升到 8.5
 </description></item>
 <item><title>Shopify 用 NVIDIA 方案把 AI 成本砍掉九成</title><link>https://daily.terryso.dev/2026-10-22-shopify-nvidia-ai-cost.html</link><guid>https://daily.terryso.dev/2026-10-22-shopify-nvidia-ai-cost.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
 后训练过的 [Nemotron 3.5 Lightning](https://aidailypost.com/news/shopify-gains-45x-speed-boost-nvidia)已经跑进商家助手 Sidekick，专职处理 GraphQL 查询这类脏活累活。同一套开源模型后训练加 vLLM 推理优化的打法，在目录丰富、商品分类等五个业务负载上全铺开了。
-</description></item>
-<item><title>LiteLLM 1.107.0 被植入后门：安装即偷走密钥</title><link>https://daily.terryso.dev/2026-10-22-litellm-backdoor.html</link><guid>https://daily.terryso.dev/2026-10-22-litellm-backdoor.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-攻击者拿着偷来的三名 LiteLLM 工程师 GitHub 凭证，劫持官方发布流程把[带后门的 1.107.0 推上 PyPI 和 Docker Hub](https://punkreport.sh/news/litellm-supply-chain-backdoor/)。这版包不用 import，Python 解释器一启动就偷走云凭证、SSH 密钥、浏览器密码和代理库里的上游 API Key。
 </description></item>
 </channel>
 </rss>
