@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>现金流分化：微软走强，Alphabet 承压</title><link>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</link><guid>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</guid><pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate><description>
+[10月28日公布的财报](https://www.ajupress.com/view/20261029094870523)之后，微软股价上涨，Alphabet 跌超10%。分水岭是现金流：微软在大举投入后仍有盈余，Alphabet 的支出则超过了经营现金流。
+</description></item>
 <item><title>电商平台开始抵御第三方 AI 购物智能体</title><link>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</link><guid>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
 [The RealReal](https://gizmodo.com/online-shopping-platforms-turn-against-third-party-ai-agents-2000831298) 正在加固反机器人防线，让 AI 购物智能体更难登录、加购和结账。导火索是《The Verge》的一次测试，智能体利用 20 分钟购物车保留规则把商品一连锁住数小时。
 </description></item>
@@ -149,9 +152,6 @@ Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](
 </description></item>
 <item><title>Agentic AI 基金会宣布新增四个项目</title><link>https://daily.terryso.dev/2026-10-23-agentic-ai-foundation.html</link><guid>https://daily.terryso.dev/2026-10-23-agentic-ai-foundation.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 Anthropic、OpenAI、Hugging Face 和阿里巴巴把手里的智能体关键项目捐给了中立托管的 [Agentic AI 基金会](https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects)。四件套凑齐了从能力扩展到安全运行的整条链，标准件这下有了统一说了算的地方。
-</description></item>
-<item><title>PHP 修复两个 9.2 分高危漏洞，官方催立即升级</title><link>https://daily.terryso.dev/2026-10-22-php-patch-cve.html</link><guid>https://daily.terryso.dev/2026-10-22-php-patch-cve.html</guid><pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate><description>
-PHP 在 10 月 21 日发布紧急更新，[四个受支持分支分别升到 8.5.12、8.4.27、8.3.36 和 8.2.35](https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/)，修复 CVE-2026-109618 和 CVE-2026-109619。两个漏洞 CVSS 9.2，未登录即可远程执行代码，所有对外处理 Web 请求的 PHP 安装都在影响范围内。
 </description></item>
 </channel>
 </rss>
