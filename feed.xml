@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>长焦越过遮挡拍出产品层次</title><link>https://daily.terryso.dev/2026-10-30-phone-long-lens-product-shot.html</link><guid>https://daily.terryso.dev/2026-10-30-phone-long-lens-product-shot.html</guid><pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate><description>
+@lyaoguang920[用手机长焦越过 B 柱推进](https://www.instagram.com/reel/De_bty7JbcQ/)，拍出了车内的层次感。再换 45° 倾斜后拉，产品入场那一下就有了主角感。
+</description></item>
 <item><title>现金流分化：微软走强，Alphabet 承压</title><link>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</link><guid>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</guid><pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate><description>
 [10月28日公布的财报](https://www.ajupress.com/view/20261029094870523)之后，微软股价上涨，Alphabet 跌超10%。分水岭是现金流：微软在大举投入后仍有盈余，Alphabet 的支出则超过了经营现金流。
 </description></item>
@@ -149,9 +152,6 @@ Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](
 </description></item>
 <item><title>CoinDCX 否认再被盗，链上侦探不买账</title><link>https://daily.terryso.dev/2026-10-23-coindcx-hack.html</link><guid>https://daily.terryso.dev/2026-10-23-coindcx-hack.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 10月21日深夜，约1599万枚 USDT 和5783枚 TRX 从被标记为 CoinDCX 关联的钱包转出，[最大单笔达1581.9万枚](https://crypto.news/coindcx-denies-second-hack-claims-as-zachxbt-questions-wallet-activity/)。CoinDCX 称这批是去年7月失窃的老地址，但 ZachXBT 指出其中一个充值地址今年4至5月仍在向其现热钱包归集资金。
-</description></item>
-<item><title>Agentic AI 基金会宣布新增四个项目</title><link>https://daily.terryso.dev/2026-10-23-agentic-ai-foundation.html</link><guid>https://daily.terryso.dev/2026-10-23-agentic-ai-foundation.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-Anthropic、OpenAI、Hugging Face 和阿里巴巴把手里的智能体关键项目捐给了中立托管的 [Agentic AI 基金会](https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects)。四件套凑齐了从能力扩展到安全运行的整条链，标准件这下有了统一说了算的地方。
 </description></item>
 </channel>
 </rss>
