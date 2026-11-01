@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>谷歌发布前沿模型 Gemini 4 Carbon</title><link>https://daily.terryso.dev/2026-11-01-gemini-4-carbon.html</link><guid>https://daily.terryso.dev/2026-11-01-gemini-4-carbon.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
+[Gemini 4 Carbon](https://en.it-daily.net/shortnews-en/gemini-4-carbon-google) 以 59 分登上 Artificial Analysis 智能指数榜首。谷歌先把它交给一批网络安全防守方，开发者和普通用户何时能用还没有时间表。
+</description></item>
 <item><title>ModelBest 与 OpenBMB 开源 MiniCPM-OCR 系列</title><link>https://daily.terryso.dev/2026-11-01-minicpm-ocr.html</link><guid>https://daily.terryso.dev/2026-11-01-minicpm-ocr.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [MiniCPM-OCR 1.0](https://www.manilatimes.net/2026/11/01/tmt-newswire/pr-newswire/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control/2458824) 是个 13 亿参数的文档解析模型。配套的 Jev 对照原图给 OCR 结果打分。
 </description></item>
@@ -149,9 +152,6 @@ Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](
 </description></item>
 <item><title>Riskified 上线 AI 代理身份风控</title><link>https://daily.terryso.dev/2026-10-23-riskified-agent-identity.html</link><guid>https://daily.terryso.dev/2026-10-23-riskified-agent-identity.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 首批先覆盖 [Shopify 商家](https://securitybrief.com.au/story/riskified-launches-ai-agent-identity-checks-for-merchants)，经 Meta Muse 这类个人助手下的订单会被标成代理来源。防的重点变了：不再是识别机器，而是验证代理背后那个真人值不值得信，下单到退款都打分。
-</description></item>
-<item><title>Shopify 商店 2026 黑五的 13 个营销思路</title><link>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-[Dakaas 更新的这份 Shopify 黑五清单](https://dakaas.com/blog/11-black-friday-marketing-ideas-for-shopify-stores-in-2026)列出了 13 个提高转化和客单价的打法。它把 10 月 13–31 日定为打基础期，先把邮件订阅做起来。
 </description></item>
 </channel>
 </rss>
