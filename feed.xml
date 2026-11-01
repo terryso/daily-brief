@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>苹果智能国行版接入通义千问</title><link>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</link><guid>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
+[阿里巴巴与苹果周六宣布合作](https://peoplesdaily.pdnews.cn/business/er/30053462528)，将通义千问接入中国用户的 Siri、写作工具和视觉智能。首批功能 11 月 4 日随最新 iOS 开发者测试版开放，12 月随 iOS 27.3 正式版向公众推出。
+</description></item>
+<item><title>25 家 Shopify 大店已开始为黑五布阵</title><link>https://daily.terryso.dev/2026-11-01-shopify-black-friday-watch.html</link><guid>https://daily.terryso.dev/2026-11-01-shopify-black-friday-watch.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
+[黑五观察](https://www.promolexa.com/black-friday-watch)对比了大店 10 月 25 日至 30 日的公开商品目录，其中 8 家已经打上了黑五标记。提前降价先定下了参照价，到时顾客比的是折扣价，不是原价。
+</description></item>
 <item><title>Shopify 秋季版带来 150 多项更新</title><link>https://daily.terryso.dev/2026-10-31-shopify-fall-editions-2026.html</link><guid>https://daily.terryso.dev/2026-10-31-shopify-fall-editions-2026.html</guid><pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate><description>
 [Shopify 秋季版](https://flux.agency/insights/shopify-editions-fall-2026)新增 Catalog 资格检查，直接告诉店铺能否进入 AI 购物渠道、还缺什么。同一版还把整场促销并进一次 Rollout，黑五前可定时整场上线。
 </description></item>
@@ -146,12 +152,6 @@ Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](
 </description></item>
 <item><title>DWF Labs：比特币 ETF 资金流跟随价格，不预测走势</title><link>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</link><guid>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 [DWF Labs的报告](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound)发现，比特币ETF单日资金流与过去5天价格的相关性为0.54。把窗口挪到未来5天，相关性只剩0.03，大跌出逃、大涨涌入，资金只是确认走势而非带路。
-</description></item>
-<item><title>讯飞发布星火 X2.6：纯国产算力训练的大模型</title><link>https://daily.terryso.dev/2026-10-23-xunfei-spark-x26.html</link><guid>https://daily.terryso.dev/2026-10-23-xunfei-spark-x26.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-刘庆峰在 1024 开发者节上宣称，星火 X2.6 是业内唯一全程用国产算力训练的大模型。和以往的口号式发布不同，这次有现货可验：端侧 X2.6-4B 直接开源，[云端版也在官网开放试用](https://hitechexpert.top/iflytek-unveils-spark-x2-6-a-chinese-leap-in-large-language-models-built-on-domestic-power/)。
-</description></item>
-<item><title>Xojo 发布 Agentic Mode，把 AI 编程智能体请进编译器</title><link>https://daily.terryso.dev/2026-10-23-xojo-agentic-mode.html</link><guid>https://daily.terryso.dev/2026-10-23-xojo-agentic-mode.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-通过 [Agentic Mode](https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/)，外部编程智能体现在可以直接编辑 Xojo 工程，并对着真实编译器反复迭代直到构建成功。10 月 20 日的这次更新让 Xojo 成为一周内第五个围绕自主编程智能体重塑自己的主流开发工具。
 </description></item>
 </channel>
 </rss>
