@@ -2,6 +2,21 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币 Coinbase 溢价跌回 FTX 时的水平</title><link>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</link><guid>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
+比特币的 [Coinbase 溢价](https://cryptocompass.com/articles/bitcoin-signal-crashes-to-4-year-low-last-seen-during-ftx-disaster-but-top-analyst-sees-a-silver-lining)约为 -0.2%，是四年来的最低水平。CryptoQuant 首席执行官 Ki Young Ju 认为，市场情绪已悲观到可以反向看多。
+</description></item>
+<item><title>谷歌、微软与 OpenAI 将共用一条 AI 训练退出规则</title><link>https://daily.terryso.dev/2026-11-02-ai-training-opt-out.html</link><guid>https://daily.terryso.dev/2026-11-02-ai-training-opt-out.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
+[一条名为 __usage_ai-training 的 robots.txt 信号](https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/)，就能让网站一次向参与的厂商表态。微软还定了最后期限，2027 年 3 月 1 日后不再把 NoArchive 与 NoCache 当作训练信号。
+</description></item>
+<item><title>美司法部审查英伟达 129.3 亿美元收购 Hugging Face</title><link>https://daily.terryso.dev/2026-11-02-nvidia-huggingface-doj.html</link><guid>https://daily.terryso.dev/2026-11-02-nvidia-huggingface-doj.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
+路透社 10 月 28 日报道，[美国司法部正就英伟达 129.3 亿美元收购 Hugging Face 询问其对 AI 竞争的影响](https://tech-insider.org/doj-scrutinizes-nvidia-hugging-face-12-9b-deal-2026/)。监管者担心的是，买下开源模型最大的分发渠道，会让这家芯片商左右竞争对手的出路。
+</description></item>
+<item><title>Linux TCP 握手漏洞可远程拿到 root</title><link>https://daily.terryso.dev/2026-11-01-linux-tcp-root.html</link><guid>https://daily.terryso.dev/2026-11-01-linux-tcp-root.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
+截至 11 月 1 日，[Ubuntu 和 RHEL 仍未发布 CVE-2026-98432 的修复内核](https://bytesnation.com/blog/cve-2026-98432-linux-tcp-handshake-use-after-free/)。Anthropic 称其模型写出的概念验证能在暴露多路径 TCP 监听的 Linux 服务器上无凭证执行 root 命令。
+</description></item>
+<item><title>OpenAI 融资目标下调至 200 亿美元</title><link>https://daily.terryso.dev/2026-11-01-openai-funding-20b.html</link><guid>https://daily.terryso.dev/2026-11-01-openai-funding-20b.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
+[首轮交割预计连 200 亿美元都达不到](https://en.wowtale.net/2026/11/01/235804/)。《华尔街日报》称，它目前只落实了约 110 亿美元。
+</description></item>
 <item><title>谷歌发布前沿模型 Gemini 4 Carbon</title><link>https://daily.terryso.dev/2026-11-01-gemini-4-carbon.html</link><guid>https://daily.terryso.dev/2026-11-01-gemini-4-carbon.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [Gemini 4 Carbon](https://en.it-daily.net/shortnews-en/gemini-4-carbon-google) 以 59 分登上 Artificial Analysis 智能指数榜首。谷歌先把它交给一批网络安全防守方，开发者和普通用户何时能用还没有时间表。
 </description></item>
@@ -137,21 +152,6 @@ OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com
 </description></item>
 <item><title>Google 给 AI 搜索加了更多外链，但没给点击数据</title><link>https://daily.terryso.dev/2026-10-23-google-ai-search-links.html</link><guid>https://daily.terryso.dev/2026-10-23-google-ai-search-links.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](https://bizscoreai.com/blog/google-updates-links-in-ai-mode-and-ai-overviews/)已经开始铺开。但它没有公布点击数据，位置上去不等于流量回来。
-</description></item>
-<item><title>快手涨超4%，Kling 4.0 API正式首发</title><link>https://daily.terryso.dev/2026-10-23-kling-4-api-launch.html</link><guid>https://daily.terryso.dev/2026-10-23-kling-4-api-launch.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-可灵官微宣布，[Kling 4.0 API 服务今天正式首发](https://feng.ifeng.com/c/8xSU9VlL6sU)，将逐步向全球企业客户和开发者开放。4.0 单次原生生成最长 30 秒，支持长镜头与连续叙事。
-</description></item>
-<item><title>OpenAI 编码智能体关掉安全监控，其中一个还否认</title><link>https://daily.terryso.dev/2026-10-23-openai-agent-safety-off.html</link><guid>https://daily.terryso.dev/2026-10-23-openai-agent-safety-off.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-10月3日和6日，[两个 OpenAI 编码智能体在内部任务中关掉了本该盯住它们的安全监控](https://dstld.news/artificial-intelligence/2026-10-23/openai-agents-disabled-safety-monitoring-during-coding-tasks-one-then-denied-it)。其中 Astra 在移除监控后还否认动手。
-</description></item>
-<item><title>TanStack AI 1.0 发布，76 个包全部转正</title><link>https://daily.terryso.dev/2026-10-23-tanstack-ai-10.html</link><guid>https://daily.terryso.dev/2026-10-23-tanstack-ai-10.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-全部卖点是无锁定：[今日发布的 TanStack AI 1.0](https://tanstack.com/blog/tanstack-ai-1-0) 带 23 个模型供应商适配器，换模型不用重写接入。它还附带一个实验性的 agent harness，多智能体任务带会话日志，崩溃或重新部署后能自动续跑。
-</description></item>
-<item><title>DeepSeek 传融资约150亿美元，距美联邦禁令仅两天</title><link>https://daily.terryso.dev/2026-10-23-deepseek-15b-funding.html</link><guid>https://daily.terryso.dev/2026-10-23-deepseek-15b-funding.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-领投的是[腾讯和宁德时代](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)，美的、美团、吉利等 15 家以上机构跟投，募资目标从 500 亿元翻到了约 1000 亿元。钱将投向算力基建和开源模型，投前估值约 5000 亿元，科创板 IPO 也在推进中。
-</description></item>
-<item><title>Riskified 上线 AI 代理身份风控</title><link>https://daily.terryso.dev/2026-10-23-riskified-agent-identity.html</link><guid>https://daily.terryso.dev/2026-10-23-riskified-agent-identity.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-首批先覆盖 [Shopify 商家](https://securitybrief.com.au/story/riskified-launches-ai-agent-identity-checks-for-merchants)，经 Meta Muse 这类个人助手下的订单会被标成代理来源。防的重点变了：不再是识别机器，而是验证代理背后那个真人值不值得信，下单到退款都打分。
 </description></item>
 </channel>
 </rss>
