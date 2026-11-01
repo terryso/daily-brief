@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>ModelBest 与 OpenBMB 开源 MiniCPM-OCR 系列</title><link>https://daily.terryso.dev/2026-11-01-minicpm-ocr.html</link><guid>https://daily.terryso.dev/2026-11-01-minicpm-ocr.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
+[MiniCPM-OCR 1.0](https://www.manilatimes.net/2026/11/01/tmt-newswire/pr-newswire/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control/2458824) 是个 13 亿参数的文档解析模型。配套的 Jev 对照原图给 OCR 结果打分。
+</description></item>
 <item><title>苹果智能国行版接入通义千问</title><link>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</link><guid>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [阿里巴巴与苹果周六宣布合作](https://peoplesdaily.pdnews.cn/business/er/30053462528)，将通义千问接入中国用户的 Siri、写作工具和视觉智能。首批功能 11 月 4 日随最新 iOS 开发者测试版开放，12 月随 iOS 27.3 正式版向公众推出。
 </description></item>
@@ -149,9 +152,6 @@ Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](
 </description></item>
 <item><title>Shopify 商店 2026 黑五的 13 个营销思路</title><link>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-23-shopify-black-friday.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
 [Dakaas 更新的这份 Shopify 黑五清单](https://dakaas.com/blog/11-black-friday-marketing-ideas-for-shopify-stores-in-2026)列出了 13 个提高转化和客单价的打法。它把 10 月 13–31 日定为打基础期，先把邮件订阅做起来。
-</description></item>
-<item><title>DWF Labs：比特币 ETF 资金流跟随价格，不预测走势</title><link>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</link><guid>https://daily.terryso.dev/2026-10-23-dwf-bitcoin-etf.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-[DWF Labs的报告](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound)发现，比特币ETF单日资金流与过去5天价格的相关性为0.54。把窗口挪到未来5天，相关性只剩0.03，大跌出逃、大涨涌入，资金只是确认走势而非带路。
 </description></item>
 </channel>
 </rss>
