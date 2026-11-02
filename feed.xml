@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>GPT-6.2 Astra 疑似已在 Codex 灰度</title><link>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</link><guid>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
+11 月 1 日的[Codex 用量截图](https://vandatateam.com/blog/gpt-6-2-astra-fable-5-5-leaks)显示，gpt-6.2-astra 已占 19.8% 的用量。核查者只把它定性为一次可信的测试。
+</description></item>
 <item><title>Solana 验证者被要求过滤流量，应对未修补的 Linux 漏洞</title><link>https://daily.terryso.dev/2026-11-02-solana-validators-filter-traffic.html</link><guid>https://daily.terryso.dev/2026-11-02-solana-validators-filter-traffic.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 选项的入站 TCP 包](https://www.cryptopolitan.com/solana-validators-filter-traffic-linux-flaw/)，等补丁到来。红帽已在 11 月 1 日为 RHEL 8、9 和 10 发布修复内核，Ubuntu 仍未发布补丁。
 </description></item>
@@ -149,9 +152,6 @@ TikTok 在第五届 [TikTok World](https://www.marketing-interactive.com/tiktok-
 </description></item>
 <item><title>Backpack 把 Meta 股票搬上 Solana，$META 24/7 可交易、1:1 可赎回</title><link>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 你做 BP 的那家 Backpack 旗下证券业务发行了这只[$META](https://www.cryptoninjas.net/news/meta-shares-go-onchain-meta-launches-on-solana-with-24-7-trading-and-11-redemption/)，Sunrise 负责把它上链并做市。每枚代币由托管账户里 1 股真实 Meta 股票背书，合格用户可以 1:1 赎回成传统股票。
-</description></item>
-<item><title>OpenAI Decisions API 正式全量开放</title><link>https://daily.terryso.dev/2026-10-24-decisions-api.html</link><guid>https://daily.terryso.dev/2026-10-24-decisions-api.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com/t/decisions-api-is-now-generally-available-with-new-updates/1408934)，专为近实时分类、路由和打分设计，不必生成完整的模型回复。定价只收输入，每百万 tokens 收 $0.10，输出不收费。
 </description></item>
 </channel>
 </rss>
