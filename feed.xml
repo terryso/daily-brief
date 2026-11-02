@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Solana 验证者被要求过滤流量，应对未修补的 Linux 漏洞</title><link>https://daily.terryso.dev/2026-11-02-solana-validators-filter-traffic.html</link><guid>https://daily.terryso.dev/2026-11-02-solana-validators-filter-traffic.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
+Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 选项的入站 TCP 包](https://www.cryptopolitan.com/solana-validators-filter-traffic-linux-flaw/)，等补丁到来。红帽已在 11 月 1 日为 RHEL 8、9 和 10 发布修复内核，Ubuntu 仍未发布补丁。
+</description></item>
 <item><title>快手 Kling AI 完成 29 亿美元融资</title><link>https://daily.terryso.dev/2026-11-02-kuaishou-kling-ai-financing.html</link><guid>https://daily.terryso.dev/2026-11-02-kuaishou-kling-ai-financing.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 快手仍通过 Lucky Labs[持有可灵 52.45% 的表决权](https://technode.global/2026/11/02/kuaishou-kling-ai-completes-2-9b-financing/)。Kling AI 二季度收入同比增长逾 200%。
 </description></item>
@@ -149,9 +152,6 @@ TikTok 在第五届 [TikTok World](https://www.marketing-interactive.com/tiktok-
 </description></item>
 <item><title>OpenAI Decisions API 正式全量开放</title><link>https://daily.terryso.dev/2026-10-24-decisions-api.html</link><guid>https://daily.terryso.dev/2026-10-24-decisions-api.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com/t/decisions-api-is-now-generally-available-with-new-updates/1408934)，专为近实时分类、路由和打分设计，不必生成完整的模型回复。定价只收输入，每百万 tokens 收 $0.10，输出不收费。
-</description></item>
-<item><title>1071 家 Shopify 店实测：AI 购物就绪，差在 SKU 和商品信息</title><link>https://daily.terryso.dev/2026-10-24-shopify-ai-readiness.html</link><guid>https://daily.terryso.dev/2026-10-24-shopify-ai-readiness.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-有人把 1071 家 Shopify 店的公开商品目录扫了一遍，[85.8% 的店基础分过了 80](https://dev.to/projectdev/i-checked-1071-shopify-stores-for-chatgpt-shopping-readiness-here-is-what-is-missing-before-black-108i)。掉分都掉在同一类地方：半数商品有变体缺 SKU，黑五前把这批补齐最划算。
 </description></item>
 </channel>
 </rss>
