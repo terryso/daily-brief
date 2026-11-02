@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>快手 Kling AI 完成 29 亿美元融资</title><link>https://daily.terryso.dev/2026-11-02-kuaishou-kling-ai-financing.html</link><guid>https://daily.terryso.dev/2026-11-02-kuaishou-kling-ai-financing.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
+快手仍通过 Lucky Labs[持有可灵 52.45% 的表决权](https://technode.global/2026/11/02/kuaishou-kling-ai-completes-2-9b-financing/)。Kling AI 二季度收入同比增长逾 200%。
+</description></item>
 <item><title>Go 1.24 默认开 MPTCP，撞上 CVE-2026-98432 的利用条件</title><link>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</link><guid>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 在 Linux 上，[普通的 net.Listen 和 http.ListenAndServe 走的都是这条默认路径](https://medium.com/@chinmayshringi4/cve-2026-98432s-root-exploit-needs-a-multipath-tcp-listener-go-1-24-opens-one-by-default-05883e601d02)。决定开关的是主模块 go.mod 里那行 go 版本，而不是编译器的版本。
 </description></item>
@@ -149,9 +152,6 @@ OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com
 </description></item>
 <item><title>1071 家 Shopify 店实测：AI 购物就绪，差在 SKU 和商品信息</title><link>https://daily.terryso.dev/2026-10-24-shopify-ai-readiness.html</link><guid>https://daily.terryso.dev/2026-10-24-shopify-ai-readiness.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 有人把 1071 家 Shopify 店的公开商品目录扫了一遍，[85.8% 的店基础分过了 80](https://dev.to/projectdev/i-checked-1071-shopify-stores-for-chatgpt-shopping-readiness-here-is-what-is-missing-before-black-108i)。掉分都掉在同一类地方：半数商品有变体缺 SKU，黑五前把这批补齐最划算。
-</description></item>
-<item><title>黑客在 Initia 链上无限增发，套现约 260 万美元</title><link>https://daily.terryso.dev/2026-10-24-initia-infinimint.html</link><guid>https://daily.terryso.dev/2026-10-24-initia-infinimint.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-安全研究员 Spreek 今天把 Initia 上的这次攻击定性为 [infinimint](https://cryptobriefing.com/hacker-mints-tokens-initia-chain-exploit/)。截至首次报道，攻击者已经把新铸的代币换成了约 260 万美元的真实价值资产。
 </description></item>
 </channel>
 </rss>
