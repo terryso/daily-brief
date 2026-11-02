@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Go 1.24 默认开 MPTCP，撞上 CVE-2026-98432 的利用条件</title><link>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</link><guid>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
+在 Linux 上，[普通的 net.Listen 和 http.ListenAndServe 走的都是这条默认路径](https://medium.com/@chinmayshringi4/cve-2026-98432s-root-exploit-needs-a-multipath-tcp-listener-go-1-24-opens-one-by-default-05883e601d02)。决定开关的是主模块 go.mod 里那行 go 版本，而不是编译器的版本。
+</description></item>
 <item><title>比特币 Coinbase 溢价跌回 FTX 时的水平</title><link>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</link><guid>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 比特币的 [Coinbase 溢价](https://cryptocompass.com/articles/bitcoin-signal-crashes-to-4-year-low-last-seen-during-ftx-disaster-but-top-analyst-sees-a-silver-lining)约为 -0.2%，是四年来的最低水平。CryptoQuant 首席执行官 Ki Young Ju 认为，市场情绪已悲观到可以反向看多。
 </description></item>
@@ -149,9 +152,6 @@ OpenAI 的 [Decisions API 已经正式全量可用](https://community.openai.com
 </description></item>
 <item><title>黑客在 Initia 链上无限增发，套现约 260 万美元</title><link>https://daily.terryso.dev/2026-10-24-initia-infinimint.html</link><guid>https://daily.terryso.dev/2026-10-24-initia-infinimint.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 安全研究员 Spreek 今天把 Initia 上的这次攻击定性为 [infinimint](https://cryptobriefing.com/hacker-mints-tokens-initia-chain-exploit/)。截至首次报道，攻击者已经把新铸的代币换成了约 260 万美元的真实价值资产。
-</description></item>
-<item><title>Google 给 AI 搜索加了更多外链，但没给点击数据</title><link>https://daily.terryso.dev/2026-10-23-google-ai-search-links.html</link><guid>https://daily.terryso.dev/2026-10-23-google-ai-search-links.html</guid><pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate><description>
-Google 正在让 AI 回答里的内嵌引用更多、更靠前，[这次改动](https://bizscoreai.com/blog/google-updates-links-in-ai-mode-and-ai-overviews/)已经开始铺开。但它没有公布点击数据，位置上去不等于流量回来。
 </description></item>
 </channel>
 </rss>
