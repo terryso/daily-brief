@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>一分钱的 token 月卡，半小时卖了近 10 万张</title><link>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</link><guid>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
+11 月 2 日晚的李佳琦直播间里，[通义办公把原价 28 元的月卡挂到了 0.01 元](https://finance.biggo.com/news/1e76536a-28c4-44d0-8d65-49a31c4583eb)。这是 token 第一次以独立品类登上天猫、京东的双十一货架。
+</description></item>
 <item><title>GPT-6.2 Astra 疑似已在 Codex 灰度</title><link>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</link><guid>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 1 日的[Codex 用量截图](https://vandatateam.com/blog/gpt-6-2-astra-fable-5-5-leaks)显示，gpt-6.2-astra 已占 19.8% 的用量。核查者只把它定性为一次可信的测试。
 </description></item>
@@ -149,9 +152,6 @@ Walmart 给每个 AI 代理开了[独立档案](https://corporate.walmart.com/ne
 </description></item>
 <item><title>TikTok 全链路发力：AI 工具加创作者带货</title><link>https://daily.terryso.dev/2026-10-24-tiktok-world.html</link><guid>https://daily.terryso.dev/2026-10-24-tiktok-world.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 TikTok 在第五届 [TikTok World](https://www.marketing-interactive.com/tiktok-sharpens-full-funnel-play-with-ai-creative-tools-and-community-led-commerce-push) 上发布了趋势追踪器 Insight Spotlight。它用的是平台第一方受众数据，直接回答什么内容正在火、背后为什么火。
-</description></item>
-<item><title>Backpack 把 Meta 股票搬上 Solana，$META 24/7 可交易、1:1 可赎回</title><link>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-meta-solana.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-你做 BP 的那家 Backpack 旗下证券业务发行了这只[$META](https://www.cryptoninjas.net/news/meta-shares-go-onchain-meta-launches-on-solana-with-24-7-trading-and-11-redemption/)，Sunrise 负责把它上链并做市。每枚代币由托管账户里 1 股真实 Meta 股票背书，合格用户可以 1:1 赎回成传统股票。
 </description></item>
 </channel>
 </rss>
