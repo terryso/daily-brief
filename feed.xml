@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 股价大跌，成交额不及预期</title><link>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</link><guid>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
+[Shopify 股价周二盘前跌 16%](https://www.barrons.com/articles/shopify-earnings-stock-price-f5cec098)。商品成交总额不及分析师预期的 1200 亿美元。
+</description></item>
 <item><title>比特币跌破 77,000 美元</title><link>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</link><guid>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币周二亚洲早盘跌 2%](https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote)，抹掉了周一的反弹。芯片股三天抛售把纳斯达克 100 指数拖进了技术性修正。
 </description></item>
@@ -149,9 +152,6 @@ Daytona Platforms [宣布](https://techcrunch.com/2026/10/23/agent-cloud-startup
 </description></item>
 <item><title>Walmart 让 AI 购物代理直接下单</title><link>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 Walmart 给每个 AI 代理开了[独立档案](https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers?utm_source=l.metamuse.ai)，你可以要求每笔审批，或设 50、100、200 美元的额度。配套的 Agent Gateway 用 MCP 直连下单，代理接触不到你的卡号。
-</description></item>
-<item><title>月之暗面发布 Kimi K3.1 Pro，K3.1 系列首款模型上线</title><link>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</link><guid>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-[Kimi K3.1 Pro](https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/) 已在 Kimi 全系入口全量上线。官方 Terminal-Bench 4.0 给到 65.7%，已经逼近闭源旗舰的水平。
 </description></item>
 </channel>
 </rss>
