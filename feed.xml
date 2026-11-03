@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 77,000 美元</title><link>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</link><guid>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币周二亚洲早盘跌 2%](https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote)，抹掉了周一的反弹。芯片股三天抛售把纳斯达克 100 指数拖进了技术性修正。
+</description></item>
 <item><title>一分钱的 token 月卡，半小时卖了近 10 万张</title><link>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</link><guid>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 2 日晚的李佳琦直播间里，[通义办公把原价 28 元的月卡挂到了 0.01 元](https://finance.biggo.com/news/1e76536a-28c4-44d0-8d65-49a31c4583eb)。这是 token 第一次以独立品类登上天猫、京东的双十一货架。
 </description></item>
@@ -149,9 +152,6 @@ Walmart 给每个 AI 代理开了[独立档案](https://corporate.walmart.com/ne
 </description></item>
 <item><title>月之暗面发布 Kimi K3.1 Pro，K3.1 系列首款模型上线</title><link>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</link><guid>https://daily.terryso.dev/2026-10-24-kimi-k31-pro.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 [Kimi K3.1 Pro](https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/) 已在 Kimi 全系入口全量上线。官方 Terminal-Bench 4.0 给到 65.7%，已经逼近闭源旗舰的水平。
-</description></item>
-<item><title>TikTok 全链路发力：AI 工具加创作者带货</title><link>https://daily.terryso.dev/2026-10-24-tiktok-world.html</link><guid>https://daily.terryso.dev/2026-10-24-tiktok-world.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-TikTok 在第五届 [TikTok World](https://www.marketing-interactive.com/tiktok-sharpens-full-funnel-play-with-ai-creative-tools-and-community-led-commerce-push) 上发布了趋势追踪器 Insight Spotlight。它用的是平台第一方受众数据，直接回答什么内容正在火、背后为什么火。
 </description></item>
 </channel>
 </rss>
