@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>ChatGPT 搜索量已达谷歌约五分之一</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-search-20-percent-google.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-search-20-percent-google.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
+[OpenAI 消费产品负责人 Adam Fry](https://www.freepressjournal.in/amp/tech/openai-says-chatgpt-search-volume-is-now-about-20-of-googles) 说，ChatGPT 触发联网搜索的提问量已达谷歌的约五分之一。OpenAI 没有公布它拿来比较的谷歌基数。
+</description></item>
 <item><title>比特币短暂跌至 75,700 美元</title><link>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</link><guid>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 首批计票结果指向民主党横扫国会，比特币随即[跌了 2,000 多美元](https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets)。亚洲早盘买家把它托回 76,700 美元附近。
 </description></item>
@@ -148,9 +151,6 @@ OpenShell 只把真实凭证加到获批端点，智能体本身看不到它。1
 </description></item>
 <item><title>Shopify 结账自动改成平铺式支付布局</title><link>https://daily.terryso.dev/2026-10-24-shopify-checkout-layout.html</link><guid>https://daily.terryso.dev/2026-10-24-shopify-checkout-layout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 Shopify 从 10 月 22 日起，把支付方式在 4 个及以下的商店结账[自动改成平铺式布局](https://malakye.com/news/brand/common-thread-collective/shopifys-new-checkout-payment-layout-is-live-what-every-ecommerce-brand-needs/14917)，取代了原来的列表式。支付方式在 5 个及以上的商店仍保留列表式。
-</description></item>
-<item><title>Daytona 估值 10 亿美元，给 AI 智能体造了一朵专属云</title><link>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</link><guid>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-Daytona Platforms [宣布](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)完成 6000 万美元 B 轮融资，由 FirstMark Growth 领投，Stripe、Shopify、Perplexity 等公司创始人跟投。它的产品是给长时间运行的智能体专用的云：每个智能体分到一台独立的沙盒电脑，Linux、Windows、macOS 和 GPU 在同一平台上按需起。
 </description></item>
 </channel>
 </rss>
