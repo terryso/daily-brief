@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币短暂跌至 75,700 美元</title><link>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</link><guid>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
+首批计票结果指向民主党横扫国会，比特币随即[跌了 2,000 多美元](https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets)。亚洲早盘买家把它托回 76,700 美元附近。
+</description></item>
 <item><title>ChatGPT 与 Codex 12 月起共用用量额度</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 [长时间的 Codex 会话](https://datanorth.ai/news/chatgpt-and-codex-will-share-one-usage-limit-in-december)会直接挤占留给高级模型对话的余量。Instant 对话不计入这份额度。
 </description></item>
@@ -148,10 +151,6 @@ Shopify 从 10 月 22 日起，把支付方式在 4 个及以下的商店结账[
 </description></item>
 <item><title>Daytona 估值 10 亿美元，给 AI 智能体造了一朵专属云</title><link>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</link><guid>https://daily.terryso.dev/2026-10-24-daytona-agent-cloud.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 Daytona Platforms [宣布](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)完成 6000 万美元 B 轮融资，由 FirstMark Growth 领投，Stripe、Shopify、Perplexity 等公司创始人跟投。它的产品是给长时间运行的智能体专用的云：每个智能体分到一台独立的沙盒电脑，Linux、Windows、macOS 和 GPU 在同一平台上按需起。
-</description></item>
-<item><title>Backpack 把苹果和英伟达股票搬上 Solana，24/7 可交易</title><link>https://daily.terryso.dev/2026-10-24-backpack-aapl-nvda.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-aapl-nvda.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-继 $META 之后，Backpack Securities 今天又发布了[$AAPL 和 $NVDA 的代币公告](https://bitnxt.io/crypto-news/tokenized-apple-and-nvidia-stocks-solana-backpack)，每枚都可 1:1 赎回成对应的真实股票，全天可交易。
-这两枚并非苹果或英伟达官方发行，而是 Backpack 自家产品，由 Sunrise 上链并做市。
 </description></item>
 </channel>
 </rss>
