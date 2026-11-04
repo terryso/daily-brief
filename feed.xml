@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>ChatGPT 与 Codex 12 月起共用用量额度</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
+[长时间的 Codex 会话](https://datanorth.ai/news/chatgpt-and-codex-will-share-one-usage-limit-in-december)会直接挤占留给高级模型对话的余量。Instant 对话不计入这份额度。
+</description></item>
 <item><title>Shopify 股价大跌，成交额不及预期</title><link>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</link><guid>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 [Shopify 股价周二盘前跌 16%](https://www.barrons.com/articles/shopify-earnings-stock-price-f5cec098)。商品成交总额不及分析师预期的 1200 亿美元。
 </description></item>
@@ -149,9 +152,6 @@ Daytona Platforms [宣布](https://techcrunch.com/2026/10/23/agent-cloud-startup
 <item><title>Backpack 把苹果和英伟达股票搬上 Solana，24/7 可交易</title><link>https://daily.terryso.dev/2026-10-24-backpack-aapl-nvda.html</link><guid>https://daily.terryso.dev/2026-10-24-backpack-aapl-nvda.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 继 $META 之后，Backpack Securities 今天又发布了[$AAPL 和 $NVDA 的代币公告](https://bitnxt.io/crypto-news/tokenized-apple-and-nvidia-stocks-solana-backpack)，每枚都可 1:1 赎回成对应的真实股票，全天可交易。
 这两枚并非苹果或英伟达官方发行，而是 Backpack 自家产品，由 Sunrise 上链并做市。
-</description></item>
-<item><title>Walmart 让 AI 购物代理直接下单</title><link>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-10-24-walmart-agent-checkout.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-Walmart 给每个 AI 代理开了[独立档案](https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers?utm_source=l.metamuse.ai)，你可以要求每笔审批，或设 50、100、200 美元的额度。配套的 Agent Gateway 用 MCP 直连下单，代理接触不到你的卡号。
 </description></item>
 </channel>
 </rss>
