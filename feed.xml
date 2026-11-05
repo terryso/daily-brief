@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币冲上 81,000 美元逼空头出局</title><link>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</link><guid>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://coinmarketcap.com/academy/article/bitcoin-breaks-80k-300m-short-liquidations)周三在美股高开后加速反弹，一举收复失地。过去 24 小时约 3 亿美元空头仓位被强制平仓。
+</description></item>
 <item><title>Shopee 分销先拼出量来</title><link>https://daily.terryso.dev/2026-11-05-shopee-affiliate-volume-first.html</link><guid>https://daily.terryso.dev/2026-11-05-shopee-affiliate-volume-first.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
 [海哥](https://www.facebook.com/reel/1399940696537852/)在 Facebook 上说，Shopee 分销已经挤满了人。他开出的办法，是持续拍到大约 50 条视频。
 </description></item>
@@ -148,9 +151,6 @@ OpenShell 只把真实凭证加到获批端点，智能体本身看不到它。1
 </description></item>
 <item><title>比特币直面 7.8 万美元威胁</title><link>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</link><guid>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
 周六早晨，[比特币](https://news.bitcoin.com/market-updates/bitcoin-price-faces-78k-threat-as-sellers-hammer-key-support/)在 8.05 万美元附近交易。要扭转偏空结构，多头需重新站上 8.2 万美元。
-</description></item>
-<item><title>月之暗面给 Kimi K3.1 Pro 砍掉网络攻击能力</title><link>https://daily.terryso.dev/2026-10-24-kimi-k31-cyber-curb.html</link><guid>https://daily.terryso.dev/2026-10-24-kimi-k31-cyber-curb.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-月之暗面从 [Kimi K3.1 Pro](https://www.telegraphindia.com/world/china-moonshot-ai-curbs-cyberattack-capabilities-in-new-kimi-model/cid/2186011) 的训练语料和强化学习环境中移除了网络相关数据。模型权重计划在 11 月 4 日前公开。
 </description></item>
 </channel>
 </rss>
