@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 首次与美联社签约，为 Claude 供选举数据</title><link>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</link><guid>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
+Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](https://www.adweek.com/media/anthropic-licensing-deal-ap-election/)。此前 Anthropic 一直以合理使用为由，拒绝向数字出版商付费。
+</description></item>
 <item><title>比特币冲上 81,000 美元逼空头出局</title><link>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</link><guid>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://coinmarketcap.com/academy/article/bitcoin-breaks-80k-300m-short-liquidations)周三在美股高开后加速反弹，一举收复失地。过去 24 小时约 3 亿美元空头仓位被强制平仓。
 </description></item>
@@ -148,9 +151,6 @@ OpenShell 只把真实凭证加到获批端点，智能体本身看不到它。1
 </description></item>
 <item><title>比特币迎来决定性周末</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 分析师 Benjamin Cowen 警告，比特币[周线收于 83,000 美元下方](https://www.tradingview.com/news/beincrypto:b24260ebe094b:0-bitcoin-faces-make-or-break-weekend-as-market-crash-fears-grow/)，将强化他对 2026 年剩余时间的看空判断。Glassnode 估算，企业金库平均以约 80,000 美元持有比特币，跌破这一水平将使平均仓位陷入亏损。
-</description></item>
-<item><title>比特币直面 7.8 万美元威胁</title><link>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</link><guid>https://daily.terryso.dev/2026-10-24-bitcoin-78k-threat.html</guid><pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate><description>
-周六早晨，[比特币](https://news.bitcoin.com/market-updates/bitcoin-price-faces-78k-threat-as-sellers-hammer-key-support/)在 8.05 万美元附近交易。要扭转偏空结构，多头需重新站上 8.2 万美元。
 </description></item>
 </channel>
 </rss>
