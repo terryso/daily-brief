@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>INIU 推出 20,000mAh 户外充电宝</title><link>https://daily.terryso.dev/2026-11-06-iniu-20000mah-outdoor-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-iniu-20000mah-outdoor-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
+[它把输出拉到了 65W](https://channellife.co.uk/story/iniu-outdoor-launches-the-rugged-20-000mah-power-bank)。官方测试里，半小时把 13 英寸 MacBook Air 从 20% 充到 54%。
+</description></item>
+<item><title>Gemini Omni 1.2 Flash 视频拉长到 15 秒，降价 30%</title><link>https://daily.terryso.dev/2026-11-06-gemini-omni-1-2-flash-15s.html</link><guid>https://daily.terryso.dev/2026-11-06-gemini-omni-1-2-flash-15s.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
+[Gemini Omni 1.2 Flash](https://windowsreport.com/google-gemini-omni-1-2-flash-brings-15-second-ai-videos-and-30-lower-prices/)已正式可用，通过 Gemini API 就能调用。它支持多轮对话改片，换背景或产品都不用整段重生成。
+</description></item>
 <item><title>比特币跌破 76,000 美元，26.5 亿美元期权今到期</title><link>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</link><guid>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 5 日，美股科技股与 AI 股遭遇大范围抛售。[超过 10 亿美元的杠杆仓位在随后 24 小时内被清算](https://www.interactivecrypto.com/bitcoin-faces-2-65-billion-options-expiry-after-tech-led-crash-and-1-billion-liquidations)，进一步放大了跌势。
 </description></item>
@@ -145,12 +151,6 @@ OpenAI 的红队智能体在互不连通的微虚拟机之间，[用处理器缓
 </description></item>
 <item><title>Claude 报告 Sonnet 5.5 等模型报错率升高</title><link>https://daily.terryso.dev/2026-10-25-claude-sonnet-error-rate.html</link><guid>https://daily.terryso.dev/2026-10-25-claude-sonnet-error-rate.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 Anthropic 已为出问题的 Claude 服务[部署修复](https://www.technobezz.com/news/claude-service-incident-7c25a3d9)，正在监控恢复情况。受影响的包括 claude.ai、Claude API、Claude Code 和 Claude Cowork。
-</description></item>
-<item><title>TikTok Shop 宣布为期三周的黑五网一促销</title><link>https://daily.terryso.dev/2026-10-25-tiktok-shop-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-25-tiktok-shop-black-friday.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-[TikTok Shop](https://www.retailbrew.com/stories/tiktok-shop-announces-three-week-black-friday-cyber-monday-promotions) 的黑五 / 网一促销定于 11 月 11 日至 11 月 30 日举行。去年，它在四天周末里卖出了超过 5 亿美元。
-</description></item>
-<item><title>NVIDIA OpenShell：给 AI 智能体一个安全的沙箱运行时</title><link>https://daily.terryso.dev/2026-10-25-nvidia-openshell-agent-sandbox.html</link><guid>https://daily.terryso.dev/2026-10-25-nvidia-openshell-agent-sandbox.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-OpenShell 只把真实凭证加到获批端点，智能体本身看不到它。10 月 24 日，[OpenShell](https://digisoulhub.com/blog/nvidia-openshell-agent-sandbox/) 在 GitHub 上已有 18,717 星标。
 </description></item>
 </channel>
 </rss>
