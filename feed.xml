@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 76,000 美元，26.5 亿美元期权今到期</title><link>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</link><guid>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
+11 月 5 日，美股科技股与 AI 股遭遇大范围抛售。[超过 10 亿美元的杠杆仓位在随后 24 小时内被清算](https://www.interactivecrypto.com/bitcoin-faces-2-65-billion-options-expiry-after-tech-led-crash-and-1-billion-liquidations)，进一步放大了跌势。
+</description></item>
+<item><title>OpenAI 发布 GPT-6 Cyber，安全评级升至 Critical</title><link>https://daily.terryso.dev/2026-11-06-gpt-6-cyber-critical-rating.html</link><guid>https://daily.terryso.dev/2026-11-06-gpt-6-cyber-critical-rating.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
+[首批只向一小批通过审核的 Daybreak Red 客户开放](https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/)。它已找出 81 个此前未知的 Firefox 高危漏洞。
+</description></item>
 <item><title>Anthropic 首次与美联社签约，为 Claude 供选举数据</title><link>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</link><guid>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
 Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](https://www.adweek.com/media/anthropic-licensing-deal-ap-election/)。此前 Anthropic 一直以合理使用为由，拒绝向数字出版商付费。
 </description></item>
@@ -145,12 +151,6 @@ Anthropic 已为出问题的 Claude 服务[部署修复](https://www.technobezz.
 </description></item>
 <item><title>NVIDIA OpenShell：给 AI 智能体一个安全的沙箱运行时</title><link>https://daily.terryso.dev/2026-10-25-nvidia-openshell-agent-sandbox.html</link><guid>https://daily.terryso.dev/2026-10-25-nvidia-openshell-agent-sandbox.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 OpenShell 只把真实凭证加到获批端点，智能体本身看不到它。10 月 24 日，[OpenShell](https://digisoulhub.com/blog/nvidia-openshell-agent-sandbox/) 在 GitHub 上已有 18,717 星标。
-</description></item>
-<item><title>消费者更愿让 AI 购物代理去大平台下单，而非品牌官网</title><link>https://daily.terryso.dev/2026-10-25-ai-agent-marketplace-trust.html</link><guid>https://daily.terryso.dev/2026-10-25-ai-agent-marketplace-trust.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-[PYMNTS Intelligence 的调查](https://www.pymnts.com/commerce/ecommerce/2026/shoppers-would-send-ai-agents-to-marketplaces-over-brand-sites/)显示，即使价格、运费和退货条件完全相同，40.2% 的美国消费者仍会让 AI 购物代理去大型平台购买。在常去平台购物的受访者中，53.9% 表示更低的价格或独家折扣能让他们转去品牌直购。
-</description></item>
-<item><title>比特币迎来决定性周末</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-make-or-break-weekend.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-分析师 Benjamin Cowen 警告，比特币[周线收于 83,000 美元下方](https://www.tradingview.com/news/beincrypto:b24260ebe094b:0-bitcoin-faces-make-or-break-weekend-as-market-crash-fears-grow/)，将强化他对 2026 年剩余时间的看空判断。Glassnode 估算，企业金库平均以约 80,000 美元持有比特币，跌破这一水平将使平均仓位陷入亏损。
 </description></item>
 </channel>
 </rss>
