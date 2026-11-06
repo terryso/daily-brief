@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>小米 165W 充电宝：双设备同充也不掉速</title><link>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
+[91mobiles 的实测](https://www.91mobiles.com/reviews/xiaomi-power-bank-165w-review/)中，MacBook Air M1 约 40 分钟充到 50%。笔记本和 iPhone 一起充，两台约 1 小时 7 分钟都充到约 80%。
+</description></item>
 <item><title>INIU 推出 20,000mAh 户外充电宝</title><link>https://daily.terryso.dev/2026-11-06-iniu-20000mah-outdoor-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-iniu-20000mah-outdoor-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 [它把输出拉到了 65W](https://channellife.co.uk/story/iniu-outdoor-launches-the-rugged-20-000mah-power-bank)。官方测试里，半小时把 13 英寸 MacBook Air 从 20% 充到 54%。
 </description></item>
@@ -148,9 +151,6 @@ OpenAI 的红队智能体在互不连通的微虚拟机之间，[用处理器缓
 </description></item>
 <item><title>比特币跌破8万美元，8.1亿美元仓位在美联储议息前被清算</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-below-80k-liquidation.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-below-80k-liquidation.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://coincentral.com/bitcoin-btc-price-drops-below-80k-as-810-million-gets-wiped-out-before-the-fed-meeting/)周六跌至79,146美元，创一个多月以来新低。24小时内，超过8.1亿美元仓位被清算。
-</description></item>
-<item><title>Claude 报告 Sonnet 5.5 等模型报错率升高</title><link>https://daily.terryso.dev/2026-10-25-claude-sonnet-error-rate.html</link><guid>https://daily.terryso.dev/2026-10-25-claude-sonnet-error-rate.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-Anthropic 已为出问题的 Claude 服务[部署修复](https://www.technobezz.com/news/claude-service-incident-7c25a3d9)，正在监控恢复情况。受影响的包括 claude.ai、Claude API、Claude Code 和 Claude Cowork。
 </description></item>
 </channel>
 </rss>
