@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>GitHub 推出新一代 Git 存储架构</title><link>https://daily.terryso.dev/2026-11-07-github-new-git-storage-architecture.html</link><guid>https://daily.terryso.dev/2026-11-07-github-new-git-storage-architecture.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[GitHub 的新存储架构](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)在内测中让同一仓库每秒承受 7,200 次推送，读取延迟仍保持低位。诀窍在于只协调引用更新，Git 对象本身无需排序就能同时写入。
+</description></item>
+<item><title>OpenAI 的 AI 验证了 948 个 Linux 提权漏洞</title><link>https://daily.terryso.dev/2026-11-07-openai-948-linux-privilege-escalation-patched.html</link><guid>https://daily.terryso.dev/2026-11-07-openai-948-linux-privilege-escalation-patched.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[只有 61 个漏洞已合入上游](https://digisoulhub.com/blog/openai-linux-privilege-escalation-pipeline/)。其余补丁是按内核社区披露指引提交给维护者的草案。
+</description></item>
 <item><title>Shopify 2027 年 3 月 1 日起停用 script tags</title><link>https://daily.terryso.dev/2026-11-07-shopify-script-tags-deprecation.html</link><guid>https://daily.terryso.dev/2026-11-07-shopify-script-tags-deprecation.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
 Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https://medium.com/@artem_19387/shopify-script-tags-deprecation-what-breaks-on-march-1-2027-52552736cdca)。原计划的提醒横幅已经取消，店主只能自己核查哪些应用还在用这套旧机制。
 </description></item>
@@ -145,12 +151,6 @@ Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-ne
 </description></item>
 <item><title>Hyperliquid 周一开 11 个代币化美股与 ETF 市场</title><link>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</link><guid>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 [Hyperliquid 的 11 个代币化市场](https://www.tokenpost.com/news/business/40564)将于北京时间今晚 21:30 开盘。按 EQX Labs 的说法，这些代币由股票 1:1 支持，属于有限追索债务工具。
-</description></item>
-<item><title>OpenAI 最高降价九成，挖 Anthropic 大客户</title><link>https://daily.terryso.dev/2026-10-26-openai-discount-anthropic.html</link><guid>https://daily.terryso.dev/2026-10-26-openai-discount-anthropic.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-Rippling 的编程工作量中，[OpenAI 的占比已升至 52%](https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/)。DataCamp 则说，转投让它的成本下降了 80% 至 90%。
-</description></item>
-<item><title>Anthropic 招股书或于周一公开</title><link>https://daily.terryso.dev/2026-10-26-anthropic-s1-filing.html</link><guid>https://daily.terryso.dev/2026-10-26-anthropic-s1-filing.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-截至周日晚间，SEC 的 EDGAR 系统里仍查不到 Anthropic 的公开注册文件。按 IFR 的时间表，[路演定在 11 月 9 日](https://www.webpronews.com/anthropic-s1-public-filing-google-amazon-earnings-week/)。
 </description></item>
 </channel>
 </rss>
