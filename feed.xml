@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Shopify 2027 年 3 月 1 日起停用 script tags</title><link>https://daily.terryso.dev/2026-11-07-shopify-script-tags-deprecation.html</link><guid>https://daily.terryso.dev/2026-11-07-shopify-script-tags-deprecation.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https://medium.com/@artem_19387/shopify-script-tags-deprecation-what-breaks-on-march-1-2027-52552736cdca)。原计划的提醒横幅已经取消，店主只能自己核查哪些应用还在用这套旧机制。
+</description></item>
 <item><title>Anker 140W 充电宝跌回 $99</title><link>https://daily.terryso.dev/2026-11-07-anker-140w-power-bank-99.html</link><guid>https://daily.terryso.dev/2026-11-07-anker-140w-power-bank-99.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
 [Anker 737 的 140W 单口输出](https://kotaku.com/anker-140w-power-bank-drops-back-to-an-all-time-low-after-months-with-enough-power-to-charge-your-macbook-2000753507)能让 16 英寸 MacBook Pro 33 分钟从 0 充到 50%。它自己 52 分钟就能从 0 充满。
 </description></item>
@@ -148,9 +151,6 @@ Rippling 的编程工作量中，[OpenAI 的占比已升至 52%](https://the-dec
 </description></item>
 <item><title>Anthropic 招股书或于周一公开</title><link>https://daily.terryso.dev/2026-10-26-anthropic-s1-filing.html</link><guid>https://daily.terryso.dev/2026-10-26-anthropic-s1-filing.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 截至周日晚间，SEC 的 EDGAR 系统里仍查不到 Anthropic 的公开注册文件。按 IFR 的时间表，[路演定在 11 月 9 日](https://www.webpronews.com/anthropic-s1-public-filing-google-amazon-earnings-week/)。
-</description></item>
-<item><title>Shopify 上线外链跳转保护</title><link>https://daily.terryso.dev/2026-10-26-shopify-redirect-protection.html</link><guid>https://daily.terryso.dev/2026-10-26-shopify-redirect-protection.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-[10月23日的更新](https://changelog.shopify.com/posts/new-protection-against-unexpected-redirects)后，网店只对可疑网站要求顾客确认。认定的恶意网站直接被拦截。
 </description></item>
 </channel>
 </rss>
