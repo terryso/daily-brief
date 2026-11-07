@@ -2,6 +2,21 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币 ETF 抹掉 2026 年全部净流入</title><link>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</link><guid>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[美国现货比特币 ETF](https://beincrypto.com/bitcoin-etfs-zero-net-flows-2026/)今年流入 256 亿美元、流出 261 亿美元，净流出 5.02 亿美元。剩下八周还得净流入 5 亿多美元才能转正，否则就是 2024 年 1 月推出以来的首个净流出年份。
+</description></item>
+<item><title>Jackery Explorer 100D 今日登陆 Costco</title><link>https://daily.terryso.dev/2026-11-07-jackery-explorer-100d-costco.html</link><guid>https://daily.terryso.dev/2026-11-07-jackery-explorer-100d-costco.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[Costco 今日起开卖](https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/introducing-jackery-explorer-100d-the-long-term-mobile-productivity-partner-redefining-portable-power-stations-on-the-ground-over-the-road-and-in-the-air/2459863) Jackery Explorer 100D 两只装，售价 179.99 美元。它用磷酸铁锂电芯，官方称可用约 8 年。
+</description></item>
+<item><title>Kimi K3.1 Pro 权重开源了</title><link>https://daily.terryso.dev/2026-11-07-kimi-k3-1-pro-open-weights.html</link><guid>https://daily.terryso.dev/2026-11-07-kimi-k3-1-pro-open-weights.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[Moonshot 11 月 4 日在 Hugging Face 公开了 Kimi K3.1 Pro 的权重](https://enjoy.dev/blog/kimi-k3-1-pro/)，模型共 2.8 万亿参数。自己跑它的门槛却不低，vLLM 给出的最简单配置也要八块数据中心 GPU。
+</description></item>
+<item><title>福克斯 220 亿美元完成收购 Roku</title><link>https://daily.terryso.dev/2026-11-07-fox-acquires-roku-22b.html</link><guid>https://daily.terryso.dev/2026-11-07-fox-acquires-roku-22b.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[福克斯周五提前完成了对 Roku 的 220 亿美元收购](https://gizmodo.com/the-murdochs-expand-media-empire-as-foxs-roku-acquisition-closes-2000836339)。Roku 将并入新成立的 Fox Digital Platforms，与 Tubi 和 Fox One 同属一个部门。
+</description></item>
+<item><title>OpenAI 新一轮融资估值 1.25 万亿美元</title><link>https://daily.terryso.dev/2026-11-07-openai-1-25-trillion-valuation.html</link><guid>https://daily.terryso.dev/2026-11-07-openai-1-25-trillion-valuation.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[OpenAI](https://www.channelnewsasia.com/business/openai-gets-11-billion-funding-125-trillion-valuation-source-says-6532301) 已敲定 110 亿美元新融资，这是本轮的首批到账资金。这笔钱到账时，AI 公司的市场情绪正处在过去一个月的降温之中。
+</description></item>
 <item><title>小米 165W 充电宝：双设备同充也不掉速</title><link>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 [91mobiles 的实测](https://www.91mobiles.com/reviews/xiaomi-power-bank-165w-review/)中，MacBook Air M1 约 40 分钟充到 50%。笔记本和 iPhone 一起充，两台约 1 小时 7 分钟都充到约 80%。
 </description></item>
@@ -136,21 +151,6 @@ Rippling 的编程工作量中，[OpenAI 的占比已升至 52%](https://the-dec
 </description></item>
 <item><title>比特币 ETF 终结两周连失，尽管周末前连遭流出</title><link>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</link><guid>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 [美国现货比特币 ETF](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)周五净流出 1.379 亿美元。即便如此，全周仍净流入约 3.01 亿美元。
-</description></item>
-<item><title>9月零售量下滑，商家备战冷清黑五</title><link>https://daily.terryso.dev/2026-10-26-sept-retail-muted-black-friday.html</link><guid>https://daily.terryso.dev/2026-10-26-sept-retail-muted-black-friday.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-[最新数据](https://internetretailing.net/online-retail-sales-volumes-decline-in-september-as-retailers-brace-for-a-muted-black-friday/)显示，9 月零售量环比下降 0.4%。Shopify 的 Holiday Retail 2026 报告预计，英国消费者黑五周末计划支出将从去年的 £181 降至 £165。
-</description></item>
-<item><title>ARC Prize 否认 Astra 的 99.9% 通用智能成绩</title><link>https://daily.terryso.dev/2026-10-25-arc-prize-astra-agi.html</link><guid>https://daily.terryso.dev/2026-10-25-arc-prize-astra-agi.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-[ARC Prize](https://startupfortune.com/arc-prize-rejects-openais-claim-that-astra-scored-999-percent-on-agi-test/) 用与其他模型相同的标准测试重新跑了 Astra。宣传里的高分来自 OpenAI 自家定制的工具测试套件。
-</description></item>
-<item><title>比特币回升至约8.08万美元，美联储议息会议前夕</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-rebound-80800.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-rebound-80800.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-[比特币](https://biztoc.com/x/0bf8d463a3770836)周日回升至约80,800美元。美联储10月27日至28日的会议是近期关键变量，交易员在观望是维持利率还是进一步收紧。
-</description></item>
-<item><title>OpenAI 智能体演示虚拟机逃逸与跨沙箱秘密通信</title><link>https://daily.terryso.dev/2026-10-25-openai-agent-vm-escape.html</link><guid>https://daily.terryso.dev/2026-10-25-openai-agent-vm-escape.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-OpenAI 的红队智能体在互不连通的微虚拟机之间，[用处理器缓存的时序差异传出了合成机密](http://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)，既没共享文件也没走网络。作为回应，前沿模型训练不再使用实时互联网。
-</description></item>
-<item><title>比特币跌破8万美元，8.1亿美元仓位在美联储议息前被清算</title><link>https://daily.terryso.dev/2026-10-25-bitcoin-below-80k-liquidation.html</link><guid>https://daily.terryso.dev/2026-10-25-bitcoin-below-80k-liquidation.html</guid><pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate><description>
-[比特币](https://coincentral.com/bitcoin-btc-price-drops-below-80k-as-810-million-gets-wiped-out-before-the-fed-meeting/)周六跌至79,146美元，创一个多月以来新低。24小时内，超过8.1亿美元仓位被清算。
 </description></item>
 </channel>
 </rss>
