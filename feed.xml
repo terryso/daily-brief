@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Dropbox 闲置六个月将终止免费账户</title><link>https://daily.terryso.dev/2026-11-08-dropbox-free-account-inactivity-termination.html</link><guid>https://daily.terryso.dev/2026-11-08-dropbox-free-account-inactivity-termination.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[新条款](https://www.dropbox.com/terms2026)将于 2027 年 1 月 1 日生效。以后，同一个账户可以访问多个个人和团队工作区。
+</description></item>
+<item><title>25家头部店一周上新近三千件</title><link>https://daily.terryso.dev/2026-11-08-top-shopify-stores-black-friday-new-arrivals.html</link><guid>https://daily.terryso.dev/2026-11-08-top-shopify-stores-black-friday-new-arrivals.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[Promolexa 的黑五监测](https://www.promolexa.com/black-friday-watch)读了头部 Shopify 店 10 月 30 日至 11 月 7 日的公开商品目录，250 件新品直接挂出折扣价。这波上新通常意味着大促主推款已提前进目录。
+</description></item>
 <item><title>GitHub 推出新一代 Git 存储架构</title><link>https://daily.terryso.dev/2026-11-07-github-new-git-storage-architecture.html</link><guid>https://daily.terryso.dev/2026-11-07-github-new-git-storage-architecture.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
 [GitHub 的新存储架构](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)在内测中让同一仓库每秒承受 7,200 次推送，读取延迟仍保持低位。诀窍在于只协调引用更新，Git 对象本身无需排序就能同时写入。
 </description></item>
@@ -145,12 +151,6 @@ Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-ne
 </description></item>
 <item><title>Anthropic 公开招股书，拟以 ANT 在纳斯达克上市</title><link>https://daily.terryso.dev/2026-10-27-anthropic-ipo-filing-ant.html</link><guid>https://daily.terryso.dev/2026-10-27-anthropic-ipo-filing-ant.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
 2026 年上半年，Anthropic [营收为 163 亿美元](https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant)。同期净亏损达 807 亿美元。
-</description></item>
-<item><title>美联储本周料暂停加息，但暂停未必持久</title><link>https://daily.terryso.dev/2026-10-26-fed-pause-rate-hikes.html</link><guid>https://daily.terryso.dev/2026-10-26-fed-pause-rate-hikes.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-上周五的[利率期货](https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-long-2026-10-26/)给10月27日至28日的会议维持利率不变定出90%的概率。决定公布次日的数据预计显示，上月通胀已超出燃油价格，更广泛地回升。
-</description></item>
-<item><title>Hyperliquid 周一开 11 个代币化美股与 ETF 市场</title><link>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</link><guid>https://daily.terryso.dev/2026-10-26-hyperliquid-tokenized-stocks.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-[Hyperliquid 的 11 个代币化市场](https://www.tokenpost.com/news/business/40564)将于北京时间今晚 21:30 开盘。按 EQX Labs 的说法，这些代币由股票 1:1 支持，属于有限追索债务工具。
 </description></item>
 </channel>
 </rss>
