@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Nous 微调 Qwen3.8-27B 成 Arete-27B，强化西方价值观</title><link>https://daily.terryso.dev/2026-11-08-nous-arete-27b-qwen-finetune.html</link><guid>https://daily.terryso.dev/2026-11-08-nous-arete-27b-qwen-finetune.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[Nous Research](https://nousresearch.com/arete?ref=siliconnoon.com) 这次微调只用了约 5280 万 token 的监督数据。在它自建的 803 题测评里，采纳官方口径的回答从 22% 降到 0.9%。
+</description></item>
 <item><title>Dropbox 闲置六个月将终止免费账户</title><link>https://daily.terryso.dev/2026-11-08-dropbox-free-account-inactivity-termination.html</link><guid>https://daily.terryso.dev/2026-11-08-dropbox-free-account-inactivity-termination.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [新条款](https://www.dropbox.com/terms2026)将于 2027 年 1 月 1 日生效。以后，同一个账户可以访问多个个人和团队工作区。
 </description></item>
@@ -148,9 +151,6 @@ Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-ne
 </description></item>
 <item><title>比特币跌破 8 万美元，ETF 流出与宏观风险施压</title><link>https://daily.terryso.dev/2026-10-27-bitcoin-below-80k-etf-outflow.html</link><guid>https://daily.terryso.dev/2026-10-27-bitcoin-below-80k-etf-outflow.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
 截至 27 日早间，[比特币报 79,760 美元](https://biz.chosun.com/en/en-finance/2026/10/27/NSFJMVCWTRHGTEH4ENF5W4T6EA/)。美国现货比特币 ETF 在 22 日净流出 6.356 亿美元，23 日继续流出。
-</description></item>
-<item><title>Anthropic 公开招股书，拟以 ANT 在纳斯达克上市</title><link>https://daily.terryso.dev/2026-10-27-anthropic-ipo-filing-ant.html</link><guid>https://daily.terryso.dev/2026-10-27-anthropic-ipo-filing-ant.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
-2026 年上半年，Anthropic [营收为 163 亿美元](https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant)。同期净亏损达 807 亿美元。
 </description></item>
 </channel>
 </rss>
