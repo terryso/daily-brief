@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>双十一不再午夜抢购，谨慎消费改写玩法</title><link>https://daily.terryso.dev/2026-11-07-singles-day-no-midnight-rush.html</link><guid>https://daily.terryso.dev/2026-11-07-singles-day-no-midnight-rush.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
+[CNA 今晨的报道](https://www.channelnewsasia.com/east-asia/china-singles-day-shopping-alibaba-taobao-consumers-6520861)说，消费者已经厌倦了双十一直播里那种倒数叫卖。这场大促早已拉长成一个多月的长跑，快手 10 月 7 日就已开场。
+</description></item>
 <item><title>比特币 ETF 抹掉 2026 年全部净流入</title><link>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</link><guid>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
 [美国现货比特币 ETF](https://beincrypto.com/bitcoin-etfs-zero-net-flows-2026/)今年流入 256 亿美元、流出 261 亿美元，净流出 5.02 亿美元。剩下八周还得净流入 5 亿多美元才能转正，否则就是 2024 年 1 月推出以来的首个净流出年份。
 </description></item>
@@ -148,9 +151,6 @@ Rippling 的编程工作量中，[OpenAI 的占比已升至 52%](https://the-dec
 </description></item>
 <item><title>多家大银行限制第三方 AI 智能体访问账户</title><link>https://daily.terryso.dev/2026-10-26-banks-limit-ai-agent-access.html</link><guid>https://daily.terryso.dev/2026-10-26-banks-limit-ai-agent-access.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
 [花旗表示](https://www.usatoday.com/story/money/2026/10/23/banks-move-to-limit-ai-agent-access/92385119007/)，第三方 AI 智能体不得登录客户账户，也不得在其数字银行平台内直接交易。富国银行、美国银行和摩根大通也已采取了限制措施。
-</description></item>
-<item><title>比特币 ETF 终结两周连失，尽管周末前连遭流出</title><link>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</link><guid>https://daily.terryso.dev/2026-10-26-bitcoin-etf-streak.html</guid><pubDate>Mon, 26 Oct 2026 08:00:00 +0800</pubDate><description>
-[美国现货比特币 ETF](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)周五净流出 1.379 亿美元。即便如此，全周仍净流入约 3.01 亿美元。
 </description></item>
 </channel>
 </rss>
