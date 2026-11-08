@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Claude Code 2.1.317 先问一句，邮箱泄露还没堵死</title><link>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</link><guid>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[Claude Code 2.1.317 及之后版本](https://wotai.co/blog/claude-code-email-user-agent)加了内置的 cc-plugin-privacy，会在联网调用带走账号邮箱前先问你一句。可是它拦不住 Claude 自己写好脚本再运行的那条路，团队自己也承认这一点。
+</description></item>
 <item><title>黑五前，先把 AI 购物知识库填好</title><link>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</link><guid>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Adobe 预计](https://fractionalcmoz.com/marketing-insights/shopify-agentic-commerce-bfcm/)今年假日季 AI 聊天与浏览器带来的美国零售流量将增长约 130%。感恩节 11 月 26 日前，在 Shopify 后台 Sales channels &gt; Agentic 里把节日发货截止写清楚。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>现金流分化：微软走强，Alphabet 承压</title><link>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</link><guid>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</guid><pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate><description>
 [10月28日公布的财报](https://www.ajupress.com/view/20261029094870523)之后，微软股价上涨，Alphabet 跌超10%。分水岭是现金流：微软在大举投入后仍有盈余，Alphabet 的支出则超过了经营现金流。
-</description></item>
-<item><title>电商平台开始抵御第三方 AI 购物智能体</title><link>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</link><guid>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
-[The RealReal](https://gizmodo.com/online-shopping-platforms-turn-against-third-party-ai-agents-2000831298) 正在加固反机器人防线，让 AI 购物智能体更难登录、加购和结账。导火索是《The Verge》的一次测试，智能体利用 20 分钟购物车保留规则把商品一连锁住数小时。
 </description></item>
 </channel>
 </rss>
