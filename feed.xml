@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>黑五前，先把 AI 购物知识库填好</title><link>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</link><guid>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[Adobe 预计](https://fractionalcmoz.com/marketing-insights/shopify-agentic-commerce-bfcm/)今年假日季 AI 聊天与浏览器带来的美国零售流量将增长约 130%。感恩节 11 月 26 日前，在 Shopify 后台 Sales channels &gt; Agentic 里把节日发货截止写清楚。
+</description></item>
 <item><title>Anthropic 上市估值被压到 1.2 万亿至 1.3 万亿美元</title><link>https://daily.terryso.dev/2026-11-08-anthropic-ipo-valuation-1-2-trillion.html</link><guid>https://daily.terryso.dev/2026-11-08-anthropic-ipo-valuation-1-2-trillion.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 科技股抛售之后，[潜在投资者](https://www.tokenpost.com/news/business/51463)正在讨论给 Anthropic 的 IPO 定 1.2 万亿至 1.3 万亿美元的估值。Anthropic 计划下周启动正式路演，估值区间尚未最终确定。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>电商平台开始抵御第三方 AI 购物智能体</title><link>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</link><guid>https://daily.terryso.dev/2026-10-28-platforms-block-ai-shopping-agents.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
 [The RealReal](https://gizmodo.com/online-shopping-platforms-turn-against-third-party-ai-agents-2000831298) 正在加固反机器人防线，让 AI 购物智能体更难登录、加购和结账。导火索是《The Verge》的一次测试，智能体利用 20 分钟购物车保留规则把商品一连锁住数小时。
-</description></item>
-<item><title>Apple Creator Studio 新增 AI 助手、MotionVFX 工具和 Generate Fill</title><link>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</link><guid>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
-11 月更新里的[新 AI 助手](https://www.gadgets360.com/apps/news/apple-creator-studio-update-new-features-ai-assistant-final-cut-pro-logic-apps-12246309)由 Apple 自研模型和 OpenAI 模型驱动，能理解当前文档的上下文。MCP 支持则让外部 AI 智能体直接在这些应用里完成自动化操作。
 </description></item>
 </channel>
 </rss>
