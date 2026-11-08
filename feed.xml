@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 上市估值被压到 1.2 万亿至 1.3 万亿美元</title><link>https://daily.terryso.dev/2026-11-08-anthropic-ipo-valuation-1-2-trillion.html</link><guid>https://daily.terryso.dev/2026-11-08-anthropic-ipo-valuation-1-2-trillion.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+科技股抛售之后，[潜在投资者](https://www.tokenpost.com/news/business/51463)正在讨论给 Anthropic 的 IPO 定 1.2 万亿至 1.3 万亿美元的估值。Anthropic 计划下周启动正式路演，估值区间尚未最终确定。
+</description></item>
 <item><title>三个 AI 模型逛同一份 Shopify 目录，首选各不相同</title><link>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</link><guid>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Search Engine Journal 的测试](https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/)在 10 月下旬的六次搜索里，给三个 Claude 模型同一份 20 件商品的清单，它们一次都没在首选上达成一致。模型只看得到目录里的标题、评分、评价数和一句话简介，店里怎么写，智能体就拿什么当挑货的理由。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>Apple Creator Studio 新增 AI 助手、MotionVFX 工具和 Generate Fill</title><link>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</link><guid>https://daily.terryso.dev/2026-10-28-apple-creator-studio-ai.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
 11 月更新里的[新 AI 助手](https://www.gadgets360.com/apps/news/apple-creator-studio-update-new-features-ai-assistant-final-cut-pro-logic-apps-12246309)由 Apple 自研模型和 OpenAI 模型驱动，能理解当前文档的上下文。MCP 支持则让外部 AI 智能体直接在这些应用里完成自动化操作。
-</description></item>
-<item><title>Shopify 给结账智能体写了文档</title><link>https://daily.terryso.dev/2026-10-28-shopify-checkout-agents-docs.html</link><guid>https://daily.terryso.dev/2026-10-28-shopify-checkout-agents-docs.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
-Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-news/shopify-documents-checkout-agents-as-shopify-stock-costs-eur-150-02/70419936)让 AI 智能体走完结账流程，但提交前须由买家确认订单和总额。支付验证这类关口还是买家自己过，智能体随后才尝试下单。
 </description></item>
 </channel>
 </rss>
