@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌至53天低点</title><link>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
+[Mercado Bitcoin](https://cryptodaily.co.uk/2026/11/btc-slides-to-a-53-day-low-as-mercado-bitcoin-hack-revives-custody-fears) 11月9日只读重开，提现与交易仍关闭。比特币在约76,000美元附近，刚好踩在200日均线上。
+</description></item>
 <item><title>Claude Code 2.1.317 先问一句，邮箱泄露还没堵死</title><link>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</link><guid>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Claude Code 2.1.317 及之后版本](https://wotai.co/blog/claude-code-email-user-agent)加了内置的 cc-plugin-privacy，会在联网调用带走账号邮箱前先问你一句。可是它拦不住 Claude 自己写好脚本再运行的那条路，团队自己也承认这一点。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>长焦越过遮挡拍出产品层次</title><link>https://daily.terryso.dev/2026-10-30-phone-long-lens-product-shot.html</link><guid>https://daily.terryso.dev/2026-10-30-phone-long-lens-product-shot.html</guid><pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate><description>
 @lyaoguang920[用手机长焦越过 B 柱推进](https://www.instagram.com/reel/De_bty7JbcQ/)，拍出了车内的层次感。再换 45° 倾斜后拉，产品入场那一下就有了主角感。
-</description></item>
-<item><title>现金流分化：微软走强，Alphabet 承压</title><link>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</link><guid>https://daily.terryso.dev/2026-10-29-microsoft-alphabet-cash-flow.html</guid><pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate><description>
-[10月28日公布的财报](https://www.ajupress.com/view/20261029094870523)之后，微软股价上涨，Alphabet 跌超10%。分水岭是现金流：微软在大举投入后仍有盈余，Alphabet 的支出则超过了经营现金流。
 </description></item>
 </channel>
 </rss>
