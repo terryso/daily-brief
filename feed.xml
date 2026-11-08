@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>UGREEN 200W 笔记本充电宝回到最低价</title><link>https://daily.terryso.dev/2026-11-08-ugreen-200w-laptop-power-bank-lowest-price.html</link><guid>https://daily.terryso.dev/2026-11-08-ugreen-200w-laptop-power-bank-lowest-price.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[这款 UGREEN 充电宝](https://9to5toys.com/2026/11/06/ugreen-25000mah-200w-laptop-power-bank-retractable-cables-lowest-price/)在 Best Buy 的黑五预热里卖到 $89.99。单个 Type-C 口最高能输出 100W。
+</description></item>
 <item><title>特斯拉明年中逐步停产 Cybertruck</title><link>https://daily.terryso.dev/2026-11-08-tesla-cybertruck-production-ending.html</link><guid>https://daily.terryso.dev/2026-11-08-tesla-cybertruck-production-ending.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [马斯克 11 月 6 日在 X 上说](https://www.usatoday.com/story/cars/shopping/evs/2026/11/06/tesla-cybertruck-production-ending/92639472007/)，特斯拉将在明年年中前后逐步停产得州超级工厂的 Cybertruck，为增产 Cybercab 腾出产能。据 Cox Automotive 的数据，Cybertruck 今年以来的销量下滑了 28%。
 </description></item>
@@ -148,9 +151,6 @@ Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-ne
 </description></item>
 <item><title>苹果发布 M6 版 MacBook Pro 和 iMac，主打更快本地 AI</title><link>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</link><guid>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
 [M6 版 MacBook Pro](https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/) 的 AI 性能比 M5 最高快 25%。两款机型从周三起接受预订，11 月 6 日正式发售。
-</description></item>
-<item><title>49家小型Shopify店接受AI购物就绪检查</title><link>https://daily.terryso.dev/2026-10-27-shopify-ai-readiness-check.html</link><guid>https://daily.terryso.dev/2026-10-27-shopify-ai-readiness-check.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
-[10月26日的检查](https://passtheagent.com/research/shopify-ai-readiness-2026)里，仅6家小店拿到了满分。最常见的缺口，是AI购物者最先要读的产品信息本身不完整。
 </description></item>
 </channel>
 </rss>
