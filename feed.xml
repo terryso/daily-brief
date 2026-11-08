@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>三个 AI 模型逛同一份 Shopify 目录，首选各不相同</title><link>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</link><guid>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[Search Engine Journal 的测试](https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/)在 10 月下旬的六次搜索里，给三个 Claude 模型同一份 20 件商品的清单，它们一次都没在首选上达成一致。模型只看得到目录里的标题、评分、评价数和一句话简介，店里怎么写，智能体就拿什么当挑货的理由。
+</description></item>
+<item><title>Libghostty 1.0 发布，C 接口正式稳定</title><link>https://daily.terryso.dev/2026-11-08-libghostty-1-0-release-c-api-stable.html</link><guid>https://daily.terryso.dev/2026-11-08-libghostty-1-0-release-c-api-stable.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
+[Mitchell Hashimoto 11 月 6 日发布了 libghostty-vt 1.0](https://mitchellh.com/writing/libghostty-1-0)，它把 Ghostty 终端核心抽成了一个可移植 C 库。JetBrains 的 IDE 终端已经跑在它上面，覆盖 1250 多万活跃用户。
+</description></item>
 <item><title>UGREEN 200W 笔记本充电宝回到最低价</title><link>https://daily.terryso.dev/2026-11-08-ugreen-200w-laptop-power-bank-lowest-price.html</link><guid>https://daily.terryso.dev/2026-11-08-ugreen-200w-laptop-power-bank-lowest-price.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [这款 UGREEN 充电宝](https://9to5toys.com/2026/11/06/ugreen-25000mah-200w-laptop-power-bank-retractable-cables-lowest-price/)在 Best Buy 的黑五预热里卖到 $89.99。单个 Type-C 口最高能输出 100W。
 </description></item>
@@ -145,12 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>Shopify 给结账智能体写了文档</title><link>https://daily.terryso.dev/2026-10-28-shopify-checkout-agents-docs.html</link><guid>https://daily.terryso.dev/2026-10-28-shopify-checkout-agents-docs.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
 Shopify 的[浏览器工具](https://www.ad-hoc-news.de/boerse/news/corporate-news/shopify-documents-checkout-agents-as-shopify-stock-costs-eur-150-02/70419936)让 AI 智能体走完结账流程，但提交前须由买家确认订单和总额。支付验证这类关口还是买家自己过，智能体随后才尝试下单。
-</description></item>
-<item><title>贝莱德 IBIT 独撑美国比特币 ETF 1.103 亿美元净流入</title><link>https://daily.terryso.dev/2026-10-28-blackrock-ibit-etf-inflow.html</link><guid>https://daily.terryso.dev/2026-10-28-blackrock-ibit-etf-inflow.html</guid><pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate><description>
-除 IBIT 外，[其他比特币基金](https://crypto-economy.com/blackrock-ibit-drives-110m-bitcoin-etf-inflow/)当日没有值得一提的动向。以太坊 ETF 同日净流出 8858 万美元。
-</description></item>
-<item><title>苹果发布 M6 版 MacBook Pro 和 iMac，主打更快本地 AI</title><link>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</link><guid>https://daily.terryso.dev/2026-10-27-apple-m6-macbook-imac.html</guid><pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate><description>
-[M6 版 MacBook Pro](https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/) 的 AI 性能比 M5 最高快 25%。两款机型从周三起接受预订，11 月 6 日正式发售。
 </description></item>
 </channel>
 </rss>
