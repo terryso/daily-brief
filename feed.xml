@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Pi 在 HN 调查里压过 Copilot 和 Cursor</title><link>https://daily.terryso.dev/2026-11-10-pi-tops-hn-coding-agent-survey.html</link><guid>https://daily.terryso.dev/2026-11-10-pi-tops-hn-coding-agent-survey.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
+11月6日出炉的 [HN 调查](https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html)里，开源编码助手 Pi 被 67 名开发者点名使用。不少人并不只押一家，156 人同时用两个以上编码智能体。
+</description></item>
 <item><title>比特币在 200 日均线上方守住 74,800 美元</title><link>https://daily.terryso.dev/2026-11-09-btc-holds-above-200-day-ma-74800.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-holds-above-200-day-ma-74800.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
 周日晚比特币[跌至 73,510 美元](https://cryptocompass.com/articles/bitcoin-price-holds-74-800-as-the-200-day-average-at-73-170-faces-us-inflation-data)，创 8 月 21 日以来新低。周二的美国 CPI 是下一个考验。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>ModelBest 与 OpenBMB 开源 MiniCPM-OCR 系列</title><link>https://daily.terryso.dev/2026-11-01-minicpm-ocr.html</link><guid>https://daily.terryso.dev/2026-11-01-minicpm-ocr.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [MiniCPM-OCR 1.0](https://www.manilatimes.net/2026/11/01/tmt-newswire/pr-newswire/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control/2458824) 是个 13 亿参数的文档解析模型。配套的 Jev 对照原图给 OCR 结果打分。
-</description></item>
-<item><title>苹果智能国行版接入通义千问</title><link>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</link><guid>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
-[阿里巴巴与苹果周六宣布合作](https://peoplesdaily.pdnews.cn/business/er/30053462528)，将通义千问接入中国用户的 Siri、写作工具和视觉智能。首批功能 11 月 4 日随最新 iOS 开发者测试版开放，12 月随 iOS 27.3 正式版向公众推出。
 </description></item>
 </channel>
 </rss>
