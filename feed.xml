@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>封掉 Muse 后，亚马逊推出短信 Alexa 购物</title><link>https://daily.terryso.dev/2026-11-09-amazon-text-alexa-shopping.html</link><guid>https://daily.terryso.dev/2026-11-09-amazon-text-alexa-shopping.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
+亚马逊 11 月 6 日起让一小批受邀美国用户[发短信给 Alexa for Shopping 购物](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)。就在 9 月，它刚封掉了 Meta 的购物助手 Muse，不让它在亚马逊上代购。
+</description></item>
 <item><title>比特币跌至53天低点</title><link>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
 [Mercado Bitcoin](https://cryptodaily.co.uk/2026/11/btc-slides-to-a-53-day-low-as-mercado-bitcoin-hack-revives-custody-fears) 11月9日只读重开，提现与交易仍关闭。比特币在约76,000美元附近，刚好踩在200日均线上。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>Shopify 秋季版带来 150 多项更新</title><link>https://daily.terryso.dev/2026-10-31-shopify-fall-editions-2026.html</link><guid>https://daily.terryso.dev/2026-10-31-shopify-fall-editions-2026.html</guid><pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate><description>
 [Shopify 秋季版](https://flux.agency/insights/shopify-editions-fall-2026)新增 Catalog 资格检查，直接告诉店铺能否进入 AI 购物渠道、还缺什么。同一版还把整场促销并进一次 Rollout，黑五前可定时整场上线。
-</description></item>
-<item><title>长焦越过遮挡拍出产品层次</title><link>https://daily.terryso.dev/2026-10-30-phone-long-lens-product-shot.html</link><guid>https://daily.terryso.dev/2026-10-30-phone-long-lens-product-shot.html</guid><pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate><description>
-@lyaoguang920[用手机长焦越过 B 柱推进](https://www.instagram.com/reel/De_bty7JbcQ/)，拍出了车内的层次感。再换 45° 倾斜后拉，产品入场那一下就有了主角感。
 </description></item>
 </channel>
 </rss>
