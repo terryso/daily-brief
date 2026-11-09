@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>高盛收回交易员的 Claude Code，只留工程师用</title><link>https://daily.terryso.dev/2026-11-09-goldman-sachs-restricts-claude-code.html</link><guid>https://daily.terryso.dev/2026-11-09-goldman-sachs-restricts-claude-code.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
+高盛 10 月更新的内部指引把 [Claude Code 和 GitHub 限制给工程师](https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/)，多数交易员和银行家就此失去使用权。就在 7 月，高盛首席信息官还在公开称赞非技术员工用这些工具自己搭东西。
+</description></item>
 <item><title>封掉 Muse 后，亚马逊推出短信 Alexa 购物</title><link>https://daily.terryso.dev/2026-11-09-amazon-text-alexa-shopping.html</link><guid>https://daily.terryso.dev/2026-11-09-amazon-text-alexa-shopping.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
 亚马逊 11 月 6 日起让一小批受邀美国用户[发短信给 Alexa for Shopping 购物](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)。就在 9 月，它刚封掉了 Meta 的购物助手 Muse，不让它在亚马逊上代购。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>25 家 Shopify 大店已开始为黑五布阵</title><link>https://daily.terryso.dev/2026-11-01-shopify-black-friday-watch.html</link><guid>https://daily.terryso.dev/2026-11-01-shopify-black-friday-watch.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [黑五观察](https://www.promolexa.com/black-friday-watch)对比了大店 10 月 25 日至 30 日的公开商品目录，其中 8 家已经打上了黑五标记。提前降价先定下了参照价，到时顾客比的是折扣价，不是原价。
-</description></item>
-<item><title>Shopify 秋季版带来 150 多项更新</title><link>https://daily.terryso.dev/2026-10-31-shopify-fall-editions-2026.html</link><guid>https://daily.terryso.dev/2026-10-31-shopify-fall-editions-2026.html</guid><pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate><description>
-[Shopify 秋季版](https://flux.agency/insights/shopify-editions-fall-2026)新增 Catalog 资格检查，直接告诉店铺能否进入 AI 购物渠道、还缺什么。同一版还把整场促销并进一次 Rollout，黑五前可定时整场上线。
 </description></item>
 </channel>
 </rss>
