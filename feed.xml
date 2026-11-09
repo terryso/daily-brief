@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币在 200 日均线上方守住 74,800 美元</title><link>https://daily.terryso.dev/2026-11-09-btc-holds-above-200-day-ma-74800.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-holds-above-200-day-ma-74800.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
+周日晚比特币[跌至 73,510 美元](https://cryptocompass.com/articles/bitcoin-price-holds-74-800-as-the-200-day-average-at-73-170-faces-us-inflation-data)，创 8 月 21 日以来新低。周二的美国 CPI 是下一个考验。
+</description></item>
 <item><title>高盛收回交易员的 Claude Code，只留工程师用</title><link>https://daily.terryso.dev/2026-11-09-goldman-sachs-restricts-claude-code.html</link><guid>https://daily.terryso.dev/2026-11-09-goldman-sachs-restricts-claude-code.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
 高盛 10 月更新的内部指引把 [Claude Code 和 GitHub 限制给工程师](https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/)，多数交易员和银行家就此失去使用权。就在 7 月，高盛首席信息官还在公开称赞非技术员工用这些工具自己搭东西。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>苹果智能国行版接入通义千问</title><link>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</link><guid>https://daily.terryso.dev/2026-11-01-apple-intelligence-china-qwen.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [阿里巴巴与苹果周六宣布合作](https://peoplesdaily.pdnews.cn/business/er/30053462528)，将通义千问接入中国用户的 Siri、写作工具和视觉智能。首批功能 11 月 4 日随最新 iOS 开发者测试版开放，12 月随 iOS 27.3 正式版向公众推出。
-</description></item>
-<item><title>25 家 Shopify 大店已开始为黑五布阵</title><link>https://daily.terryso.dev/2026-11-01-shopify-black-friday-watch.html</link><guid>https://daily.terryso.dev/2026-11-01-shopify-black-friday-watch.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
-[黑五观察](https://www.promolexa.com/black-friday-watch)对比了大店 10 月 25 日至 30 日的公开商品目录，其中 8 家已经打上了黑五标记。提前降价先定下了参照价，到时顾客比的是折扣价，不是原价。
 </description></item>
 </channel>
 </rss>
