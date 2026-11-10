@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>谷歌推出 TPU 8tx 与 TPU 8i Max</title><link>https://daily.terryso.dev/2026-11-11-google-tpu-8tx-8i-max.html</link><guid>https://daily.terryso.dev/2026-11-11-google-tpu-8tx-8i-max.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
+11月9日，[谷歌](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)没等新芯片，而是把现有硅片重新拼装成两款 TPU 系统。8i Max 把两颗 8i 芯片封进一个封装，算力、SRAM 与 HBM 带宽都比 8i 翻倍。
+</description></item>
 <item><title>比特币跌至 74,080 美元，CPI 前加息押注升温</title><link>https://daily.terryso.dev/2026-11-10-bitcoin-74080-cpi-rate-hike.html</link><guid>https://daily.terryso.dev/2026-11-10-bitcoin-74080-cpi-rate-hike.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币周二跌至 74,080.54 美元](https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase)，自 UTC 午夜以来跌了 1.4%。美联储理事沃勒称，即使 10 月通胀回落，他仍支持 12 月加息 25 个基点。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>美司法部审查英伟达 129.3 亿美元收购 Hugging Face</title><link>https://daily.terryso.dev/2026-11-02-nvidia-huggingface-doj.html</link><guid>https://daily.terryso.dev/2026-11-02-nvidia-huggingface-doj.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 路透社 10 月 28 日报道，[美国司法部正就英伟达 129.3 亿美元收购 Hugging Face 询问其对 AI 竞争的影响](https://tech-insider.org/doj-scrutinizes-nvidia-hugging-face-12-9b-deal-2026/)。监管者担心的是，买下开源模型最大的分发渠道，会让这家芯片商左右竞争对手的出路。
-</description></item>
-<item><title>Linux TCP 握手漏洞可远程拿到 root</title><link>https://daily.terryso.dev/2026-11-01-linux-tcp-root.html</link><guid>https://daily.terryso.dev/2026-11-01-linux-tcp-root.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
-截至 11 月 1 日，[Ubuntu 和 RHEL 仍未发布 CVE-2026-98432 的修复内核](https://bytesnation.com/blog/cve-2026-98432-linux-tcp-handshake-use-after-free/)。Anthropic 称其模型写出的概念验证能在暴露多路径 TCP 监听的 Linux 服务器上无凭证执行 root 命令。
 </description></item>
 </channel>
 </rss>
