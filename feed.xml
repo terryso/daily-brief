@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>双十一满18岁：凑单算账退场，AI token登场</title><link>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</link><guid>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
+[阿里新设的 AI Token 中心](http://www.scmp.com/tech/tech-trends/article/3373780/less-coupon-math-more-ai-whats-new-chinas-18th-singles-day?module=top_story&amp;pgtype=homepage)在 10 月 1 日至 20 日销量环比涨了 450%。淘宝天猫占最大份额，京东、抖音、拼多多和快手跟在后面。
+</description></item>
 <item><title>Anthropic IPO 估值被砍至 1.5–1.6 万亿美元</title><link>https://daily.terryso.dev/2026-11-10-anthropic-ipo-valuation-cut-1-5-1-6-trillion.html</link><guid>https://daily.terryso.dev/2026-11-10-anthropic-ipo-valuation-cut-1-5-1-6-trillion.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 [11月2日修订的招股书](https://pandromeda.com/ai/anthropic-ipo-valuation-cut-to-15-16-trillion-after-stock-sell-off)显示，三季度营收约169.6亿美元，环比增长47%。同期公司由二季度9.74亿美元经营利润转为5.67亿美元经营亏损。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>OpenAI 融资目标下调至 200 亿美元</title><link>https://daily.terryso.dev/2026-11-01-openai-funding-20b.html</link><guid>https://daily.terryso.dev/2026-11-01-openai-funding-20b.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 [首轮交割预计连 200 亿美元都达不到](https://en.wowtale.net/2026/11/01/235804/)。《华尔街日报》称，它目前只落实了约 110 亿美元。
-</description></item>
-<item><title>谷歌发布前沿模型 Gemini 4 Carbon</title><link>https://daily.terryso.dev/2026-11-01-gemini-4-carbon.html</link><guid>https://daily.terryso.dev/2026-11-01-gemini-4-carbon.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
-[Gemini 4 Carbon](https://en.it-daily.net/shortnews-en/gemini-4-carbon-google) 以 59 分登上 Artificial Analysis 智能指数榜首。谷歌先把它交给一批网络安全防守方，开发者和普通用户何时能用还没有时间表。
 </description></item>
 </channel>
 </rss>
