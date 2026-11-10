@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌至 74,080 美元，CPI 前加息押注升温</title><link>https://daily.terryso.dev/2026-11-10-bitcoin-74080-cpi-rate-hike.html</link><guid>https://daily.terryso.dev/2026-11-10-bitcoin-74080-cpi-rate-hike.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币周二跌至 74,080.54 美元](https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase)，自 UTC 午夜以来跌了 1.4%。美联储理事沃勒称，即使 10 月通胀回落，他仍支持 12 月加息 25 个基点。
+</description></item>
 <item><title>双十一满18岁：凑单算账退场，AI token登场</title><link>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</link><guid>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 [阿里新设的 AI Token 中心](http://www.scmp.com/tech/tech-trends/article/3373780/less-coupon-math-more-ai-whats-new-chinas-18th-singles-day?module=top_story&amp;pgtype=homepage)在 10 月 1 日至 20 日销量环比涨了 450%。淘宝天猫占最大份额，京东、抖音、拼多多和快手跟在后面。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>Linux TCP 握手漏洞可远程拿到 root</title><link>https://daily.terryso.dev/2026-11-01-linux-tcp-root.html</link><guid>https://daily.terryso.dev/2026-11-01-linux-tcp-root.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
 截至 11 月 1 日，[Ubuntu 和 RHEL 仍未发布 CVE-2026-98432 的修复内核](https://bytesnation.com/blog/cve-2026-98432-linux-tcp-handshake-use-after-free/)。Anthropic 称其模型写出的概念验证能在暴露多路径 TCP 监听的 Linux 服务器上无凭证执行 root 命令。
-</description></item>
-<item><title>OpenAI 融资目标下调至 200 亿美元</title><link>https://daily.terryso.dev/2026-11-01-openai-funding-20b.html</link><guid>https://daily.terryso.dev/2026-11-01-openai-funding-20b.html</guid><pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate><description>
-[首轮交割预计连 200 亿美元都达不到](https://en.wowtale.net/2026/11/01/235804/)。《华尔街日报》称，它目前只落实了约 110 亿美元。
 </description></item>
 </channel>
 </rss>
