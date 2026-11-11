@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Meta&#x27;s Muse Ember takes on Luna and Haiku 5.5 at a fraction of the cost</title><link>https://daily.terryso.dev/2026-11-12-meta-muse-ember.html</link><guid>https://daily.terryso.dev/2026-11-12-meta-muse-ember.html</guid><pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate><description>
+[Meta 于 11 月 9 日发布了 Muse Ember](https://www.neowin.net/news/metas-new-muse-ember-takes-on-gpt-6-luna-and-claude-haiku-55-at-a-fraction-of-the-cost/)，它是 Meta 迄今最小、最高效的模型，专为智能体的重复工作而生。它在 Artificial Analysis 指数上拿到 36 分，与 Claude Haiku 5.5 持平，而每项任务的成本约为后者的三分之一。
+</description></item>
 <item><title>比特币跌破 74,000 美元，分析师警告或下探 70,000 美元</title><link>https://daily.terryso.dev/2026-11-11-btc-below-74000-cpi-analysts-70000.html</link><guid>https://daily.terryso.dev/2026-11-11-btc-below-74000-cpi-analysts-70000.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
 10 月 [CPI 环比上涨 0.4%，高于预期的 0.3%](https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301)。分析师称，若比特币持续跌破 73,000 美元，可能下探至 69,000 美元。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>Go 1.24 默认开 MPTCP，撞上 CVE-2026-98432 的利用条件</title><link>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</link><guid>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 在 Linux 上，[普通的 net.Listen 和 http.ListenAndServe 走的都是这条默认路径](https://medium.com/@chinmayshringi4/cve-2026-98432s-root-exploit-needs-a-multipath-tcp-listener-go-1-24-opens-one-by-default-05883e601d02)。决定开关的是主模块 go.mod 里那行 go 版本，而不是编译器的版本。
-</description></item>
-<item><title>比特币 Coinbase 溢价跌回 FTX 时的水平</title><link>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</link><guid>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
-比特币的 [Coinbase 溢价](https://cryptocompass.com/articles/bitcoin-signal-crashes-to-4-year-low-last-seen-during-ftx-disaster-but-top-analyst-sees-a-silver-lining)约为 -0.2%，是四年来的最低水平。CryptoQuant 首席执行官 Ki Young Ju 认为，市场情绪已悲观到可以反向看多。
 </description></item>
 </channel>
 </rss>
