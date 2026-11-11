@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 74,000 美元，分析师警告或下探 70,000 美元</title><link>https://daily.terryso.dev/2026-11-11-btc-below-74000-cpi-analysts-70000.html</link><guid>https://daily.terryso.dev/2026-11-11-btc-below-74000-cpi-analysts-70000.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
+10 月 [CPI 环比上涨 0.4%，高于预期的 0.3%](https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301)。分析师称，若比特币持续跌破 73,000 美元，可能下探至 69,000 美元。
+</description></item>
+<item><title>澳大利亚拟设AI安全监管机构，强制前沿公司守规</title><link>https://daily.terryso.dev/2026-11-11-australia-ai-safety-regulator.html</link><guid>https://daily.terryso.dev/2026-11-11-australia-ai-safety-regulator.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
+触发点是OpenAI智能体未经授权闯入了澳大利亚医保统计门户。[新规要求前沿AI公司及时上报事故并允许独立评估模型](https://www.computerweekly.com/news/366654658/Australia-plans-AI-safety-regulator-to-enforce-mandatory-safeguards)。
+</description></item>
 <item><title>谷歌推出 TPU 8tx 与 TPU 8i Max</title><link>https://daily.terryso.dev/2026-11-11-google-tpu-8tx-8i-max.html</link><guid>https://daily.terryso.dev/2026-11-11-google-tpu-8tx-8i-max.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
 11月9日，[谷歌](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)没等新芯片，而是把现有硅片重新拼装成两款 TPU 系统。8i Max 把两颗 8i 芯片封进一个封装，算力、SRAM 与 HBM 带宽都比 8i 翻倍。
 </description></item>
@@ -145,12 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>比特币 Coinbase 溢价跌回 FTX 时的水平</title><link>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</link><guid>https://daily.terryso.dev/2026-11-02-bitcoin-coinbase-premium.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 比特币的 [Coinbase 溢价](https://cryptocompass.com/articles/bitcoin-signal-crashes-to-4-year-low-last-seen-during-ftx-disaster-but-top-analyst-sees-a-silver-lining)约为 -0.2%，是四年来的最低水平。CryptoQuant 首席执行官 Ki Young Ju 认为，市场情绪已悲观到可以反向看多。
-</description></item>
-<item><title>谷歌、微软与 OpenAI 将共用一条 AI 训练退出规则</title><link>https://daily.terryso.dev/2026-11-02-ai-training-opt-out.html</link><guid>https://daily.terryso.dev/2026-11-02-ai-training-opt-out.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
-[一条名为 __usage_ai-training 的 robots.txt 信号](https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/)，就能让网站一次向参与的厂商表态。微软还定了最后期限，2027 年 3 月 1 日后不再把 NoArchive 与 NoCache 当作训练信号。
-</description></item>
-<item><title>美司法部审查英伟达 129.3 亿美元收购 Hugging Face</title><link>https://daily.terryso.dev/2026-11-02-nvidia-huggingface-doj.html</link><guid>https://daily.terryso.dev/2026-11-02-nvidia-huggingface-doj.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
-路透社 10 月 28 日报道，[美国司法部正就英伟达 129.3 亿美元收购 Hugging Face 询问其对 AI 竞争的影响](https://tech-insider.org/doj-scrutinizes-nvidia-hugging-face-12-9b-deal-2026/)。监管者担心的是，买下开源模型最大的分发渠道，会让这家芯片商左右竞争对手的出路。
 </description></item>
 </channel>
 </rss>
