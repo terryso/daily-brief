@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Claude Code overtakes GitHub Copilot in JetBrains survey</title><link>https://daily.terryso.dev/2026-11-12-claude-code-overtakes-copilot-jetbrains-survey.html</link><guid>https://daily.terryso.dev/2026-11-12-claude-code-overtakes-copilot-jetbrains-survey.html</guid><pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate><description>
+[JetBrains&#x27; survey of more than 15,000 developers](https://dev.clauneck.workers.dev/jamilxt/claude-code-overtakes-github-copilot-what-jetbrains-survey-of-15000-developers-says-about-ai-3nhc) puts Claude Code at 39% of developers using it at work in May to July 2026. GitHub Copilot fell to 21%, after leading the category it created.
+</description></item>
 <item><title>Meta&#x27;s Muse Ember takes on Luna and Haiku 5.5 at a fraction of the cost</title><link>https://daily.terryso.dev/2026-11-12-meta-muse-ember.html</link><guid>https://daily.terryso.dev/2026-11-12-meta-muse-ember.html</guid><pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate><description>
 [Meta 于 11 月 9 日发布了 Muse Ember](https://www.neowin.net/news/metas-new-muse-ember-takes-on-gpt-6-luna-and-claude-haiku-55-at-a-fraction-of-the-cost/)，它是 Meta 迄今最小、最高效的模型，专为智能体的重复工作而生。它在 Artificial Analysis 指数上拿到 36 分，与 Claude Haiku 5.5 持平，而每项任务的成本约为后者的三分之一。
 </description></item>
@@ -148,9 +151,6 @@ Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 �
 </description></item>
 <item><title>快手 Kling AI 完成 29 亿美元融资</title><link>https://daily.terryso.dev/2026-11-02-kuaishou-kling-ai-financing.html</link><guid>https://daily.terryso.dev/2026-11-02-kuaishou-kling-ai-financing.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
 快手仍通过 Lucky Labs[持有可灵 52.45% 的表决权](https://technode.global/2026/11/02/kuaishou-kling-ai-completes-2-9b-financing/)。Kling AI 二季度收入同比增长逾 200%。
-</description></item>
-<item><title>Go 1.24 默认开 MPTCP，撞上 CVE-2026-98432 的利用条件</title><link>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</link><guid>https://daily.terryso.dev/2026-11-02-go-mptcp-cve-2026-98432.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
-在 Linux 上，[普通的 net.Listen 和 http.ListenAndServe 走的都是这条默认路径](https://medium.com/@chinmayshringi4/cve-2026-98432s-root-exploit-needs-a-multipath-tcp-listener-go-1-24-opens-one-by-default-05883e601d02)。决定开关的是主模块 go.mod 里那行 go 版本，而不是编译器的版本。
 </description></item>
 </channel>
 </rss>
