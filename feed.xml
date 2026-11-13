@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌回 200 周均线</title><link>https://daily.terryso.dev/2026-11-14-bitcoin-falls-back-200-week-ma.html</link><guid>https://daily.terryso.dev/2026-11-14-bitcoin-falls-back-200-week-ma.html</guid><pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate><description>
+周五欧洲开盘前，[比特币](https://fxpro.news/crypto/bitcoin-has-fallen-back-to-the-crucial-200-week-ma/)一度跌破 6.75 万美元。这条 200 周均线在 2018 年和 2020 年都守住了熊市底部。
+</description></item>
 <item><title>五家 AI 巨头被诉，要求叫停前沿模型开发</title><link>https://daily.terryso.dev/2026-11-13-five-ai-giants-sued-halt-frontier-ai.html</link><guid>https://daily.terryso.dev/2026-11-13-five-ai-giants-sued-halt-frontier-ai.html</guid><pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate><description>
 几家非营利组织周四在旧金山[起诉了 OpenAI、Anthropic、SpaceX 的 AI 部门、Meta 和谷歌](https://tribune.com.pk/story/2639977/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development)，要求法院叫停最先进 AI 模型的进一步开发。诉状援引的正是这些公司自己的高管警告，包括 Anthropic 首席执行官 Dario Amodei 和 Elon Musk 关于 AI 可能摧毁文明的说法。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>GPT-6.2 Astra 疑似已在 Codex 灰度</title><link>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</link><guid>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 1 日的[Codex 用量截图](https://vandatateam.com/blog/gpt-6-2-astra-fable-5-5-leaks)显示，gpt-6.2-astra 已占 19.8% 的用量。核查者只把它定性为一次可信的测试。
-</description></item>
-<item><title>Solana 验证者被要求过滤流量，应对未修补的 Linux 漏洞</title><link>https://daily.terryso.dev/2026-11-02-solana-validators-filter-traffic.html</link><guid>https://daily.terryso.dev/2026-11-02-solana-validators-filter-traffic.html</guid><pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate><description>
-Solana 基金会的 Tim Garcia 建议 Ubuntu 上的验证者[先挡住带 IPv4 选项的入站 TCP 包](https://www.cryptopolitan.com/solana-validators-filter-traffic-linux-flaw/)，等补丁到来。红帽已在 11 月 1 日为 RHEL 8、9 和 10 发布修复内核，Ubuntu 仍未发布补丁。
 </description></item>
 </channel>
 </rss>
