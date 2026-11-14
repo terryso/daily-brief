@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 6.7 万美元，ETF 一周流出 10.7 亿美元</title><link>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</link><guid>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://plainbtc.com/articles/bitcoin-below-67000-sixth-weekly-loss-nov-2026)在 Kraken 跌到约 66,400 美元，是 8 月 19 日以来最低。美国现货比特币 ETF 已连续七个交易日净流出。
+</description></item>
 <item><title>比特币跌回 200 周均线</title><link>https://daily.terryso.dev/2026-11-14-bitcoin-falls-back-200-week-ma.html</link><guid>https://daily.terryso.dev/2026-11-14-bitcoin-falls-back-200-week-ma.html</guid><pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate><description>
 周五欧洲开盘前，[比特币](https://fxpro.news/crypto/bitcoin-has-fallen-back-to-the-crucial-200-week-ma/)一度跌破 6.75 万美元。这条 200 周均线在 2018 年和 2020 年都守住了熊市底部。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>一分钱的 token 月卡，半小时卖了近 10 万张</title><link>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</link><guid>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 2 日晚的李佳琦直播间里，[通义办公把原价 28 元的月卡挂到了 0.01 元](https://finance.biggo.com/news/1e76536a-28c4-44d0-8d65-49a31c4583eb)。这是 token 第一次以独立品类登上天猫、京东的双十一货架。
-</description></item>
-<item><title>GPT-6.2 Astra 疑似已在 Codex 灰度</title><link>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</link><guid>https://daily.terryso.dev/2026-11-03-gpt-62-astra-codex.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
-11 月 1 日的[Codex 用量截图](https://vandatateam.com/blog/gpt-6-2-astra-fable-5-5-leaks)显示，gpt-6.2-astra 已占 19.8% 的用量。核查者只把它定性为一次可信的测试。
 </description></item>
 </channel>
 </rss>
