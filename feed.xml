@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 上市瞄准 1.4 万亿美元估值</title><link>https://daily.terryso.dev/2026-11-16-anthropic-ipo-valuation.html</link><guid>https://daily.terryso.dev/2026-11-16-anthropic-ipo-valuation.html</guid><pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate><description>
+[Anthropic](https://iol.co.za/business/2026-11-15-five-things-to-know-about-anthropic-as-ai-giant-targets-record-breaking-stock-debut/) 把 IPO 定价区间定在每股 70 至 78 美元。股票预计 11 月 19 日在纳斯达克以 ANT 挂牌。
+</description></item>
 <item><title>ChatGPT Wallet 让智能体代下单，卡号不露面</title><link>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
 [ChatGPT Wallet](https://www.notebookcheck.net/ChatGPT-Wallet-lets-AI-agents-shop-without-seeing-your-card-number.1450862.0.html) 让 OpenAI 的 dots 智能体替人在线下单或订酒店，结账用的是一次性替身卡号。首批只向美国 18 岁以上、有美国账单地址的 Pro 订阅用户逐步开放。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>ChatGPT 与 Codex 12 月起共用用量额度</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 [长时间的 Codex 会话](https://datanorth.ai/news/chatgpt-and-codex-will-share-one-usage-limit-in-december)会直接挤占留给高级模型对话的余量。Instant 对话不计入这份额度。
-</description></item>
-<item><title>Shopify 股价大跌，成交额不及预期</title><link>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</link><guid>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
-[Shopify 股价周二盘前跌 16%](https://www.barrons.com/articles/shopify-earnings-stock-price-f5cec098)。商品成交总额不及分析师预期的 1200 亿美元。
 </description></item>
 </channel>
 </rss>
