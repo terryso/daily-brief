@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Cursor 查清恶意 Claude Code 扩展背后的入侵</title><link>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</link><guid>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
+[Cursor](https://www.abijita.com/cursor-breach-claude-code/)在 11 月 13 日的调查报告中说，攻击者用 Fireworks AI 泄露的密钥发布了被篡改的 Claude Code 扩展。被篡改的 2.1.312 和 2.1.313 版本最多可能到达 5,000 名用户。
+</description></item>
 <item><title>比特币跌破 6.7 万美元，ETF 一周流出 10.7 亿美元</title><link>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</link><guid>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://plainbtc.com/articles/bitcoin-below-67000-sixth-weekly-loss-nov-2026)在 Kraken 跌到约 66,400 美元，是 8 月 19 日以来最低。美国现货比特币 ETF 已连续七个交易日净流出。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>比特币跌破 77,000 美元</title><link>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</link><guid>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币周二亚洲早盘跌 2%](https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote)，抹掉了周一的反弹。芯片股三天抛售把纳斯达克 100 指数拖进了技术性修正。
-</description></item>
-<item><title>一分钱的 token 月卡，半小时卖了近 10 万张</title><link>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</link><guid>https://daily.terryso.dev/2026-11-03-tongyi-token-monthly-card.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
-11 月 2 日晚的李佳琦直播间里，[通义办公把原价 28 元的月卡挂到了 0.01 元](https://finance.biggo.com/news/1e76536a-28c4-44d0-8d65-49a31c4583eb)。这是 token 第一次以独立品类登上天猫、京东的双十一货架。
 </description></item>
 </channel>
 </rss>
