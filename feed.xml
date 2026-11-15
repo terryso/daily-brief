@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>ChatGPT Wallet 让智能体代下单，卡号不露面</title><link>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
+[ChatGPT Wallet](https://www.notebookcheck.net/ChatGPT-Wallet-lets-AI-agents-shop-without-seeing-your-card-number.1450862.0.html) 让 OpenAI 的 dots 智能体替人在线下单或订酒店，结账用的是一次性替身卡号。首批只向美国 18 岁以上、有美国账单地址的 Pro 订阅用户逐步开放。
+</description></item>
 <item><title>Cursor 查清恶意 Claude Code 扩展背后的入侵</title><link>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</link><guid>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
 [Cursor](https://www.abijita.com/cursor-breach-claude-code/)在 11 月 13 日的调查报告中说，攻击者用 Fireworks AI 泄露的密钥发布了被篡改的 Claude Code 扩展。被篡改的 2.1.312 和 2.1.313 版本最多可能到达 5,000 名用户。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>Shopify 股价大跌，成交额不及预期</title><link>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</link><guid>https://daily.terryso.dev/2026-11-04-shopify-stock-drop-earnings.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 [Shopify 股价周二盘前跌 16%](https://www.barrons.com/articles/shopify-earnings-stock-price-f5cec098)。商品成交总额不及分析师预期的 1200 亿美元。
-</description></item>
-<item><title>比特币跌破 77,000 美元</title><link>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</link><guid>https://daily.terryso.dev/2026-11-03-bitcoin-below-77000.html</guid><pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate><description>
-[比特币周二亚洲早盘跌 2%](https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote)，抹掉了周一的反弹。芯片股三天抛售把纳斯达克 100 指数拖进了技术性修正。
 </description></item>
 </channel>
 </rss>
