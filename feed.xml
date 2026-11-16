@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Claude Code 派工：搜索交给子代理</title><link>https://daily.terryso.dev/2026-11-17-claude-code-delegation-subagents.html</link><guid>https://daily.terryso.dev/2026-11-17-claude-code-delegation-subagents.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
+这份[派工指南](https://www.instagram.com/p/DfzXDVVFdqS/)先用 /init 生成 CLAUDE.md，把规则压在 200 行以内。必须遵守的规则再由 /hooks 强制执行。
+</description></item>
 <item><title>GitHub Copilot 今天下线三款模型</title><link>https://daily.terryso.dev/2026-11-16-github-copilot-retires-three-models.html</link><guid>https://daily.terryso.dev/2026-11-16-github-copilot-retires-three-models.html</guid><pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate><description>
 Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下线](https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november?utm_source=pondero.ai&amp;utm_medium=referral&amp;utm_campaign=github-copilot-model-deprecation)。GitHub 建议两款 Opus 换成 Opus 5.5，Terra 换成 GPT-6.1 Sol 或 GPT-6 Luna。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>ChatGPT 搜索量已达谷歌约五分之一</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-search-20-percent-google.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-search-20-percent-google.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 [OpenAI 消费产品负责人 Adam Fry](https://www.freepressjournal.in/amp/tech/openai-says-chatgpt-search-volume-is-now-about-20-of-googles) 说，ChatGPT 触发联网搜索的提问量已达谷歌的约五分之一。OpenAI 没有公布它拿来比较的谷歌基数。
-</description></item>
-<item><title>比特币短暂跌至 75,700 美元</title><link>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</link><guid>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
-首批计票结果指向民主党横扫国会，比特币随即[跌了 2,000 多美元](https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets)。亚洲早盘买家把它托回 76,700 美元附近。
 </description></item>
 </channel>
 </rss>
