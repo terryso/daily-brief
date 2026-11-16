@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>GitHub Copilot 今天下线三款模型</title><link>https://daily.terryso.dev/2026-11-16-github-copilot-retires-three-models.html</link><guid>https://daily.terryso.dev/2026-11-16-github-copilot-retires-three-models.html</guid><pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate><description>
+Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下线](https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november?utm_source=pondero.ai&amp;utm_medium=referral&amp;utm_campaign=github-copilot-model-deprecation)。GitHub 建议两款 Opus 换成 Opus 5.5，Terra 换成 GPT-6.1 Sol 或 GPT-6 Luna。
+</description></item>
 <item><title>Anthropic 上市瞄准 1.4 万亿美元估值</title><link>https://daily.terryso.dev/2026-11-16-anthropic-ipo-valuation.html</link><guid>https://daily.terryso.dev/2026-11-16-anthropic-ipo-valuation.html</guid><pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate><description>
 [Anthropic](https://iol.co.za/business/2026-11-15-five-things-to-know-about-anthropic-as-ai-giant-targets-record-breaking-stock-debut/) 把 IPO 定价区间定在每股 70 至 78 美元。股票预计 11 月 19 日在纳斯达克以 ANT 挂牌。
 </description></item>
@@ -148,9 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>比特币短暂跌至 75,700 美元</title><link>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</link><guid>https://daily.terryso.dev/2026-11-04-bitcoin-dips-75700-midterms.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
 首批计票结果指向民主党横扫国会，比特币随即[跌了 2,000 多美元](https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets)。亚洲早盘买家把它托回 76,700 美元附近。
-</description></item>
-<item><title>ChatGPT 与 Codex 12 月起共用用量额度</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-codex-shared-usage-limit.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
-[长时间的 Codex 会话](https://datanorth.ai/news/chatgpt-and-codex-will-share-one-usage-limit-in-december)会直接挤占留给高级模型对话的余量。Instant 对话不计入这份额度。
 </description></item>
 </channel>
 </rss>
