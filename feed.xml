@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Backpack 重返美国，合规永续合约首开先河</title><link>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</link><guid>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
+11 月 16 日，美国商品期货交易委员会[批准 Backpack 成为指定合约市场](https://www.techflowpost.com/en-US/article/35423)，加上此前已获的清算机构注册，它拿齐了交易与清算两张牌照。消息公布后 BP 在 24 小时内涨了 42.48%。
+</description></item>
+<item><title>阿里巴巴发布带网络安全护栏的 Qwen4-Max</title><link>https://daily.terryso.dev/2026-11-17-qwen4-max-cybersecurity-guardrails.html</link><guid>https://daily.terryso.dev/2026-11-17-qwen4-max-cybersecurity-guardrails.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
+[Qwen4-Max](https://www.abijita.com/alibaba-qwen4-max-cybersecurity-guardrails/) 有 2.4 万亿参数，每 token 只激活 710 亿。训练数据按用途做了过滤，只留防御性的网络安全知识。
+</description></item>
 <item><title>Claude Code 派工：搜索交给子代理</title><link>https://daily.terryso.dev/2026-11-17-claude-code-delegation-subagents.html</link><guid>https://daily.terryso.dev/2026-11-17-claude-code-delegation-subagents.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
 这份[派工指南](https://www.instagram.com/p/DfzXDVVFdqS/)先用 /init 生成 CLAUDE.md，把规则压在 200 行以内。必须遵守的规则再由 /hooks 强制执行。
 </description></item>
@@ -145,12 +151,6 @@ Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](h
 </description></item>
 <item><title>比特币冲上 81,000 美元逼空头出局</title><link>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</link><guid>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://coinmarketcap.com/academy/article/bitcoin-breaks-80k-300m-short-liquidations)周三在美股高开后加速反弹，一举收复失地。过去 24 小时约 3 亿美元空头仓位被强制平仓。
-</description></item>
-<item><title>Shopee 分销先拼出量来</title><link>https://daily.terryso.dev/2026-11-05-shopee-affiliate-volume-first.html</link><guid>https://daily.terryso.dev/2026-11-05-shopee-affiliate-volume-first.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
-[海哥](https://www.facebook.com/reel/1399940696537852/)在 Facebook 上说，Shopee 分销已经挤满了人。他开出的办法，是持续拍到大约 50 条视频。
-</description></item>
-<item><title>ChatGPT 搜索量已达谷歌约五分之一</title><link>https://daily.terryso.dev/2026-11-04-chatgpt-search-20-percent-google.html</link><guid>https://daily.terryso.dev/2026-11-04-chatgpt-search-20-percent-google.html</guid><pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate><description>
-[OpenAI 消费产品负责人 Adam Fry](https://www.freepressjournal.in/amp/tech/openai-says-chatgpt-search-volume-is-now-about-20-of-googles) 说，ChatGPT 触发联网搜索的提问量已达谷歌的约五分之一。OpenAI 没有公布它拿来比较的谷歌基数。
 </description></item>
 </channel>
 </rss>
