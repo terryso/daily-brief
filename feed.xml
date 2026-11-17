@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>BP 冲上 $1.24 后回落</title><link>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</link><guid>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[现货成交额](https://cryptocompass.com/articles/will-cftc-news-push-bp-past-1-26-backpack-price-prediction)在 24 小时内增长了 1206%。买家要守住 0.92 美元一线，突破才算站稳。
+</description></item>
 <item><title>SnapLogic 推出 MCP Discovery Hub</title><link>https://daily.terryso.dev/2026-11-17-snaplogic-mcp-discovery-hub.html</link><guid>https://daily.terryso.dev/2026-11-17-snaplogic-mcp-discovery-hub.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
 [SnapLogic 今天推出了 Discovery Hub](https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities/2471834)，一个可搜索的 MCP 服务器与工具目录。开发者能找到现成的服务器，直接复制 Claude Code、Cursor 或 VS Code 的可用配置接上去。
 </description></item>
@@ -148,9 +151,6 @@ Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https:
 </description></item>
 <item><title>OpenAI 发布 GPT-6 Cyber，安全评级升至 Critical</title><link>https://daily.terryso.dev/2026-11-06-gpt-6-cyber-critical-rating.html</link><guid>https://daily.terryso.dev/2026-11-06-gpt-6-cyber-critical-rating.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 [首批只向一小批通过审核的 Daybreak Red 客户开放](https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/)。它已找出 81 个此前未知的 Firefox 高危漏洞。
-</description></item>
-<item><title>Anthropic 首次与美联社签约，为 Claude 供选举数据</title><link>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</link><guid>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
-Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](https://www.adweek.com/media/anthropic-licensing-deal-ap-election/)。此前 Anthropic 一直以合理使用为由，拒绝向数字出版商付费。
 </description></item>
 </channel>
 </rss>
