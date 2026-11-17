@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>SnapLogic 推出 MCP Discovery Hub</title><link>https://daily.terryso.dev/2026-11-17-snaplogic-mcp-discovery-hub.html</link><guid>https://daily.terryso.dev/2026-11-17-snaplogic-mcp-discovery-hub.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
+[SnapLogic 今天推出了 Discovery Hub](https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities/2471834)，一个可搜索的 MCP 服务器与工具目录。开发者能找到现成的服务器，直接复制 Claude Code、Cursor 或 VS Code 的可用配置接上去。
+</description></item>
 <item><title>Backpack 重返美国，合规永续合约首开先河</title><link>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</link><guid>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 16 日，美国商品期货交易委员会[批准 Backpack 成为指定合约市场](https://www.techflowpost.com/en-US/article/35423)，加上此前已获的清算机构注册，它拿齐了交易与清算两张牌照。消息公布后 BP 在 24 小时内涨了 42.48%。
 </description></item>
@@ -148,9 +151,6 @@ Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https:
 </description></item>
 <item><title>Anthropic 首次与美联社签约，为 Claude 供选举数据</title><link>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</link><guid>https://daily.terryso.dev/2026-11-05-anthropic-ap-election-data-deal.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
 Claude 在中期选举之夜展示了[带美联社署名的实时计票信息](https://www.adweek.com/media/anthropic-licensing-deal-ap-election/)。此前 Anthropic 一直以合理使用为由，拒绝向数字出版商付费。
-</description></item>
-<item><title>比特币冲上 81,000 美元逼空头出局</title><link>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</link><guid>https://daily.terryso.dev/2026-11-05-bitcoin-rallies-81000-short-squeeze.html</guid><pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate><description>
-[比特币](https://coinmarketcap.com/academy/article/bitcoin-breaks-80k-300m-short-liquidations)周三在美股高开后加速反弹，一举收复失地。过去 24 小时约 3 亿美元空头仓位被强制平仓。
 </description></item>
 </channel>
 </rss>
