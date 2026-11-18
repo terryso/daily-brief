@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>GPT-6.2 Astra 降价两成，叫板 Fable 5.2</title><link>https://daily.terryso.dev/2026-11-18-gpt-6-2-astra-price-cut-fable-5-2.html</link><guid>https://daily.terryso.dev/2026-11-18-gpt-6-2-astra-price-cut-fable-5-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+OpenAI 称 Astra 在 Agents&#x27; Last Exam 上领先 Claude Fable 5.2。两款模型已在 [ChatGPT Work 与 Codex 上线](https://madrobot.blog/2026/11/17/openai-gpt-6-2-astra-sol-price-benchmarks/)。
+</description></item>
 <item><title>微软推出编程与安全 AI 模型，叫板 OpenAI 与 Anthropic</title><link>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</link><guid>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [微软在 Ignite 上发布了编程模型 MAI Code 2](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/)，称其性能接近对手模型而成本低得多。同批还有一款网络安全专用模型，先向有限客户开放。
 </description></item>
@@ -148,9 +151,6 @@ Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https:
 </description></item>
 <item><title>Gemini Omni 1.2 Flash 视频拉长到 15 秒，降价 30%</title><link>https://daily.terryso.dev/2026-11-06-gemini-omni-1-2-flash-15s.html</link><guid>https://daily.terryso.dev/2026-11-06-gemini-omni-1-2-flash-15s.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 [Gemini Omni 1.2 Flash](https://windowsreport.com/google-gemini-omni-1-2-flash-brings-15-second-ai-videos-and-30-lower-prices/)已正式可用，通过 Gemini API 就能调用。它支持多轮对话改片，换背景或产品都不用整段重生成。
-</description></item>
-<item><title>比特币跌破 76,000 美元，26.5 亿美元期权今到期</title><link>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</link><guid>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
-11 月 5 日，美股科技股与 AI 股遭遇大范围抛售。[超过 10 亿美元的杠杆仓位在随后 24 小时内被清算](https://www.interactivecrypto.com/bitcoin-faces-2-65-billion-options-expiry-after-tech-led-crash-and-1-billion-liquidations)，进一步放大了跌势。
 </description></item>
 </channel>
 </rss>
