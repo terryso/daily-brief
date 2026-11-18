@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>微软推出编程与安全 AI 模型，叫板 OpenAI 与 Anthropic</title><link>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</link><guid>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[微软在 Ignite 上发布了编程模型 MAI Code 2](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/)，称其性能接近对手模型而成本低得多。同批还有一款网络安全专用模型，先向有限客户开放。
+</description></item>
 <item><title>BP 冲上 $1.24 后回落</title><link>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</link><guid>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [现货成交额](https://cryptocompass.com/articles/will-cftc-news-push-bp-past-1-26-backpack-price-prediction)在 24 小时内增长了 1206%。买家要守住 0.92 美元一线，突破才算站稳。
 </description></item>
@@ -148,9 +151,6 @@ Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https:
 </description></item>
 <item><title>比特币跌破 76,000 美元，26.5 亿美元期权今到期</title><link>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</link><guid>https://daily.terryso.dev/2026-11-06-bitcoin-below-76000-options-expiry.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 5 日，美股科技股与 AI 股遭遇大范围抛售。[超过 10 亿美元的杠杆仓位在随后 24 小时内被清算](https://www.interactivecrypto.com/bitcoin-faces-2-65-billion-options-expiry-after-tech-led-crash-and-1-billion-liquidations)，进一步放大了跌势。
-</description></item>
-<item><title>OpenAI 发布 GPT-6 Cyber，安全评级升至 Critical</title><link>https://daily.terryso.dev/2026-11-06-gpt-6-cyber-critical-rating.html</link><guid>https://daily.terryso.dev/2026-11-06-gpt-6-cyber-critical-rating.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
-[首批只向一小批通过审核的 Daybreak Red 客户开放](https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/)。它已找出 81 个此前未知的 Firefox 高危漏洞。
 </description></item>
 </channel>
 </rss>
