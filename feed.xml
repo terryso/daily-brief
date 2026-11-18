@@ -2,6 +2,21 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>AI 发现的 Java 严重漏洞危及登录系统</title><link>https://daily.terryso.dev/2026-11-18-java4shell-cisa-warning.html</link><guid>https://daily.terryso.dev/2026-11-18-java4shell-cisa-warning.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[CISA 连夜发出紧急警告](https://www.hcamag.com/nz/news/general/employers-told-to-patch-critical-java-flaw-immediately-as-ai-found-bug-hits-staff-login-systems/597817)，称 Java4Shell 可让攻击者无需登录就远程接管系统。GreyNoise 已检测到针对这一漏洞的探测请求，尽管尚未确认有成功攻击。
+</description></item>
+<item><title>Cursor 查明：被盗 Fireworks 密钥导致 Claude Code 扩展被投毒</title><link>https://daily.terryso.dev/2026-11-18-cursor-fireworks-key-poisoned-extension.html</link><guid>https://daily.terryso.dev/2026-11-18-cursor-fireworks-key-poisoned-extension.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+Cursor [查明](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)，攻击者用 Fireworks 泄露的一枚密钥复制了只读存储桶里的数据。被植入后门的 Claude Code 扩展随后在市场上挂了约 11 小时，最多 5,000 名用户可能收到了它。
+</description></item>
+<item><title>Anthropic IPO 定价或超 80 美元</title><link>https://daily.terryso.dev/2026-11-18-anthropic-ipo-pricing-above-80.html</link><guid>https://daily.terryso.dev/2026-11-18-anthropic-ipo-pricing-above-80.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[Anthropic](https://www.ajupress.com/view/20261118093609259) 可能以 80 美元以上的价格为 IPO 定价，超出 70 至 78 美元的原定区间。顾问讨论的估值在 1.5 万亿至 1.6 万亿美元之间。
+</description></item>
+<item><title>Devin Bots 上线：从接任务到扛目标</title><link>https://daily.terryso.dev/2026-11-18-devin-bots.html</link><guid>https://daily.terryso.dev/2026-11-18-devin-bots.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[Devin Bots](https://devin.ai/blog/introducing-devin-bots)是一个带记忆的持久智能体，能并行带领多个 Devin 扛下整个目标。它自家的例子最能说明问题：一个 Android Bot 用 44 天从零做出了 Android 应用。
+</description></item>
+<item><title>GitHub 的 Agent Host Protocol 让智能体会话跨设备续接</title><link>https://daily.terryso.dev/2026-11-18-github-agent-host-protocol.html</link><guid>https://daily.terryso.dev/2026-11-18-github-agent-host-protocol.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+GitHub 把 Copilot 的智能体会话从编辑器窗口里解放出来，[Agent Host Protocol](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)让会话由独立的进程持有，关掉窗口也不会中断。协议是开放标准，六种语言都有现成的库，可以接进自己的编辑器或工具里。
+</description></item>
 <item><title>比特币七天跌 12%，恐惧指数 12</title><link>https://daily.terryso.dev/2026-11-18-bitcoin-down-12-fear-index-12.html</link><guid>https://daily.terryso.dev/2026-11-18-bitcoin-down-12-fear-index-12.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://medium.com/@sbae75/bitcoin-daily-briefing-nov-18-2026-btc-64-927-12-0-0e12884f3d1e)过去 24 小时只涨了 0.1%。美国现货比特币 ETF 在 11 月 13 日净流出 1.855 亿美元。
 </description></item>
@@ -136,21 +151,6 @@ Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https:
 </description></item>
 <item><title>比特币 ETF 抹掉 2026 年全部净流入</title><link>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</link><guid>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
 [美国现货比特币 ETF](https://beincrypto.com/bitcoin-etfs-zero-net-flows-2026/)今年流入 256 亿美元、流出 261 亿美元，净流出 5.02 亿美元。剩下八周还得净流入 5 亿多美元才能转正，否则就是 2024 年 1 月推出以来的首个净流出年份。
-</description></item>
-<item><title>Jackery Explorer 100D 今日登陆 Costco</title><link>https://daily.terryso.dev/2026-11-07-jackery-explorer-100d-costco.html</link><guid>https://daily.terryso.dev/2026-11-07-jackery-explorer-100d-costco.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[Costco 今日起开卖](https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/introducing-jackery-explorer-100d-the-long-term-mobile-productivity-partner-redefining-portable-power-stations-on-the-ground-over-the-road-and-in-the-air/2459863) Jackery Explorer 100D 两只装，售价 179.99 美元。它用磷酸铁锂电芯，官方称可用约 8 年。
-</description></item>
-<item><title>Kimi K3.1 Pro 权重开源了</title><link>https://daily.terryso.dev/2026-11-07-kimi-k3-1-pro-open-weights.html</link><guid>https://daily.terryso.dev/2026-11-07-kimi-k3-1-pro-open-weights.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[Moonshot 11 月 4 日在 Hugging Face 公开了 Kimi K3.1 Pro 的权重](https://enjoy.dev/blog/kimi-k3-1-pro/)，模型共 2.8 万亿参数。自己跑它的门槛却不低，vLLM 给出的最简单配置也要八块数据中心 GPU。
-</description></item>
-<item><title>福克斯 220 亿美元完成收购 Roku</title><link>https://daily.terryso.dev/2026-11-07-fox-acquires-roku-22b.html</link><guid>https://daily.terryso.dev/2026-11-07-fox-acquires-roku-22b.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[福克斯周五提前完成了对 Roku 的 220 亿美元收购](https://gizmodo.com/the-murdochs-expand-media-empire-as-foxs-roku-acquisition-closes-2000836339)。Roku 将并入新成立的 Fox Digital Platforms，与 Tubi 和 Fox One 同属一个部门。
-</description></item>
-<item><title>OpenAI 新一轮融资估值 1.25 万亿美元</title><link>https://daily.terryso.dev/2026-11-07-openai-1-25-trillion-valuation.html</link><guid>https://daily.terryso.dev/2026-11-07-openai-1-25-trillion-valuation.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[OpenAI](https://www.channelnewsasia.com/business/openai-gets-11-billion-funding-125-trillion-valuation-source-says-6532301) 已敲定 110 亿美元新融资，这是本轮的首批到账资金。这笔钱到账时，AI 公司的市场情绪正处在过去一个月的降温之中。
-</description></item>
-<item><title>小米 165W 充电宝：双设备同充也不掉速</title><link>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
-[91mobiles 的实测](https://www.91mobiles.com/reviews/xiaomi-power-bank-165w-review/)中，MacBook Air M1 约 40 分钟充到 50%。笔记本和 iPhone 一起充，两台约 1 小时 7 分钟都充到约 80%。
 </description></item>
 </channel>
 </rss>
