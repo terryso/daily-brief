@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币七天跌 12%，恐惧指数 12</title><link>https://daily.terryso.dev/2026-11-18-bitcoin-down-12-fear-index-12.html</link><guid>https://daily.terryso.dev/2026-11-18-bitcoin-down-12-fear-index-12.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://medium.com/@sbae75/bitcoin-daily-briefing-nov-18-2026-btc-64-927-12-0-0e12884f3d1e)过去 24 小时只涨了 0.1%。美国现货比特币 ETF 在 11 月 13 日净流出 1.855 亿美元。
+</description></item>
+<item><title>黑五前代码冻结：11月19日起停改主题和应用</title><link>https://daily.terryso.dev/2026-11-18-black-friday-code-freeze.html</link><guid>https://daily.terryso.dev/2026-11-18-black-friday-code-freeze.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[代码冻结](https://nxsinfotech.com/ecommerce-code-freeze-black-friday/)从 11 月 19 日前后开始，持续约两周，直到黑五网一订单处理完的 12 月初。在 Shopify 上它只冻主题代码和应用。
+</description></item>
 <item><title>GPT-6.2 Astra 降价两成，叫板 Fable 5.2</title><link>https://daily.terryso.dev/2026-11-18-gpt-6-2-astra-price-cut-fable-5-2.html</link><guid>https://daily.terryso.dev/2026-11-18-gpt-6-2-astra-price-cut-fable-5-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 OpenAI 称 Astra 在 Agents&#x27; Last Exam 上领先 Claude Fable 5.2。两款模型已在 [ChatGPT Work 与 Codex 上线](https://madrobot.blog/2026/11/17/openai-gpt-6-2-astra-sol-price-benchmarks/)。
 </description></item>
@@ -145,12 +151,6 @@ Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https:
 </description></item>
 <item><title>小米 165W 充电宝：双设备同充也不掉速</title><link>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-xiaomi-165w-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
 [91mobiles 的实测](https://www.91mobiles.com/reviews/xiaomi-power-bank-165w-review/)中，MacBook Air M1 约 40 分钟充到 50%。笔记本和 iPhone 一起充，两台约 1 小时 7 分钟都充到约 80%。
-</description></item>
-<item><title>INIU 推出 20,000mAh 户外充电宝</title><link>https://daily.terryso.dev/2026-11-06-iniu-20000mah-outdoor-power-bank.html</link><guid>https://daily.terryso.dev/2026-11-06-iniu-20000mah-outdoor-power-bank.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
-[它把输出拉到了 65W](https://channellife.co.uk/story/iniu-outdoor-launches-the-rugged-20-000mah-power-bank)。官方测试里，半小时把 13 英寸 MacBook Air 从 20% 充到 54%。
-</description></item>
-<item><title>Gemini Omni 1.2 Flash 视频拉长到 15 秒，降价 30%</title><link>https://daily.terryso.dev/2026-11-06-gemini-omni-1-2-flash-15s.html</link><guid>https://daily.terryso.dev/2026-11-06-gemini-omni-1-2-flash-15s.html</guid><pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate><description>
-[Gemini Omni 1.2 Flash](https://windowsreport.com/google-gemini-omni-1-2-flash-brings-15-second-ai-videos-and-30-lower-prices/)已正式可用，通过 Gemini API 就能调用。它支持多轮对话改片，换背景或产品都不用整段重生成。
 </description></item>
 </channel>
 </rss>
