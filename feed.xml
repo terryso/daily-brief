@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>CantoTalk 免费粤语 AI 热线开通</title><link>https://daily.terryso.dev/2026-11-19-cantotalk.html</link><guid>https://daily.terryso.dev/2026-11-19-cantotalk.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
+[CantoTalk](https://www.prnewswire.com/apac/news-releases/infotalk-launches-cantotalk-a-free-hotline-that-lets-hong-kong-talk-to-ai-in-cantonese-302943556.html) 听得懂粤语里夹英文的日常说法。11 月 18 日上线的这项服务，香港号码拨打 2668-7000 就能用日常粤语跟它对话。
+</description></item>
 <item><title>Suno 推出 Visuals，把 AI 歌曲变成音乐视频</title><link>https://daily.terryso.dev/2026-11-19-suno-visuals.html</link><guid>https://daily.terryso.dev/2026-11-19-suno-visuals.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
 [Visuals](https://www.digitalmusicnews.com/2026/11/17/suno-visuals-launch/)把库里的歌变成最长 15 秒的歌词视频和短片。它的画面跟着歌曲结构、歌词和节拍走。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>UGREEN 200W 笔记本充电宝回到最低价</title><link>https://daily.terryso.dev/2026-11-08-ugreen-200w-laptop-power-bank-lowest-price.html</link><guid>https://daily.terryso.dev/2026-11-08-ugreen-200w-laptop-power-bank-lowest-price.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [这款 UGREEN 充电宝](https://9to5toys.com/2026/11/06/ugreen-25000mah-200w-laptop-power-bank-retractable-cables-lowest-price/)在 Best Buy 的黑五预热里卖到 $89.99。单个 Type-C 口最高能输出 100W。
-</description></item>
-<item><title>特斯拉明年中逐步停产 Cybertruck</title><link>https://daily.terryso.dev/2026-11-08-tesla-cybertruck-production-ending.html</link><guid>https://daily.terryso.dev/2026-11-08-tesla-cybertruck-production-ending.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-[马斯克 11 月 6 日在 X 上说](https://www.usatoday.com/story/cars/shopping/evs/2026/11/06/tesla-cybertruck-production-ending/92639472007/)，特斯拉将在明年年中前后逐步停产得州超级工厂的 Cybertruck，为增产 Cybercab 腾出产能。据 Cox Automotive 的数据，Cybertruck 今年以来的销量下滑了 28%。
 </description></item>
 </channel>
 </rss>
