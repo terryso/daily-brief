@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Gemini 4 Neon 向 AI Pro 上线：Carbon 的水平，Flash 的速度</title><link>https://daily.terryso.dev/2026-11-19-gemini-4-neon.html</link><guid>https://daily.terryso.dev/2026-11-19-gemini-4-neon.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
+Google 于 11 月 18 日推出了 [Gemini 4 Neon](https://9to5google.com/2026/11/18/gemini-4-neon-announcement/)，AI Pro 与 Ultra 用户已能在 Gemini 应用里用上它。Gemini 里的 Tasks 现在也能跑在 Neon 上，多步骤任务比用大模型更快完成。
+</description></item>
 <item><title>Stitch Loop 接管上线后的优化</title><link>https://daily.terryso.dev/2026-11-19-stitch-loop.html</link><guid>https://daily.terryso.dev/2026-11-19-stitch-loop.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
 Google 11月18日推出了[Stitch Loop](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/)，一个接上代码库和实时指标、24 小时持续优化已上线产品的常驻智能体。它写好修复只开 GitHub PR，合并前总要等你点头。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>Nous 微调 Qwen3.8-27B 成 Arete-27B，强化西方价值观</title><link>https://daily.terryso.dev/2026-11-08-nous-arete-27b-qwen-finetune.html</link><guid>https://daily.terryso.dev/2026-11-08-nous-arete-27b-qwen-finetune.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Nous Research](https://nousresearch.com/arete?ref=siliconnoon.com) 这次微调只用了约 5280 万 token 的监督数据。在它自建的 803 题测评里，采纳官方口径的回答从 22% 降到 0.9%。
-</description></item>
-<item><title>Dropbox 闲置六个月将终止免费账户</title><link>https://daily.terryso.dev/2026-11-08-dropbox-free-account-inactivity-termination.html</link><guid>https://daily.terryso.dev/2026-11-08-dropbox-free-account-inactivity-termination.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-[新条款](https://www.dropbox.com/terms2026)将于 2027 年 1 月 1 日生效。以后，同一个账户可以访问多个个人和团队工作区。
 </description></item>
 </channel>
 </rss>
