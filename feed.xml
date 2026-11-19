@@ -2,6 +2,24 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic IPO 定价 83 美元</title><link>https://daily.terryso.dev/2026-11-19-anthropic-ipo-priced-83.html</link><guid>https://daily.terryso.dev/2026-11-19-anthropic-ipo-priced-83.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
+[Anthropic 把发行价定在了原定区间之上](https://www.calcalistech.com/ctechnews/article/ddyq1vva9)。周四开盘后，它将以 ANT 在纳斯达克交易。
+</description></item>
+<item><title>Genie 4 现在可用</title><link>https://daily.terryso.dev/2026-11-19-genie-4-now-available.html</link><guid>https://daily.terryso.dev/2026-11-19-genie-4-now-available.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
+[Genie 4](https://deepmind.google/blog/genie-4-is-now-available/)把探索变成了改写，玩的时候打字就能换掉眼前的世界。它还首次配上随场景实时变化的原生音频。
+</description></item>
+<item><title>Gemini Tasks 免费了，能打电话也能代付</title><link>https://daily.terryso.dev/2026-11-19-gemini-tasks-free.html</link><guid>https://daily.terryso.dev/2026-11-19-gemini-tasks-free.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
+11月17日，[Gemini 的 Tasks 功能](https://news.cocoloop.cn/en/2026/11/gemini-tasks-free-six-countries/)在美国、日本、韩国、加拿大、澳大利亚和印度免费开放。不过，打电话、代付这些新能力先只在美国上线，其余五国暂时只有基础的任务模式。
+</description></item>
+<item><title>Anker 早鸟黑五今天结束</title><link>https://daily.terryso.dev/2026-11-18-anker-early-black-friday-ends.html</link><guid>https://daily.terryso.dev/2026-11-18-anker-early-black-friday-ends.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[磁吸充电宝 622 MagGo](https://jokingjoystick.com/news/anker-s-early-black-friday-sale-cuts-prices-on-power-banks-docks-and-charging-gear-with-blind-boxes-in-the-mix/)降到 25.98 美元，是这波里降幅最陡的一款。Prime 20K 220W 那款也降到 129.99 美元。
+</description></item>
+<item><title>Pixazo 一个 API 打包了 MiniMax H3 全家</title><link>https://daily.terryso.dev/2026-11-18-pixazo-minimax-h3-api.html</link><guid>https://daily.terryso.dev/2026-11-18-pixazo-minimax-h3-api.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[Pixazo](https://www.abnewswire.com/pressreleases/pixazo-expands-ai-video-api-catalog-with-minimax-h3derived-models-spanning-cinematic-avatar-and-character-production_848464.html) 上的 H3 衍生模型按用途分了工，从电影感短片到会说话的数字人各有一款。按秒计费，没有预付套餐，新账号还有免费试用额度。
+</description></item>
+<item><title>比特币 ETF 单日流出 2.4 亿美元，CryptoQuant 改判熊市阶段</title><link>https://daily.terryso.dev/2026-11-18-bitcoin-etf-outflow-240m-bearish.html</link><guid>https://daily.terryso.dev/2026-11-18-bitcoin-etf-outflow-240m-bearish.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
+[美国现货比特币 ETF](https://bitcoinworld.co.in/bitcoin-etf-outflows-240m-cryptoquant-bearish-phase/)周二的流出里，贝莱德的 IBIT 一家就占了约 2.1 亿美元。CryptoQuant 同日把市场重新定为熊市阶段，称需求增长正以 7 月 1 日以来最快速度收缩。
+</description></item>
 <item><title>AI 发现的 Java 严重漏洞危及登录系统</title><link>https://daily.terryso.dev/2026-11-18-java4shell-cisa-warning.html</link><guid>https://daily.terryso.dev/2026-11-18-java4shell-cisa-warning.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [CISA 连夜发出紧急警告](https://www.hcamag.com/nz/news/general/employers-told-to-patch-critical-java-flaw-immediately-as-ai-found-bug-hits-staff-login-systems/597817)，称 Java4Shell 可让攻击者无需登录就远程接管系统。GreyNoise 已检测到针对这一漏洞的探测请求，尽管尚未确认有成功攻击。
 </description></item>
@@ -133,24 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>25家头部店一周上新近三千件</title><link>https://daily.terryso.dev/2026-11-08-top-shopify-stores-black-friday-new-arrivals.html</link><guid>https://daily.terryso.dev/2026-11-08-top-shopify-stores-black-friday-new-arrivals.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Promolexa 的黑五监测](https://www.promolexa.com/black-friday-watch)读了头部 Shopify 店 10 月 30 日至 11 月 7 日的公开商品目录，250 件新品直接挂出折扣价。这波上新通常意味着大促主推款已提前进目录。
-</description></item>
-<item><title>GitHub 推出新一代 Git 存储架构</title><link>https://daily.terryso.dev/2026-11-07-github-new-git-storage-architecture.html</link><guid>https://daily.terryso.dev/2026-11-07-github-new-git-storage-architecture.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[GitHub 的新存储架构](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)在内测中让同一仓库每秒承受 7,200 次推送，读取延迟仍保持低位。诀窍在于只协调引用更新，Git 对象本身无需排序就能同时写入。
-</description></item>
-<item><title>OpenAI 的 AI 验证了 948 个 Linux 提权漏洞</title><link>https://daily.terryso.dev/2026-11-07-openai-948-linux-privilege-escalation-patched.html</link><guid>https://daily.terryso.dev/2026-11-07-openai-948-linux-privilege-escalation-patched.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[只有 61 个漏洞已合入上游](https://digisoulhub.com/blog/openai-linux-privilege-escalation-pipeline/)。其余补丁是按内核社区披露指引提交给维护者的草案。
-</description></item>
-<item><title>Shopify 2027 年 3 月 1 日起停用 script tags</title><link>https://daily.terryso.dev/2026-11-07-shopify-script-tags-deprecation.html</link><guid>https://daily.terryso.dev/2026-11-07-shopify-script-tags-deprecation.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-Shopify 将在 2027 年 3 月 1 日起停止向店面注入 [script tags](https://medium.com/@artem_19387/shopify-script-tags-deprecation-what-breaks-on-march-1-2027-52552736cdca)。原计划的提醒横幅已经取消，店主只能自己核查哪些应用还在用这套旧机制。
-</description></item>
-<item><title>Anker 140W 充电宝跌回 $99</title><link>https://daily.terryso.dev/2026-11-07-anker-140w-power-bank-99.html</link><guid>https://daily.terryso.dev/2026-11-07-anker-140w-power-bank-99.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[Anker 737 的 140W 单口输出](https://kotaku.com/anker-140w-power-bank-drops-back-to-an-all-time-low-after-months-with-enough-power-to-charge-your-macbook-2000753507)能让 16 英寸 MacBook Pro 33 分钟从 0 充到 50%。它自己 52 分钟就能从 0 充满。
-</description></item>
-<item><title>双十一不再午夜抢购，谨慎消费改写玩法</title><link>https://daily.terryso.dev/2026-11-07-singles-day-no-midnight-rush.html</link><guid>https://daily.terryso.dev/2026-11-07-singles-day-no-midnight-rush.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[CNA 今晨的报道](https://www.channelnewsasia.com/east-asia/china-singles-day-shopping-alibaba-taobao-consumers-6520861)说，消费者已经厌倦了双十一直播里那种倒数叫卖。这场大促早已拉长成一个多月的长跑，快手 10 月 7 日就已开场。
-</description></item>
-<item><title>比特币 ETF 抹掉 2026 年全部净流入</title><link>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</link><guid>https://daily.terryso.dev/2026-11-07-bitcoin-etf-2026-inflows-erased.html</guid><pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate><description>
-[美国现货比特币 ETF](https://beincrypto.com/bitcoin-etfs-zero-net-flows-2026/)今年流入 256 亿美元、流出 261 亿美元，净流出 5.02 亿美元。剩下八周还得净流入 5 亿多美元才能转正，否则就是 2024 年 1 月推出以来的首个净流出年份。
 </description></item>
 </channel>
 </rss>
