@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 上市首日开盘大涨 34%</title><link>https://daily.terryso.dev/2026-11-20-anthropic-ipo-debut-34pct.html</link><guid>https://daily.terryso.dev/2026-11-20-anthropic-ipo-debut-34pct.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
+[Anthropic](https://asia.nikkei.com/business/markets/ipo/anthropic-opens-up-34-in-trading-debut-after-record-ipo) 周四在纳斯达克以 111.50 美元开盘。按发行价计算，这家公司完全摊薄后的估值达到 1.5 万亿美元。
+</description></item>
 <item><title>WorkBuddy 日活破千万，豆包办公同晚跟进</title><link>https://daily.terryso.dev/2026-11-19-workbuddy-dau-10m.html</link><guid>https://daily.terryso.dev/2026-11-19-workbuddy-dau-10m.html</guid><pubDate>Thu, 19 Nov 2026 08:00:00 +0800</pubDate><description>
 腾讯在 11 月 18 日晚间披露，[WorkBuddy 的日活已超 1000 万](https://www.caixinglobal.com/2026-11-19/tencent-bytedance-report-millions-of-daily-users-for-ai-office-tools-102506407.html)。另一边，豆包办公的日活也已超过 800 万。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>三个 AI 模型逛同一份 Shopify 目录，首选各不相同</title><link>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</link><guid>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Search Engine Journal 的测试](https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/)在 10 月下旬的六次搜索里，给三个 Claude 模型同一份 20 件商品的清单，它们一次都没在首选上达成一致。模型只看得到目录里的标题、评分、评价数和一句话简介，店里怎么写，智能体就拿什么当挑货的理由。
-</description></item>
-<item><title>Libghostty 1.0 发布，C 接口正式稳定</title><link>https://daily.terryso.dev/2026-11-08-libghostty-1-0-release-c-api-stable.html</link><guid>https://daily.terryso.dev/2026-11-08-libghostty-1-0-release-c-api-stable.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-[Mitchell Hashimoto 11 月 6 日发布了 libghostty-vt 1.0](https://mitchellh.com/writing/libghostty-1-0)，它把 Ghostty 终端核心抽成了一个可移植 C 库。JetBrains 的 IDE 终端已经跑在它上面，覆盖 1250 多万活跃用户。
 </description></item>
 </channel>
 </rss>
