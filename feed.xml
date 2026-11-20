@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌破 62000 美元</title><link>https://daily.terryso.dev/2026-11-21-bitcoin-below-62000.html</link><guid>https://daily.terryso.dev/2026-11-21-bitcoin-below-62000.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
+盘中一度触及 61270 美元，是自 7 月初以来[首次跌破这一关口](https://cryptonews.com/news/bitcoin-price-crashes-below-62000-etf/)。昨天一天，美国现货比特币 ETF 就流出 5.822 亿美元。
+</description></item>
 <item><title>Gemini 开始在 Mac 上替你操作应用</title><link>https://daily.terryso.dev/2026-11-20-gemini-mac-app-control.html</link><guid>https://daily.terryso.dev/2026-11-20-gemini-mac-app-control.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
 [Gemini Mac 版](https://www.macobserver.com/news/google-gemini-can-now-control-your-mac-apps-and-complete-tasks-in-the-background/)现在能在隔离的后台窗口里点击、输入、填表和操作应用与网站，你的屏幕和鼠标可以继续自己用。目前它仅限美国英语用户，面向 Google AI Plus、Pro 与 Ultra 订阅者。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>比特币跌至53天低点</title><link>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
 [Mercado Bitcoin](https://cryptodaily.co.uk/2026/11/btc-slides-to-a-53-day-low-as-mercado-bitcoin-hack-revives-custody-fears) 11月9日只读重开，提现与交易仍关闭。比特币在约76,000美元附近，刚好踩在200日均线上。
-</description></item>
-<item><title>Claude Code 2.1.317 先问一句，邮箱泄露还没堵死</title><link>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</link><guid>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-[Claude Code 2.1.317 及之后版本](https://wotai.co/blog/claude-code-email-user-agent)加了内置的 cc-plugin-privacy，会在联网调用带走账号邮箱前先问你一句。可是它拦不住 Claude 自己写好脚本再运行的那条路，团队自己也承认这一点。
 </description></item>
 </channel>
 </rss>
