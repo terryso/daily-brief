@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Linger 把完整 AI 智能体搬回本地电脑</title><link>https://daily.terryso.dev/2026-11-20-linger-local-ai-agent.html</link><guid>https://daily.terryso.dev/2026-11-20-linger-local-ai-agent.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
+[Linger](https://alphasignal.ai/repo/simplexai-s-linger-runs-a-full-ai-agent-on-your-pc-for-free) 把模型、记忆、工具和编排都搬到了本地电脑上运行。它的主智能体 Another Me 能直接操作本地文件、已登录的 Chrome、收件箱和日历。
+</description></item>
+<item><title>Shopify 黑五 11 月 27 日开场，商品默认进 AI 购物</title><link>https://daily.terryso.dev/2026-11-20-shopify-black-friday-2026.html</link><guid>https://daily.terryso.dev/2026-11-20-shopify-black-friday-2026.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
+[Shopify 黑五](https://netalico.com/blogs/netalico-digest/shopify-black-friday-2026)定在 11 月 27 日，网络星期一 11 月 30 日收官。这是首个合资格商品默认出现在 ChatGPT 等 AI 购物渠道的黑五。
+</description></item>
 <item><title>Anthropic 上市首日开盘大涨 34%</title><link>https://daily.terryso.dev/2026-11-20-anthropic-ipo-debut-34pct.html</link><guid>https://daily.terryso.dev/2026-11-20-anthropic-ipo-debut-34pct.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
 [Anthropic](https://asia.nikkei.com/business/markets/ipo/anthropic-opens-up-34-in-trading-debut-after-record-ipo) 周四在纳斯达克以 111.50 美元开盘。按发行价计算，这家公司完全摊薄后的估值达到 1.5 万亿美元。
 </description></item>
@@ -145,12 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>黑五前，先把 AI 购物知识库填好</title><link>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</link><guid>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Adobe 预计](https://fractionalcmoz.com/marketing-insights/shopify-agentic-commerce-bfcm/)今年假日季 AI 聊天与浏览器带来的美国零售流量将增长约 130%。感恩节 11 月 26 日前，在 Shopify 后台 Sales channels &gt; Agentic 里把节日发货截止写清楚。
-</description></item>
-<item><title>Anthropic 上市估值被压到 1.2 万亿至 1.3 万亿美元</title><link>https://daily.terryso.dev/2026-11-08-anthropic-ipo-valuation-1-2-trillion.html</link><guid>https://daily.terryso.dev/2026-11-08-anthropic-ipo-valuation-1-2-trillion.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-科技股抛售之后，[潜在投资者](https://www.tokenpost.com/news/business/51463)正在讨论给 Anthropic 的 IPO 定 1.2 万亿至 1.3 万亿美元的估值。Anthropic 计划下周启动正式路演，估值区间尚未最终确定。
-</description></item>
-<item><title>三个 AI 模型逛同一份 Shopify 目录，首选各不相同</title><link>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</link><guid>https://daily.terryso.dev/2026-11-08-three-ai-models-shopify-catalog-different-picks.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-[Search Engine Journal 的测试](https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/)在 10 月下旬的六次搜索里，给三个 Claude 模型同一份 20 件商品的清单，它们一次都没在首选上达成一致。模型只看得到目录里的标题、评分、评价数和一句话简介，店里怎么写，智能体就拿什么当挑货的理由。
 </description></item>
 </channel>
 </rss>
