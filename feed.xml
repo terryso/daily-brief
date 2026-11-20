@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 数学家称与 Claude 证明了黎曼猜想</title><link>https://daily.terryso.dev/2026-11-21-riemann-hypothesis-claude-proof.html</link><guid>https://daily.terryso.dev/2026-11-21-riemann-hypothesis-claude-proof.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
+Anthropic 数学家 Levent Alpöge 周五[称与 Claude 发现了黎曼猜想的证明](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/)，并把证明以 Lean 代码的形式发了出来。 MIT 数学家 Andrew Sutherland 已独立编译了这份 Lean 代码，称这是历史性时刻。
+</description></item>
+<item><title>比特币跌破 60000 美元</title><link>https://daily.terryso.dev/2026-11-21-bitcoin-below-60000.html</link><guid>https://daily.terryso.dev/2026-11-21-bitcoin-below-60000.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
+比特币周五[跌破 60000 美元](https://coinmarketcap.com/academy/article/bitcoin-below-60k-everything-selling-off)，为 6 月以来首次。CoinShares 研究主管称，这轮下跌更多源于 AI 股抛售，而非加密市场自身的问题。
+</description></item>
 <item><title>比特币跌破 62000 美元</title><link>https://daily.terryso.dev/2026-11-21-bitcoin-below-62000.html</link><guid>https://daily.terryso.dev/2026-11-21-bitcoin-below-62000.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
 盘中一度触及 61270 美元，是自 7 月初以来[首次跌破这一关口](https://cryptonews.com/news/bitcoin-price-crashes-below-62000-etf/)。昨天一天，美国现货比特币 ETF 就流出 5.822 亿美元。
 </description></item>
@@ -145,12 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>高盛收回交易员的 Claude Code，只留工程师用</title><link>https://daily.terryso.dev/2026-11-09-goldman-sachs-restricts-claude-code.html</link><guid>https://daily.terryso.dev/2026-11-09-goldman-sachs-restricts-claude-code.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
 高盛 10 月更新的内部指引把 [Claude Code 和 GitHub 限制给工程师](https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/)，多数交易员和银行家就此失去使用权。就在 7 月，高盛首席信息官还在公开称赞非技术员工用这些工具自己搭东西。
-</description></item>
-<item><title>封掉 Muse 后，亚马逊推出短信 Alexa 购物</title><link>https://daily.terryso.dev/2026-11-09-amazon-text-alexa-shopping.html</link><guid>https://daily.terryso.dev/2026-11-09-amazon-text-alexa-shopping.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
-亚马逊 11 月 6 日起让一小批受邀美国用户[发短信给 Alexa for Shopping 购物](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)。就在 9 月，它刚封掉了 Meta 的购物助手 Muse，不让它在亚马逊上代购。
-</description></item>
-<item><title>比特币跌至53天低点</title><link>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-53-day-low-mercado-bitcoin-hack.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
-[Mercado Bitcoin](https://cryptodaily.co.uk/2026/11/btc-slides-to-a-53-day-low-as-mercado-bitcoin-hack-revives-custody-fears) 11月9日只读重开，提现与交易仍关闭。比特币在约76,000美元附近，刚好踩在200日均线上。
 </description></item>
 </channel>
 </rss>
