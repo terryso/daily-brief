@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Gemini 开始在 Mac 上替你操作应用</title><link>https://daily.terryso.dev/2026-11-20-gemini-mac-app-control.html</link><guid>https://daily.terryso.dev/2026-11-20-gemini-mac-app-control.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
+[Gemini Mac 版](https://www.macobserver.com/news/google-gemini-can-now-control-your-mac-apps-and-complete-tasks-in-the-background/)现在能在隔离的后台窗口里点击、输入、填表和操作应用与网站，你的屏幕和鼠标可以继续自己用。目前它仅限美国英语用户，面向 Google AI Plus、Pro 与 Ultra 订阅者。
+</description></item>
 <item><title>Linger 把完整 AI 智能体搬回本地电脑</title><link>https://daily.terryso.dev/2026-11-20-linger-local-ai-agent.html</link><guid>https://daily.terryso.dev/2026-11-20-linger-local-ai-agent.html</guid><pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate><description>
 [Linger](https://alphasignal.ai/repo/simplexai-s-linger-runs-a-full-ai-agent-on-your-pc-for-free) 把模型、记忆、工具和编排都搬到了本地电脑上运行。它的主智能体 Another Me 能直接操作本地文件、已登录的 Chrome、收件箱和日历。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>Claude Code 2.1.317 先问一句，邮箱泄露还没堵死</title><link>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</link><guid>https://daily.terryso.dev/2026-11-08-claude-code-2-1-317-email-leak-partial-fix.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
 [Claude Code 2.1.317 及之后版本](https://wotai.co/blog/claude-code-email-user-agent)加了内置的 cc-plugin-privacy，会在联网调用带走账号邮箱前先问你一句。可是它拦不住 Claude 自己写好脚本再运行的那条路，团队自己也承认这一点。
-</description></item>
-<item><title>黑五前，先把 AI 购物知识库填好</title><link>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</link><guid>https://daily.terryso.dev/2026-11-08-black-friday-ai-shopping-knowledge-base.html</guid><pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate><description>
-[Adobe 预计](https://fractionalcmoz.com/marketing-insights/shopify-agentic-commerce-bfcm/)今年假日季 AI 聊天与浏览器带来的美国零售流量将增长约 130%。感恩节 11 月 26 日前，在 Shopify 后台 Sales channels &gt; Agentic 里把节日发货截止写清楚。
 </description></item>
 </channel>
 </rss>
