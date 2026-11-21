@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>英伟达遭遇 18 年来最差一周，SEC 展开调查</title><link>https://daily.terryso.dev/2026-11-21-nvidia-worst-week-sec-investigation.html</link><guid>https://daily.terryso.dev/2026-11-21-nvidia-worst-week-sec-investigation.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
+[路透社周五披露](https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/)，美国证交会正在调查英伟达的会计做法，但未说明具体疑点。股价本周累计跌 23%，是 2008 年以来最差的一周。
+</description></item>
 <item><title>Anthropic 上市次日跌至 88.30 美元</title><link>https://daily.terryso.dev/2026-11-21-anthropic-second-day-drop.html</link><guid>https://daily.terryso.dev/2026-11-21-anthropic-second-day-drop.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
 Anthropic 上市第二天[收于 88.30 美元](https://dailyaibrief.com/news/anthropic-prices-ipo-at-83-ahead-of-nasdaq-debut-568ms5ij)，已逼近 83 美元的发行价。承销商已全额行使超额配售权，发行规模随之扩大。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>Anthropic IPO 估值被砍至 1.5–1.6 万亿美元</title><link>https://daily.terryso.dev/2026-11-10-anthropic-ipo-valuation-cut-1-5-1-6-trillion.html</link><guid>https://daily.terryso.dev/2026-11-10-anthropic-ipo-valuation-cut-1-5-1-6-trillion.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 [11月2日修订的招股书](https://pandromeda.com/ai/anthropic-ipo-valuation-cut-to-15-16-trillion-after-stock-sell-off)显示，三季度营收约169.6亿美元，环比增长47%。同期公司由二季度9.74亿美元经营利润转为5.67亿美元经营亏损。
-</description></item>
-<item><title>Pi 在 HN 调查里压过 Copilot 和 Cursor</title><link>https://daily.terryso.dev/2026-11-10-pi-tops-hn-coding-agent-survey.html</link><guid>https://daily.terryso.dev/2026-11-10-pi-tops-hn-coding-agent-survey.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
-11月6日出炉的 [HN 调查](https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html)里，开源编码助手 Pi 被 67 名开发者点名使用。不少人并不只押一家，156 人同时用两个以上编码智能体。
 </description></item>
 </channel>
 </rss>
