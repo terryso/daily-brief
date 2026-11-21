@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Anthropic 上市次日跌至 88.30 美元</title><link>https://daily.terryso.dev/2026-11-21-anthropic-second-day-drop.html</link><guid>https://daily.terryso.dev/2026-11-21-anthropic-second-day-drop.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
+Anthropic 上市第二天[收于 88.30 美元](https://dailyaibrief.com/news/anthropic-prices-ipo-at-83-ahead-of-nasdaq-debut-568ms5ij)，已逼近 83 美元的发行价。承销商已全额行使超额配售权，发行规模随之扩大。
+</description></item>
 <item><title>黎曼猜想一日出现两份证明</title><link>https://daily.terryso.dev/2026-11-21-riemann-hypothesis-two-proofs.html</link><guid>https://daily.terryso.dev/2026-11-21-riemann-hypothesis-two-proofs.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
 Alessandro Masullo 的 940 页纯人工证明在周五数小时内被放出，[美国数学会主席 Ravi Vakil 说这是怕被抢先](https://www.thetimes.com/uk/technology-uk/article/riemann-hypothesis-ai-maths-solved-mf8zhswd7)。两份证明都声称证明了更强的广义黎曼猜想。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>Pi 在 HN 调查里压过 Copilot 和 Cursor</title><link>https://daily.terryso.dev/2026-11-10-pi-tops-hn-coding-agent-survey.html</link><guid>https://daily.terryso.dev/2026-11-10-pi-tops-hn-coding-agent-survey.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 11月6日出炉的 [HN 调查](https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html)里，开源编码助手 Pi 被 67 名开发者点名使用。不少人并不只押一家，156 人同时用两个以上编码智能体。
-</description></item>
-<item><title>比特币在 200 日均线上方守住 74,800 美元</title><link>https://daily.terryso.dev/2026-11-09-btc-holds-above-200-day-ma-74800.html</link><guid>https://daily.terryso.dev/2026-11-09-btc-holds-above-200-day-ma-74800.html</guid><pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate><description>
-周日晚比特币[跌至 73,510 美元](https://cryptocompass.com/articles/bitcoin-price-holds-74-800-as-the-200-day-average-at-73-170-faces-us-inflation-data)，创 8 月 21 日以来新低。周二的美国 CPI 是下一个考验。
 </description></item>
 </channel>
 </rss>
