@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币跌至两年多来最低</title><link>https://daily.terryso.dev/2026-11-22-bitcoin-two-year-low.html</link><guid>https://daily.terryso.dev/2026-11-22-bitcoin-two-year-low.html</guid><pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://www.businesstimes.com.sg/companies-markets/banking-finance/bitcoin-falls-more-two-year-low-global-markets-sink)周五跌至 57,716 美元，创 2024 年 9 月以来最低。这轮下跌由资金从比特币 ETF 流出、AI 交易瓦解推动。
+</description></item>
 <item><title>英伟达遭遇 18 年来最差一周，SEC 展开调查</title><link>https://daily.terryso.dev/2026-11-21-nvidia-worst-week-sec-investigation.html</link><guid>https://daily.terryso.dev/2026-11-21-nvidia-worst-week-sec-investigation.html</guid><pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate><description>
 [路透社周五披露](https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/)，美国证交会正在调查英伟达的会计做法，但未说明具体疑点。股价本周累计跌 23%，是 2008 年以来最差的一周。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>双十一满18岁：凑单算账退场，AI token登场</title><link>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</link><guid>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 [阿里新设的 AI Token 中心](http://www.scmp.com/tech/tech-trends/article/3373780/less-coupon-math-more-ai-whats-new-chinas-18th-singles-day?module=top_story&amp;pgtype=homepage)在 10 月 1 日至 20 日销量环比涨了 450%。淘宝天猫占最大份额，京东、抖音、拼多多和快手跟在后面。
-</description></item>
-<item><title>Anthropic IPO 估值被砍至 1.5–1.6 万亿美元</title><link>https://daily.terryso.dev/2026-11-10-anthropic-ipo-valuation-cut-1-5-1-6-trillion.html</link><guid>https://daily.terryso.dev/2026-11-10-anthropic-ipo-valuation-cut-1-5-1-6-trillion.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
-[11月2日修订的招股书](https://pandromeda.com/ai/anthropic-ipo-valuation-cut-to-15-16-trillion-after-stock-sell-off)显示，三季度营收约169.6亿美元，环比增长47%。同期公司由二季度9.74亿美元经营利润转为5.67亿美元经营亏损。
 </description></item>
 </channel>
 </rss>
