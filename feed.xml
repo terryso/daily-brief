@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Thinking Machines 发布 Inkling 2 Mini</title><link>https://daily.terryso.dev/2026-11-22-inkling-2-mini.html</link><guid>https://daily.terryso.dev/2026-11-22-inkling-2-mini.html</guid><pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate><description>
+Thinking Machines 发布了[开源权重的 Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)，它能在 32GB 的 Mac 上离线运行。它把中间 12 层每 token 跑三遍，让小模型在内部多想几步再作答。
+</description></item>
 <item><title>比特币跌至两年多来最低</title><link>https://daily.terryso.dev/2026-11-22-bitcoin-two-year-low.html</link><guid>https://daily.terryso.dev/2026-11-22-bitcoin-two-year-low.html</guid><pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://www.businesstimes.com.sg/companies-markets/banking-finance/bitcoin-falls-more-two-year-low-global-markets-sink)周五跌至 57,716 美元，创 2024 年 9 月以来最低。这轮下跌由资金从比特币 ETF 流出、AI 交易瓦解推动。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>比特币跌至 74,080 美元，CPI 前加息押注升温</title><link>https://daily.terryso.dev/2026-11-10-bitcoin-74080-cpi-rate-hike.html</link><guid>https://daily.terryso.dev/2026-11-10-bitcoin-74080-cpi-rate-hike.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币周二跌至 74,080.54 美元](https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase)，自 UTC 午夜以来跌了 1.4%。美联储理事沃勒称，即使 10 月通胀回落，他仍支持 12 月加息 25 个基点。
-</description></item>
-<item><title>双十一满18岁：凑单算账退场，AI token登场</title><link>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</link><guid>https://daily.terryso.dev/2026-11-10-singles-day-18-ai-token.html</guid><pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate><description>
-[阿里新设的 AI Token 中心](http://www.scmp.com/tech/tech-trends/article/3373780/less-coupon-math-more-ai-whats-new-chinas-18th-singles-day?module=top_story&amp;pgtype=homepage)在 10 月 1 日至 20 日销量环比涨了 450%。淘宝天猫占最大份额，京东、抖音、拼多多和快手跟在后面。
 </description></item>
 </channel>
 </rss>
