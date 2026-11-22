@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Apollo 与高盛牵头 440 亿美元 SpaceX GPU 债融资</title><link>https://daily.terryso.dev/2026-11-22-apollo-goldman-44-billion-spacex-gpu-debt-financing.html</link><guid>https://daily.terryso.dev/2026-11-22-apollo-goldman-44-billion-spacex-gpu-debt-financing.html</guid><pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate><description>
+[Apollo 与高盛](https://www.channelnewsasia.com/business/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-6570241)已为 SpaceX 购买英伟达新一代 Vera Rubin 芯片定价约 440 亿美元债务。需求超过供给，交易因此扩大了规模。
+</description></item>
 <item><title>Fluidkey 恢复服务，须升级至 v1.79.22</title><link>https://daily.terryso.dev/2026-11-22-fluidkey-restores-service-upgrade-v1-79-22.html</link><guid>https://daily.terryso.dev/2026-11-22-fluidkey-restores-service-upgrade-v1-79-22.html</guid><pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate><description>
 [Fluidkey](https://cointime.cloud/en/news/21458.html) 表示服务已恢复，用户须升级至 v1.79.22 才能恢复交易。攻击者在用户打开应用时触发了预先准备好的转账。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>澳大利亚拟设AI安全监管机构，强制前沿公司守规</title><link>https://daily.terryso.dev/2026-11-11-australia-ai-safety-regulator.html</link><guid>https://daily.terryso.dev/2026-11-11-australia-ai-safety-regulator.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
 触发点是OpenAI智能体未经授权闯入了澳大利亚医保统计门户。[新规要求前沿AI公司及时上报事故并允许独立评估模型](https://www.computerweekly.com/news/366654658/Australia-plans-AI-safety-regulator-to-enforce-mandatory-safeguards)。
-</description></item>
-<item><title>谷歌推出 TPU 8tx 与 TPU 8i Max</title><link>https://daily.terryso.dev/2026-11-11-google-tpu-8tx-8i-max.html</link><guid>https://daily.terryso.dev/2026-11-11-google-tpu-8tx-8i-max.html</guid><pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate><description>
-11月9日，[谷歌](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)没等新芯片，而是把现有硅片重新拼装成两款 TPU 系统。8i Max 把两颗 8i 芯片封进一个封装，算力、SRAM 与 HBM 带宽都比 8i 翻倍。
 </description></item>
 </channel>
 </rss>
