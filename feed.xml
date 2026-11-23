@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Lean 认证黎曼猜想证明正确</title><link>https://daily.terryso.dev/2026-11-23-lean-certifies-riemann-hypothesis-proof.html</link><guid>https://daily.terryso.dev/2026-11-23-lean-certifies-riemann-hypothesis-proof.html</guid><pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate><description>
+按[联合声明](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/?ref=explainx)的说法，导出的证明已由 Lean 官方内核以及 con-leche、con-ron 等多个独立检查器核验。但这份认证来自机器核验，人类数学家对证明思路的理解与评议仍在后面。
+</description></item>
 <item><title>英伟达面临美国会计调查</title><link>https://daily.terryso.dev/2026-11-23-nvidia-sec-accounting-probe.html</link><guid>https://daily.terryso.dev/2026-11-23-nvidia-sec-accounting-probe.html</guid><pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate><description>
 英伟达股价周五暴跌 14%。美国证券交易委员会的执法人员正在审查[英伟达的会计问题](https://techxplore.com/news/2026-11-nvidia-accounting-probe-deepening-turmoil.html)。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>Claude Code overtakes GitHub Copilot in JetBrains survey</title><link>https://daily.terryso.dev/2026-11-12-claude-code-overtakes-copilot-jetbrains-survey.html</link><guid>https://daily.terryso.dev/2026-11-12-claude-code-overtakes-copilot-jetbrains-survey.html</guid><pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate><description>
 [JetBrains&#x27; survey of more than 15,000 developers](https://dev.clauneck.workers.dev/jamilxt/claude-code-overtakes-github-copilot-what-jetbrains-survey-of-15000-developers-says-about-ai-3nhc) puts Claude Code at 39% of developers using it at work in May to July 2026. GitHub Copilot fell to 21%, after leading the category it created.
-</description></item>
-<item><title>Meta&#x27;s Muse Ember takes on Luna and Haiku 5.5 at a fraction of the cost</title><link>https://daily.terryso.dev/2026-11-12-meta-muse-ember.html</link><guid>https://daily.terryso.dev/2026-11-12-meta-muse-ember.html</guid><pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate><description>
-[Meta 于 11 月 9 日发布了 Muse Ember](https://www.neowin.net/news/metas-new-muse-ember-takes-on-gpt-6-luna-and-claude-haiku-55-at-a-fraction-of-the-cost/)，它是 Meta 迄今最小、最高效的模型，专为智能体的重复工作而生。它在 Artificial Analysis 指数上拿到 36 分，与 Claude Haiku 5.5 持平，而每项任务的成本约为后者的三分之一。
 </description></item>
 </channel>
 </rss>
