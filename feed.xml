@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Ladybird 首个 alpha：一个从零写的浏览器</title><link>https://daily.terryso.dev/2026-11-24-ladybird-first-alpha-browser.html</link><guid>https://daily.terryso.dev/2026-11-24-ladybird-first-alpha-browser.html</guid><pubDate>Tue, 24 Nov 2026 08:00:00 +0800</pubDate><description>
+[Ladybird 的首个 alpha](https://www.neowin.net/news/ladybirds-first-alpha-brings-a-truly-independent-browser-to-macos-and-linux/) 已上线 macOS 和 Linux。它走滚动更新通道，新版本会自动推送。
+</description></item>
 <item><title>Lean 认证黎曼猜想证明正确</title><link>https://daily.terryso.dev/2026-11-23-lean-certifies-riemann-hypothesis-proof.html</link><guid>https://daily.terryso.dev/2026-11-23-lean-certifies-riemann-hypothesis-proof.html</guid><pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate><description>
 按[联合声明](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/?ref=explainx)的说法，导出的证明已由 Lean 官方内核以及 con-leche、con-ron 等多个独立检查器核验。但这份认证来自机器核验，人类数学家对证明思路的理解与评议仍在后面。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>五家 AI 巨头被诉，要求叫停前沿模型开发</title><link>https://daily.terryso.dev/2026-11-13-five-ai-giants-sued-halt-frontier-ai.html</link><guid>https://daily.terryso.dev/2026-11-13-five-ai-giants-sued-halt-frontier-ai.html</guid><pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate><description>
 几家非营利组织周四在旧金山[起诉了 OpenAI、Anthropic、SpaceX 的 AI 部门、Meta 和谷歌](https://tribune.com.pk/story/2639977/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development)，要求法院叫停最先进 AI 模型的进一步开发。诉状援引的正是这些公司自己的高管警告，包括 Anthropic 首席执行官 Dario Amodei 和 Elon Musk 关于 AI 可能摧毁文明的说法。
-</description></item>
-<item><title>Claude Code overtakes GitHub Copilot in JetBrains survey</title><link>https://daily.terryso.dev/2026-11-12-claude-code-overtakes-copilot-jetbrains-survey.html</link><guid>https://daily.terryso.dev/2026-11-12-claude-code-overtakes-copilot-jetbrains-survey.html</guid><pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate><description>
-[JetBrains&#x27; survey of more than 15,000 developers](https://dev.clauneck.workers.dev/jamilxt/claude-code-overtakes-github-copilot-what-jetbrains-survey-of-15000-developers-says-about-ai-3nhc) puts Claude Code at 39% of developers using it at work in May to July 2026. GitHub Copilot fell to 21%, after leading the category it created.
 </description></item>
 </channel>
 </rss>
