@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>MCP 服务器现在能自带 skills</title><link>https://daily.terryso.dev/2026-11-26-mcp-server-skills.html</link><guid>https://daily.terryso.dev/2026-11-26-mcp-server-skills.html</guid><pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate><description>
+Anthropic 11月24日[把 Skills over MCP 推入公开测试](https://claude.com/resources/articles/skills-over-mcp-tasks-and-more)，MCP 服务器现在能随工具一起发布 skills。首批例子里就有 Shopify：Claude 能靠它从头到尾设计和更新一家网店。
+</description></item>
 <item><title>Claude Ship 让 AI 审查、修复并批准代码变更</title><link>https://daily.terryso.dev/2026-11-25-claude-ship-ai-review-fix-approve-code-changes.html</link><guid>https://daily.terryso.dev/2026-11-25-claude-ship-ai-review-fix-approve-code-changes.html</guid><pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate><description>
 Anthropic 11月23日[推出 Claude Ship 测试版](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)，起因是自家团队里 Claude 已经写了大部分代码，审查和批准成了瓶颈。批准按团队写在仓库里的策略文件执行。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>比特币跌破 6.7 万美元，ETF 一周流出 10.7 亿美元</title><link>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</link><guid>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://plainbtc.com/articles/bitcoin-below-67000-sixth-weekly-loss-nov-2026)在 Kraken 跌到约 66,400 美元，是 8 月 19 日以来最低。美国现货比特币 ETF 已连续七个交易日净流出。
-</description></item>
-<item><title>比特币跌回 200 周均线</title><link>https://daily.terryso.dev/2026-11-14-bitcoin-falls-back-200-week-ma.html</link><guid>https://daily.terryso.dev/2026-11-14-bitcoin-falls-back-200-week-ma.html</guid><pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate><description>
-周五欧洲开盘前，[比特币](https://fxpro.news/crypto/bitcoin-has-fallen-back-to-the-crucial-200-week-ma/)一度跌破 6.75 万美元。这条 200 周均线在 2018 年和 2020 年都守住了熊市底部。
 </description></item>
 </channel>
 </rss>
