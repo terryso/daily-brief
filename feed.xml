@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Google 要求 AI 智能体 2027 年 2 月 1 日前改走 MCP</title><link>https://daily.terryso.dev/2026-11-26-google-workspace-mcp-deadline.html</link><guid>https://daily.terryso.dev/2026-11-26-google-workspace-mcp-deadline.html</guid><pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate><description>
+[Workspace MCP 服务器和 Workspace CLI 正式可用](https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise)，覆盖 Gmail、Drive 等 Workspace 应用。发邮件、改动 Drive 共享权限这类敏感操作，仍需人工确认才能执行。
+</description></item>
 <item><title>MCP 服务器现在能自带 skills</title><link>https://daily.terryso.dev/2026-11-26-mcp-server-skills.html</link><guid>https://daily.terryso.dev/2026-11-26-mcp-server-skills.html</guid><pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate><description>
 Anthropic 11月24日[把 Skills over MCP 推入公开测试](https://claude.com/resources/articles/skills-over-mcp-tasks-and-more)，MCP 服务器现在能随工具一起发布 skills。首批例子里就有 Shopify：Claude 能靠它从头到尾设计和更新一家网店。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>Cursor 查清恶意 Claude Code 扩展背后的入侵</title><link>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</link><guid>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
 [Cursor](https://www.abijita.com/cursor-breach-claude-code/)在 11 月 13 日的调查报告中说，攻击者用 Fireworks AI 泄露的密钥发布了被篡改的 Claude Code 扩展。被篡改的 2.1.312 和 2.1.313 版本最多可能到达 5,000 名用户。
-</description></item>
-<item><title>比特币跌破 6.7 万美元，ETF 一周流出 10.7 亿美元</title><link>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</link><guid>https://daily.terryso.dev/2026-11-15-bitcoin-below-67000-etf-outflows.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
-[比特币](https://plainbtc.com/articles/bitcoin-below-67000-sixth-weekly-loss-nov-2026)在 Kraken 跌到约 66,400 美元，是 8 月 19 日以来最低。美国现货比特币 ETF 已连续七个交易日净流出。
 </description></item>
 </channel>
 </rss>
