@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>GPT-6.2 的用量上限来得更快了</title><link>https://daily.terryso.dev/2026-11-27-gpt-62-usage-limits.html</link><guid>https://daily.terryso.dev/2026-11-27-gpt-62-usage-limits.html</guid><pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate><description>
+OpenAI[修正了 GPT-6.2 Astra 的计费错误](https://warden.veritai.ch/news/openai-says-corrected-usage-accounting-will-make-gpt-62-limits-arrive-sooner)，同一份工作现在会比上周快 40% 触到用量上限。Go、Plus、Pro 和 Business 的订阅者会得到一次存着用的额度重置，一个月内都可以用。
+</description></item>
 <item><title>Google 要求 AI 智能体 2027 年 2 月 1 日前改走 MCP</title><link>https://daily.terryso.dev/2026-11-26-google-workspace-mcp-deadline.html</link><guid>https://daily.terryso.dev/2026-11-26-google-workspace-mcp-deadline.html</guid><pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate><description>
 [Workspace MCP 服务器和 Workspace CLI 正式可用](https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise)，覆盖 Gmail、Drive 等 Workspace 应用。发邮件、改动 Drive 共享权限这类敏感操作，仍需人工确认才能执行。
 </description></item>
@@ -148,9 +151,6 @@ Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下�
 </description></item>
 <item><title>ChatGPT Wallet 让智能体代下单，卡号不露面</title><link>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
 [ChatGPT Wallet](https://www.notebookcheck.net/ChatGPT-Wallet-lets-AI-agents-shop-without-seeing-your-card-number.1450862.0.html) 让 OpenAI 的 dots 智能体替人在线下单或订酒店，结账用的是一次性替身卡号。首批只向美国 18 岁以上、有美国账单地址的 Pro 订阅用户逐步开放。
-</description></item>
-<item><title>Cursor 查清恶意 Claude Code 扩展背后的入侵</title><link>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</link><guid>https://daily.terryso.dev/2026-11-15-cursor-malicious-claude-code-extension-breach.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
-[Cursor](https://www.abijita.com/cursor-breach-claude-code/)在 11 月 13 日的调查报告中说，攻击者用 Fireworks AI 泄露的密钥发布了被篡改的 Claude Code 扩展。被篡改的 2.1.312 和 2.1.313 版本最多可能到达 5,000 名用户。
 </description></item>
 </channel>
 </rss>
