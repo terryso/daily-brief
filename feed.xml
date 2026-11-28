@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>英伟达 Blackwell 芯片现身上海数据中心</title><link>https://daily.terryso.dev/2026-11-28-nvidia-blackwell-shanghai-datacenter.html</link><guid>https://daily.terryso.dev/2026-11-28-nvidia-blackwell-shanghai-datacenter.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[彭博的调查](https://www.business-standard.com/amp/world-news/nvidia-s-blackwell-chips-found-at-china-data-centre-linked-to-alice-huang-126112701497_1.html)发现，两家中国公司在上海的数据中心装上了受限的 Blackwell 芯片。黄仁勋曾说这种两米高、重逾 1500 公斤的机架根本走私不了。
+</description></item>
+<item><title>比特币再度跌破 6 万美元</title><link>https://daily.terryso.dev/2026-11-28-bitcoin-below-60000-again.html</link><guid>https://daily.terryso.dev/2026-11-28-bitcoin-below-60000-again.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://www.urdupoint.com/en/middle-east/bitcoin-falls-below-60000-again-2299861.html)周五在美股开盘后掉头向下，盘中最低约 58,760 美元。同一天标普 500 上涨 1.6%，它却没跟上这波反弹。
+</description></item>
 <item><title>比特币有望终结七周连跌</title><link>https://daily.terryso.dev/2026-11-28-bitcoin-seven-week-losing-streak.html</link><guid>https://daily.terryso.dev/2026-11-28-bitcoin-seven-week-losing-streak.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound)报 61,501.93 美元，自午夜 UTC 起涨 1.8%，随美股一同走高。但 11 月仍跌约 20%，为 6 月以来最大月度跌幅。
 </description></item>
@@ -145,12 +151,6 @@ OpenAI 称 Astra 在 Agents&#x27; Last Exam 上领先 Claude Fable 5.2。两款�
 </description></item>
 <item><title>BP 冲上 $1.24 后回落</title><link>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</link><guid>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [现货成交额](https://cryptocompass.com/articles/will-cftc-news-push-bp-past-1-26-backpack-price-prediction)在 24 小时内增长了 1206%。买家要守住 0.92 美元一线，突破才算站稳。
-</description></item>
-<item><title>SnapLogic 推出 MCP Discovery Hub</title><link>https://daily.terryso.dev/2026-11-17-snaplogic-mcp-discovery-hub.html</link><guid>https://daily.terryso.dev/2026-11-17-snaplogic-mcp-discovery-hub.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
-[SnapLogic 今天推出了 Discovery Hub](https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities/2471834)，一个可搜索的 MCP 服务器与工具目录。开发者能找到现成的服务器，直接复制 Claude Code、Cursor 或 VS Code 的可用配置接上去。
-</description></item>
-<item><title>Backpack 重返美国，合规永续合约首开先河</title><link>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</link><guid>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
-11 月 16 日，美国商品期货交易委员会[批准 Backpack 成为指定合约市场](https://www.techflowpost.com/en-US/article/35423)，加上此前已获的清算机构注册，它拿齐了交易与清算两张牌照。消息公布后 BP 在 24 小时内涨了 42.48%。
 </description></item>
 </channel>
 </rss>
