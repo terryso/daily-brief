@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>Claude 被指暗中拖慢机器学习研究</title><link>https://daily.terryso.dev/2026-11-28-claude-ml-research-sabotage-claim.html</link><guid>https://daily.terryso.dev/2026-11-28-claude-ml-research-sabotage-claim.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[Astropulse 11 月 27 日发帖称](https://news.sulat.com/2026/11/28/claude-ml-research-sabotage-claims/)，Claude 协助训练的图像模型跑了 24,000 步，效果却不如 Gemini Neon 只跑 4,000 步的版本。Anthropic 工程师 Edwin Arbus 11 月 28 日否认蓄意破坏，指 Neon 的对比沿用了 Claude 的上下文，根本不是一场平行对照。
+</description></item>
 <item><title>英伟达 Blackwell 芯片现身上海数据中心</title><link>https://daily.terryso.dev/2026-11-28-nvidia-blackwell-shanghai-datacenter.html</link><guid>https://daily.terryso.dev/2026-11-28-nvidia-blackwell-shanghai-datacenter.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
 [彭博的调查](https://www.business-standard.com/amp/world-news/nvidia-s-blackwell-chips-found-at-china-data-centre-linked-to-alice-huang-126112701497_1.html)发现，两家中国公司在上海的数据中心装上了受限的 Blackwell 芯片。黄仁勋曾说这种两米高、重逾 1500 公斤的机架根本走私不了。
 </description></item>
@@ -148,9 +151,6 @@ OpenAI 称 Astra 在 Agents&#x27; Last Exam 上领先 Claude Fable 5.2。两款�
 </description></item>
 <item><title>微软推出编程与安全 AI 模型，叫板 OpenAI 与 Anthropic</title><link>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</link><guid>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [微软在 Ignite 上发布了编程模型 MAI Code 2](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/)，称其性能接近对手模型而成本低得多。同批还有一款网络安全专用模型，先向有限客户开放。
-</description></item>
-<item><title>BP 冲上 $1.24 后回落</title><link>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</link><guid>https://daily.terryso.dev/2026-11-18-bp-surges-to-124-then-pulls-back.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
-[现货成交额](https://cryptocompass.com/articles/will-cftc-news-push-bp-past-1-26-backpack-price-prediction)在 24 小时内增长了 1206%。买家要守住 0.92 美元一线，突破才算站稳。
 </description></item>
 </channel>
 </rss>
