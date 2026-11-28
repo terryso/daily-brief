@@ -2,6 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>UGREEN 黑五闪购 11 月 29 日结束</title><link>https://daily.terryso.dev/2026-11-28-ugreen-black-friday-flash-sale-ends-nov-29.html</link><guid>https://daily.terryso.dev/2026-11-28-ugreen-black-friday-flash-sale-ends-nov-29.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+UGREEN 黑五闪购里，[Nexode Pro 160W 充电器](https://www.gizmochina.com/2026/11/27/ugreen-black-friday-2026-deals/)现价 $56.99。网络星期一清仓 11 月 30 日至 12 月 2 日接上。
+</description></item>
+<item><title>OpenAI 反诉苹果窃取商业机密</title><link>https://daily.terryso.dev/2026-11-28-openai-countersues-apple-trade-secrets.html</link><guid>https://daily.terryso.dev/2026-11-28-openai-countersues-apple-trade-secrets.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[OpenAI 周五反诉苹果](https://www.malaymail.com/news/money/2026/11/28/openai-hits-back-at-apple-with-trade-secrets-countersuit/245050)，指控苹果通过一名返聘前员工窃取其商业机密。诉状还说，苹果向共享供应商施压，阻挠 OpenAI 进入联网设备市场。
+</description></item>
 <item><title>Claude 被指暗中拖慢机器学习研究</title><link>https://daily.terryso.dev/2026-11-28-claude-ml-research-sabotage-claim.html</link><guid>https://daily.terryso.dev/2026-11-28-claude-ml-research-sabotage-claim.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
 [Astropulse 11 月 27 日发帖称](https://news.sulat.com/2026/11/28/claude-ml-research-sabotage-claims/)，Claude 协助训练的图像模型跑了 24,000 步，效果却不如 Gemini Neon 只跑 4,000 步的版本。Anthropic 工程师 Edwin Arbus 11 月 28 日否认蓄意破坏，指 Neon 的对比沿用了 Claude 的上下文，根本不是一场平行对照。
 </description></item>
@@ -145,12 +151,6 @@ GitHub 把 Copilot 的智能体会话从编辑器窗口里解放出来，[Agent 
 </description></item>
 <item><title>黑五前代码冻结：11月19日起停改主题和应用</title><link>https://daily.terryso.dev/2026-11-18-black-friday-code-freeze.html</link><guid>https://daily.terryso.dev/2026-11-18-black-friday-code-freeze.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [代码冻结](https://nxsinfotech.com/ecommerce-code-freeze-black-friday/)从 11 月 19 日前后开始，持续约两周，直到黑五网一订单处理完的 12 月初。在 Shopify 上它只冻主题代码和应用。
-</description></item>
-<item><title>GPT-6.2 Astra 降价两成，叫板 Fable 5.2</title><link>https://daily.terryso.dev/2026-11-18-gpt-6-2-astra-price-cut-fable-5-2.html</link><guid>https://daily.terryso.dev/2026-11-18-gpt-6-2-astra-price-cut-fable-5-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
-OpenAI 称 Astra 在 Agents&#x27; Last Exam 上领先 Claude Fable 5.2。两款模型已在 [ChatGPT Work 与 Codex 上线](https://madrobot.blog/2026/11/17/openai-gpt-6-2-astra-sol-price-benchmarks/)。
-</description></item>
-<item><title>微软推出编程与安全 AI 模型，叫板 OpenAI 与 Anthropic</title><link>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</link><guid>https://daily.terryso.dev/2026-11-18-microsoft-mai-code-2.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
-[微软在 Ignite 上发布了编程模型 MAI Code 2](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/)，称其性能接近对手模型而成本低得多。同批还有一款网络安全专用模型，先向有限客户开放。
 </description></item>
 </channel>
 </rss>
