@@ -2,6 +2,21 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>比特币有望终结七周连跌</title><link>https://daily.terryso.dev/2026-11-28-bitcoin-seven-week-losing-streak.html</link><guid>https://daily.terryso.dev/2026-11-28-bitcoin-seven-week-losing-streak.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[比特币](https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound)报 61,501.93 美元，自午夜 UTC 起涨 1.8%，随美股一同走高。但 11 月仍跌约 20%，为 6 月以来最大月度跌幅。
+</description></item>
+<item><title>Gemini 4 Carbon 12 月 1 日起翻倍</title><link>https://daily.terryso.dev/2026-11-28-gemini-4-carbon-price-doubles.html</link><guid>https://daily.terryso.dev/2026-11-28-gemini-4-carbon-price-doubles.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[Gemini 4 Carbon 的介绍价](https://yonkersdailynews.com/stories/gemini-4-carbon-vs-gemini-4-hydrogen-vs-gemini-4-neon-pricing-api-deadlines-and-access-tiers,2277381)只到 11 月 30 日，12 月 1 日起每百万 token 从 $2/$10 涨到 $4/$20。届时定价 $3/$15 的 Gemini 4 Neon 反而比 Carbon 便宜 25%，是重活的平替。
+</description></item>
+<item><title>Baseus 黑五大促，全年最低价</title><link>https://daily.terryso.dev/2026-11-28-baseus-black-friday-deals.html</link><guid>https://daily.terryso.dev/2026-11-28-baseus-black-friday-deals.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[满 $129 减 $30](https://www.baseus.com/pages/black-friday-deals-2026?utm_source=fb&amp;utm_medium=cpc&amp;utm_campaign=ava&amp;utm_id=metaads&amp;utm_term=ava&amp;fbclid=fbclid)是 Baseus 黑五的最高一档满减，优惠到 12 月 6 日截止。下单还自动参加抽奖，奖品是价值 $329 的惊喜盒。
+</description></item>
+<item><title>Anthropic 把 Messages API 从 Python 迁到了 Rust</title><link>https://daily.terryso.dev/2026-11-27-anthropic-messages-api-rust.html</link><guid>https://daily.terryso.dev/2026-11-27-anthropic-messages-api-rust.html</guid><pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate><description>
+[Anthropic 的工程文章](https://www.anthropic.com/research/migrating-api-to-rust)说，Messages API 迁到 Rust 后，每请求 CPU 少了约 70%。Anthropic 把线上 Python 版当作判据，用影子比对逐个修掉差异才敢切流量。
+</description></item>
+<item><title>Anker 黑五全场最高 49% off</title><link>https://daily.terryso.dev/2026-11-27-anker-black-friday-49-off.html</link><guid>https://daily.terryso.dev/2026-11-27-anker-black-friday-49-off.html</guid><pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate><description>
+[Anker 官网黑五大促](https://www.anker.com/black-friday-sale?ref=image_hero_banner&amp;ranMID=43469&amp;ranEAID=J2shFQg6J%2FU&amp;utm_source=rakuten&amp;utm_medium=affiliate&amp;utm_content=1_1345549_MacRumors.com&amp;utm_campaign=J2shFQg6J%2FU&amp;ranSiteID=J2shFQg6J_U-t.VN9r_k2bVj3x1IzDDJDQ)全场最高 49% off，11 月 30 日结束。套装最高 33% off，售完为止。
+</description></item>
 <item><title>GPT-6.2 的用量上限来得更快了</title><link>https://daily.terryso.dev/2026-11-27-gpt-62-usage-limits.html</link><guid>https://daily.terryso.dev/2026-11-27-gpt-62-usage-limits.html</guid><pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate><description>
 OpenAI[修正了 GPT-6.2 Astra 的计费错误](https://warden.veritai.ch/news/openai-says-corrected-usage-accounting-will-make-gpt-62-limits-arrive-sooner)，同一份工作现在会比上周快 40% 触到用量上限。Go、Plus、Pro 和 Business 的订阅者会得到一次存着用的额度重置，一个月内都可以用。
 </description></item>
@@ -136,21 +151,6 @@ OpenAI 称 Astra 在 Agents&#x27; Last Exam 上领先 Claude Fable 5.2。两款�
 </description></item>
 <item><title>Backpack 重返美国，合规永续合约首开先河</title><link>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</link><guid>https://daily.terryso.dev/2026-11-17-backpack-returns-us-regulated-perpetuals.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
 11 月 16 日，美国商品期货交易委员会[批准 Backpack 成为指定合约市场](https://www.techflowpost.com/en-US/article/35423)，加上此前已获的清算机构注册，它拿齐了交易与清算两张牌照。消息公布后 BP 在 24 小时内涨了 42.48%。
-</description></item>
-<item><title>阿里巴巴发布带网络安全护栏的 Qwen4-Max</title><link>https://daily.terryso.dev/2026-11-17-qwen4-max-cybersecurity-guardrails.html</link><guid>https://daily.terryso.dev/2026-11-17-qwen4-max-cybersecurity-guardrails.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
-[Qwen4-Max](https://www.abijita.com/alibaba-qwen4-max-cybersecurity-guardrails/) 有 2.4 万亿参数，每 token 只激活 710 亿。训练数据按用途做了过滤，只留防御性的网络安全知识。
-</description></item>
-<item><title>Claude Code 派工：搜索交给子代理</title><link>https://daily.terryso.dev/2026-11-17-claude-code-delegation-subagents.html</link><guid>https://daily.terryso.dev/2026-11-17-claude-code-delegation-subagents.html</guid><pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate><description>
-这份[派工指南](https://www.instagram.com/p/DfzXDVVFdqS/)先用 /init 生成 CLAUDE.md，把规则压在 200 行以内。必须遵守的规则再由 /hooks 强制执行。
-</description></item>
-<item><title>GitHub Copilot 今天下线三款模型</title><link>https://daily.terryso.dev/2026-11-16-github-copilot-retires-three-models.html</link><guid>https://daily.terryso.dev/2026-11-16-github-copilot-retires-three-models.html</guid><pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate><description>
-Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra[今天从 GitHub Copilot 下线](https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november?utm_source=pondero.ai&amp;utm_medium=referral&amp;utm_campaign=github-copilot-model-deprecation)。GitHub 建议两款 Opus 换成 Opus 5.5，Terra 换成 GPT-6.1 Sol 或 GPT-6 Luna。
-</description></item>
-<item><title>Anthropic 上市瞄准 1.4 万亿美元估值</title><link>https://daily.terryso.dev/2026-11-16-anthropic-ipo-valuation.html</link><guid>https://daily.terryso.dev/2026-11-16-anthropic-ipo-valuation.html</guid><pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate><description>
-[Anthropic](https://iol.co.za/business/2026-11-15-five-things-to-know-about-anthropic-as-ai-giant-targets-record-breaking-stock-debut/) 把 IPO 定价区间定在每股 70 至 78 美元。股票预计 11 月 19 日在纳斯达克以 ANT 挂牌。
-</description></item>
-<item><title>ChatGPT Wallet 让智能体代下单，卡号不露面</title><link>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</link><guid>https://daily.terryso.dev/2026-11-15-chatgpt-wallet-agent-checkout.html</guid><pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate><description>
-[ChatGPT Wallet](https://www.notebookcheck.net/ChatGPT-Wallet-lets-AI-agents-shop-without-seeing-your-card-number.1450862.0.html) 让 OpenAI 的 dots 智能体替人在线下单或订酒店，结账用的是一次性替身卡号。首批只向美国 18 岁以上、有美国账单地址的 Pro 订阅用户逐步开放。
 </description></item>
 </channel>
 </rss>
