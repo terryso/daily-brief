@@ -2,6 +2,9 @@
 <rss version="2.0">
 <channel>
 <title>每日速览</title><link>https://daily.terryso.dev</link><description>每天瞄一眼的中文科技简报：AI 工具、美股市场与加密市场的新闻摘要、关键数据与编辑点评。</description><language>zh-CN</language>
+<item><title>MSCI 11 月 30 日将 Strategy 移出指数</title><link>https://daily.terryso.dev/2026-11-28-msci-removes-strategy-from-index-nov-30.html</link><guid>https://daily.terryso.dev/2026-11-28-msci-removes-strategy-from-index-nov-30.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
+[现货 ETF](https://coinlab.info/en/) 11 月 27 日流出 3.89 亿美元，是连续第八个流出日。比特币没能站回 6 万美元，周日收盘将决定这是不是连续第八周下跌。
+</description></item>
 <item><title>UGREEN 黑五闪购 11 月 29 日结束</title><link>https://daily.terryso.dev/2026-11-28-ugreen-black-friday-flash-sale-ends-nov-29.html</link><guid>https://daily.terryso.dev/2026-11-28-ugreen-black-friday-flash-sale-ends-nov-29.html</guid><pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate><description>
 UGREEN 黑五闪购里，[Nexode Pro 160W 充电器](https://www.gizmochina.com/2026/11/27/ugreen-black-friday-2026-deals/)现价 $56.99。网络星期一清仓 11 月 30 日至 12 月 2 日接上。
 </description></item>
@@ -148,9 +151,6 @@ GitHub 把 Copilot 的智能体会话从编辑器窗口里解放出来，[Agent 
 </description></item>
 <item><title>比特币七天跌 12%，恐惧指数 12</title><link>https://daily.terryso.dev/2026-11-18-bitcoin-down-12-fear-index-12.html</link><guid>https://daily.terryso.dev/2026-11-18-bitcoin-down-12-fear-index-12.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
 [比特币](https://medium.com/@sbae75/bitcoin-daily-briefing-nov-18-2026-btc-64-927-12-0-0e12884f3d1e)过去 24 小时只涨了 0.1%。美国现货比特币 ETF 在 11 月 13 日净流出 1.855 亿美元。
-</description></item>
-<item><title>黑五前代码冻结：11月19日起停改主题和应用</title><link>https://daily.terryso.dev/2026-11-18-black-friday-code-freeze.html</link><guid>https://daily.terryso.dev/2026-11-18-black-friday-code-freeze.html</guid><pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate><description>
-[代码冻结](https://nxsinfotech.com/ecommerce-code-freeze-black-friday/)从 11 月 19 日前后开始，持续约两周，直到黑五网一订单处理完的 12 月初。在 Shopify 上它只冻主题代码和应用。
 </description></item>
 </channel>
 </rss>
